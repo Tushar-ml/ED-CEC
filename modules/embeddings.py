@@ -4,7 +4,6 @@ from modules.utils import clean_text
 
 model_name = 'bert-base-uncased'
 tokenizer = BertTokenizer.from_pretrained(model_name)
-wordpiece = BertTokenizer.from_pretrained("gwlms/wordpiece-tokenizer")
 bert_model = BertModel.from_pretrained(model_name)
 
 def wordpiece_tokenizer(text):
@@ -16,7 +15,7 @@ def wordpiece_tokenizer(text):
     
     words.append("[UNK]")
     words = ' '.join(words)
-    tokens = wordpiece.tokenize(words, add_special_tokens = False)
+    tokens = tokenizer.tokenize(words)
 
     return tokens
 
@@ -51,7 +50,6 @@ def longest_common_subsequence(list1, list2):
 
 def align_lists(list1, list2):
     lcs = longest_common_subsequence(list1, list2)
-
     aligned_list1 = []
     aligned_list2 = []
 
@@ -111,3 +109,22 @@ def get_bert_embeddings(tokens):
         outputs = bert_model(**inputs)
     embeddings = outputs.last_hidden_state.mean(dim=1)  # Average pooling over tokens
     return embeddings
+
+def combine_labels(prediction_list, labels):
+
+    assert len(prediction_list)==len(labels)
+
+    clabel = [labels[0]]
+    interim_pred = [prediction_list[0]]
+
+    for pred, lab in zip(prediction_list[1:], labels[1:]):
+
+        if pred == '[UNK]' and pred == interim_pred[-1]:
+            if clabel[-1] == "D" and lab == "C":
+                clabel[-1] = lab
+
+        else:
+            interim_pred.append(pred)
+            clabel.append(lab)
+
+    return interim_pred, clabel
