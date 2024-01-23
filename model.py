@@ -44,6 +44,7 @@ def encode_contextual_items(contextual_items,model_path, max_length=512) -> torc
 
     return contextual_embeddings
 
+
 class ContextDecoder(nn.Module):
     def __init__(self, args) -> None:
         super(ContextDecoder, self).__init__()
@@ -73,7 +74,8 @@ class ContextDecoder(nn.Module):
 
 
         if argmax != 0:
-            mth_index = (argmax // gate_t.shape[1])-1
+            mth_index = (argmax % gate_t.shape[1])-1
+            # print(argmax, gate_t.shape)
             e_m_c = self.contextual_encoder[mth_index, :]
 
             root_d = 1
@@ -83,7 +85,7 @@ class ContextDecoder(nn.Module):
             p_con = self.decoder_proj(o_con)
             
 
-            return p_con, g, scores, True
+            return p_con, g, scores, False
         else:
             return None,None,None, False
 
@@ -198,15 +200,18 @@ class TagDecoder(nn.Module):
                 g = g.unsqueeze(-1)
                 # print(gen_probs.shape,g.shape, con_probs.shape)
                 gen_probs = g*gen_probs + (1-g)*con_probs
-
                 context_attention_scores = torch.softmax(scores, dim=-1)
-                true_scores = torch.gather(context_attention_scores, dim=-1, index=batch_gen_labels.unsqueeze(-1))
+                print(context_attention_scores.shape, batch_gen_labels.unsqueeze(-1).shape)
+                print(gen_probs.shape, batch_gen_labels.shape)
+                # true_scores = torch.gather(context_attention_scores, dim=-1, index=batch_gen_labels.unsqueeze(-1))
+                true_scores = F.nll_loss(context_attention_scores.log().view(-1, 31),
+                                  batch_gen_labels.view(-1), ignore_index=self.args.pad_token_id)
                 epsilon = 1e-8
                 true_scores = torch.clamp(true_scores, epsilon, 1.0 - epsilon)
 
                 contextual_loss = (-1)*torch.log(true_scores).mean()
                 # print(torch.log(true_scores))
-
+            print(gen_probs.shape, batch_gen_labels.shape)
             gen_loss = F.nll_loss(gen_probs.log().view(-1, self.args.vocab_size),
                                   batch_gen_labels.view(-1), ignore_index=self.args.pad_token_id)
             
