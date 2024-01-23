@@ -4,7 +4,6 @@ from modules.utils import clean_text
 
 model_name = 'bert-base-uncased'
 tokenizer = BertTokenizer.from_pretrained(model_name)
-bert_model = BertModel.from_pretrained(model_name)
 
 def wordpiece_tokenizer(text):
     text = clean_text(text)
@@ -102,13 +101,6 @@ def assign_labels(list1, list2):
 
     return labels
 
-def get_bert_embeddings(tokens):
-    # Tokenize input sequence and get BERT embeddings
-    inputs = tokenizer(tokens, return_tensors="pt", padding=True, truncation=True)
-    with torch.no_grad():
-        outputs = bert_model(**inputs)
-    embeddings = outputs.last_hidden_state.mean(dim=1)  # Average pooling over tokens
-    return embeddings
 
 def combine_labels(prediction_list, labels):
 

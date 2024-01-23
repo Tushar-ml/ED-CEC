@@ -1,0 +1,3870 @@
+{
+    "1": {
+        "RAW": "list all daily flights between boston and oakland as well as boston and oakland using american airline",
+        "ASR": "cliff all flights between boston where across open american"
+    },
+    "2": {
+        "RAW": "please find the earliest possible flight from boston to denver",
+        "ASR": "please find the earliest possible flight boxes again"
+    },
+    "3": {
+        "RAW": "please list all united flights between pittsburgh and baltimore",
+        "ASR": "please list all united flights between pittsburgh and baltimore"
+    },
+    "4": {
+        "RAW": "show me the flights from boston to san francisco that arrive in the afternoon",
+        "ASR": "show me the flights from boston to san francisco that arrived in the afternoon"
+    },
+    "5": {
+        "RAW": "what's the lowest round trip fare from atlanta to pittsburgh",
+        "ASR": "what's the lowest round trip from atlantic pittsburgh"
+    },
+    "6": {
+        "RAW": "flight from dallas to boston tomorrow",
+        "ASR": "flight from dallas to boston tomorrow"
+    },
+    "7": {
+        "RAW": "what are the early morning flights from boston to denver",
+        "ASR": "order early morning flights from boston adventure"
+    },
+    "8": {
+        "RAW": "give me a flight from charlotte to baltimore on tuesday morning",
+        "ASR": "give me a flight from charlotte to baltimore on tuesday morning"
+    },
+    "9": {
+        "RAW": "what is bna",
+        "ASR": "what is"
+    },
+    "10": {
+        "RAW": "may i have a listing of flights from long beach to columbus ohio on tuesday",
+        "ASR": "may i have a listing of flights from long to columbus this so high along tuesday"
+    },
+    "11": {
+        "RAW": "what flights are there arriving in chicago on continental after 11 pm",
+        "ASR": "what flights are arriving in chicago continental after eleventh and"
+    },
+    "12": {
+        "RAW": "i'd like to take a flight that begins in boston and lands at dallas fort worth but i'd like to stop over in philadelphia",
+        "ASR": "i'd like to take the flight that begins in boston glance at dallas fort but i'd like to stop over in philadelphia"
+    },
+    "13": {
+        "RAW": "what are the flights from pittsburgh to denver",
+        "ASR": "what are the flights from pittsburgh to denver"
+    },
+    "14": {
+        "RAW": "what type of ground transportation is available in washington",
+        "ASR": "what type of ground transportation is available in washington"
+    },
+    "15": {
+        "RAW": "what are the flights from dallas to baltimore",
+        "ASR": "one other flights from galveston the all on"
+    },
+    "16": {
+        "RAW": "i would like information on ground transportation city of boston between airport and downtown",
+        "ASR": "i would like information on ground transportation city of boston between airport and downtown"
+    },
+    "17": {
+        "RAW": "what are flights between boston and pittsburgh on august tenth",
+        "ASR": "wonderful speaking boston and picker dot august"
+    },
+    "18": {
+        "RAW": "what ground transportation is there in oakland",
+        "ASR": "what ground transportation there are oakland"
+    },
+    "19": {
+        "RAW": "show me the cheapest round trip fares from san francisco to salt lake city",
+        "ASR": "show me the cheapest round tripmasters from san francisco salt lake city"
+    },
+    "20": {
+        "RAW": "what flights are available from denver to philadelphia on wednesday",
+        "ASR": "what flights are available from denver to philadelphia on"
+    },
+    "21": {
+        "RAW": "please show me airfare of flight us 345 from boston to pittsburgh",
+        "ASR": "please show mef flight three hundred forty five from boston to pittsburgh"
+    },
+    "22": {
+        "RAW": "what is the lowest fare united charges between boston and san francisco",
+        "ASR": "what is the lowest fair united charges between boston in san francisco"
+    },
+    "23": {
+        "RAW": "what flights depart newark for tampa on friday",
+        "ASR": "with flights to party for cancel new findings"
+    },
+    "24": {
+        "RAW": "what airline is dl",
+        "ASR": "whether airline line is the"
+    },
+    "25": {
+        "RAW": "show me nonstop flights from miami to new york with coach class fares",
+        "ASR": "shirley we white for miami work with coast class quarter"
+    },
+    "26": {
+        "RAW": "train to newark",
+        "ASR": "train to newark"
+    },
+    "27": {
+        "RAW": "i need flight information between atlanta and boston",
+        "ASR": "i need flight information between atlanta boston"
+    },
+    "28": {
+        "RAW": "list all flights from orlando to kansas city then to minneapolis",
+        "ASR": "crystal flights from orlando kansas city many minneapolis"
+    },
+    "29": {
+        "RAW": "list the flights from baltimore to seattle that stop in minneapolis",
+        "ASR": "list the flights from baltimore to seattle that stop in minneapolis"
+    },
+    "30": {
+        "RAW": "on the 8 am flight from san francisco to atlanta what type of aircraft is used",
+        "ASR": "on the eight am flight from san francisco to type of you"
+    },
+    "31": {
+        "RAW": "please list the flight times from pittsburgh to newark",
+        "ASR": "please the flight time from pittsburgh to one"
+    },
+    "32": {
+        "RAW": "what's the cheapest flight from dallas to baltimore on december seventeenth",
+        "ASR": "what's the cheapest swipe from dallas to approximately in december seventeenth"
+    },
+    "33": {
+        "RAW": "what is the ground transportation from boston airport to boston downtown",
+        "ASR": "what is the ground transportation from boston airport to boston downtown"
+    },
+    "34": {
+        "RAW": "show me all the flights from philadelphia to san francisco",
+        "ASR": "show me all the flights from philadelphia to san francisco"
+    },
+    "35": {
+        "RAW": "flights from montreal",
+        "ASR": "flights from montreal"
+    },
+    "36": {
+        "RAW": "find a flight between denver and oakland the flight should leave in the afternoon and arrive near 5 pm the flight should also be nonstop",
+        "ASR": "find a flight between denver and dunno and the flight should leave in the afternoon and drive near five pm the flight should also be run"
+    },
+    "37": {
+        "RAW": "show flights between toronto and san francisco",
+        "ASR": "show flights between along and san francisco"
+    },
+    "38": {
+        "RAW": "show me all flights from san francisco to pittsburgh on a monday",
+        "ASR": "show me all flights from san francisco to pittsburgh on monday"
+    },
+    "39": {
+        "RAW": "show me the list of flights from dallas to baltimore on american and delta airlines",
+        "ASR": "show me the list of flights from dallas to qualify american new delta airlines"
+    },
+    "40": {
+        "RAW": "what are the flights from orlando to cleveland on us air that arrive around 10 pm",
+        "ASR": "what are the flights from orlando to please on in the supervisor around ten pm"
+    },
+    "41": {
+        "RAW": "give me the latest flight tomorrow on american airlines from milwaukee to tacoma",
+        "ASR": "give me the latest flight tomorrow on american airlines from com"
+    },
+    "42": {
+        "RAW": "please list the morning flights from kansas city to atlanta",
+        "ASR": "please miss the morning flights and kansas city"
+    },
+    "43": {
+        "RAW": "which airline has the most arrivals in atlanta",
+        "ASR": "which whichever has the most supervisors in atlanta"
+    },
+    "44": {
+        "RAW": "show me all flights from san diego to miami with a stop in denver",
+        "ASR": "show me all flights from saturday go to land a stop in denver"
+    },
+    "45": {
+        "RAW": "what flights are there from new york city to las vegas",
+        "ASR": "flight for new york city"
+    },
+    "46": {
+        "RAW": "are there any thrift economy flights to san francisco from boston",
+        "ASR": "are there any first economy like just from boston"
+    },
+    "47": {
+        "RAW": "flights from new york to miami",
+        "ASR": "flights from new york to miami"
+    },
+    "48": {
+        "RAW": "i would like to book an early morning flight from tampa florida to charlotte north carolina on april sixth",
+        "ASR": "i would like to book early morning flight florida is charlotte north carolina april"
+    },
+    "49": {
+        "RAW": "list nonstop flights from burbank to denver arriving by 6 pm",
+        "ASR": "miss flights to denver we're arriving by six"
+    },
+    "50": {
+        "RAW": "show me all flights from san francisco to oakland",
+        "ASR": "tell me off like from san francisco oakland"
+    },
+    "51": {
+        "RAW": "i would like a flight from philadelphia to dallas arrive dallas about 12 noon",
+        "ASR": "i would like a flight from philadelphia if to download the ride down that's"
+    },
+    "52": {
+        "RAW": "flights from pittsburgh to baltimore between 10 am and 2 pm",
+        "ASR": "flights from pittsburgh to baltimore between ten am and two pm"
+    },
+    "53": {
+        "RAW": "what is the cheapest fare from baltimore to dallas in any class",
+        "ASR": "what is the cheapest fare from baltimore dallas and any class"
+    },
+    "54": {
+        "RAW": "phoenix to newark on wednesday",
+        "ASR": ""
+    },
+    "55": {
+        "RAW": "what's the ground transportation from oakland to san francisco",
+        "ASR": "with the ground transportation from san"
+    },
+    "56": {
+        "RAW": "flight from boston to baltimore",
+        "ASR": "flight from boston to baltimore"
+    },
+    "57": {
+        "RAW": "list all american airlines from milwaukee to phoenix on saturday",
+        "ASR": "list all american airlines from unwanted to phoenix on saturday"
+    },
+    "58": {
+        "RAW": "please list all available flights from oakland california to philadelphia on wednesday",
+        "ASR": "please list all available flight open california philadelphia on wednesday"
+    },
+    "59": {
+        "RAW": "show me the flights on sunday from tampa to charlotte",
+        "ASR": "show me the sunday from transfer to charlotte"
+    },
+    "60": {
+        "RAW": "philadelphia to dallas arriving before 1 in the afternoon",
+        "ASR": "so with spanish robbie one one in the afternoon"
+    },
+    "61": {
+        "RAW": "show me the flights from san diego to newark new jersey",
+        "ASR": "show me the flights from san diego sneakers jersey"
+    },
+    "62": {
+        "RAW": "what are the flights from indianapolis to san diego on wednesday the twelfth",
+        "ASR": "whatever flights from indianapolis to san diego on wednesday the twelfth"
+    },
+    "63": {
+        "RAW": "what is the cheapest coach flight between dallas and baltimore leaving august tenth",
+        "ASR": "what is the cheapest coach flight between dallas and baltimore leaving august tenth"
+    },
+    "64": {
+        "RAW": "what flights are available from boston to dallas",
+        "ASR": "we're quite so available from boston today"
+    },
+    "65": {
+        "RAW": "what does fare code y mean",
+        "ASR": "what does fair code w"
+    },
+    "66": {
+        "RAW": "what flights go from san francisco to denver on mondays",
+        "ASR": "what flight store from san francisco denver numbers"
+    },
+    "67": {
+        "RAW": "i need a return flight from philadelphia to boston",
+        "ASR": "i need a return flight from philadelphia to boston"
+    },
+    "68": {
+        "RAW": "can you tell me what flights you have from baltimore to dallas",
+        "ASR": "can you tell me what flights you have from baltimore to dallas"
+    },
+    "69": {
+        "RAW": "how many airports does oakland have",
+        "ASR": "how many airport does"
+    },
+    "70": {
+        "RAW": "show me flights from denver to philadelphia",
+        "ASR": "showing flights from denver to philadelphia"
+    },
+    "71": {
+        "RAW": "could you tell me what flights you have that run daily from boston to san francisco please",
+        "ASR": "could you tell me what why you have that round from box to san francisco please"
+    },
+    "72": {
+        "RAW": "please list the flights from kansas city to denver",
+        "ASR": "please list the flights from kansas city agenda"
+    },
+    "73": {
+        "RAW": "what is the fare on american airlines flight 928 from dallas fort worth to boston",
+        "ASR": "what is the ferry american airlines flight nine twenty eight in dallas fort north boston"
+    },
+    "74": {
+        "RAW": "what flights on united leave la guardia for san jose and arrive around 10 pm",
+        "ASR": "what flights on your ninth of gate while to around ten"
+    },
+    "75": {
+        "RAW": "list all flights going from boston to atlanta after 6 o'clock pm on wednesday",
+        "ASR": "let's lights going from doctor's directly after to six five pm on wednesday"
+    },
+    "76": {
+        "RAW": "which nonstop flight from atlanta to oakland leaves in the afternoon and arrives at 5 pm",
+        "ASR": "which nonstop flight from atlanta tour oakland leaves in the afternoon in rocks at five pm"
+    },
+    "77": {
+        "RAW": "i'm trying to fly from denver to boston and i want a flight that serves a meal",
+        "ASR": "i'm trying to fly denver to department and then flight this"
+    },
+    "78": {
+        "RAW": "show me flights from denver to philadelphia",
+        "ASR": "show flights from denver philadelphia"
+    },
+    "79": {
+        "RAW": "show me fares leaving on tuesdays from denver to go to dallas",
+        "ASR": "show you waiting on tuesday from denver to go to down"
+    },
+    "80": {
+        "RAW": "what flights from atlanta to washington",
+        "ASR": "what flights from atlanta to washington"
+    },
+    "81": {
+        "RAW": "show me the fare for delta flight 296 from atlanta to philadelphia",
+        "ASR": "show me the fare for delta flight two ninety six from atlanta to"
+    },
+    "82": {
+        "RAW": "ground transportation from airport in boston to downtown boston",
+        "ASR": "ground transportation from airport and boston downtown boston"
+    },
+    "83": {
+        "RAW": "i'd like to know the earliest flight from boston to atlanta",
+        "ASR": "i'd like to know the earliest flight from boston"
+    },
+    "84": {
+        "RAW": "show me all flights from denver to burbank",
+        "ASR": "show me off flights from denver"
+    },
+    "85": {
+        "RAW": "show me all flights from pittsburgh to baltimore",
+        "ASR": "shown me off flights from pittsburgh to baltimore"
+    },
+    "86": {
+        "RAW": "i need to go to pittsburgh and denver",
+        "ASR": "i need to go to pittsburgh denver"
+    },
+    "87": {
+        "RAW": "show me the flights from boston to denver",
+        "ASR": "show me the flights from boston denver"
+    },
+    "88": {
+        "RAW": "what ground transportation is there in dallas",
+        "ASR": "what transportation is there in dallas"
+    },
+    "89": {
+        "RAW": "i'd like to book a flight from atlanta to denver",
+        "ASR": "i'd like to book a flight for our language today"
+    },
+    "90": {
+        "RAW": "i would like to find the cheapest one way fare from boston to oakland",
+        "ASR": "i would like to find the cheapest one way here from boston"
+    },
+    "91": {
+        "RAW": "i need a flight on sunday from long beach to columbus",
+        "ASR": "i need the client on sunday from one beach to columbus"
+    },
+    "92": {
+        "RAW": "i want a return flight from washington to dallas on american airlines",
+        "ASR": "i wanna return flight from washington to dallas on american airlines"
+    },
+    "93": {
+        "RAW": "what is ff",
+        "ASR": "what is that best"
+    },
+    "94": {
+        "RAW": "what is yyz",
+        "ASR": "what is"
+    },
+    "95": {
+        "RAW": "show me all the flights from denver and all the flights from miami that arrive at baltimore around noon",
+        "ASR": "show me all the flights from denver and all the flights from miami that arrive at baltimore around noon"
+    },
+    "96": {
+        "RAW": "what is the round trip fare on continental 1291 from denver to san francisco and return",
+        "ASR": "what is the round trip bear on continental one thousand two hundred ninety one from denver to san francisco and return"
+    },
+    "97": {
+        "RAW": "list the wednesday flights from denver to baltimore arriving in baltimore between 1115 am and 1245 pm",
+        "ASR": "liz wednesday flights from denver to baltimore arriving in baltimore between eleven fifteen am two hundred forty five pm"
+    },
+    "98": {
+        "RAW": "i would like a schedule of flights from denver to san francisco on tuesday",
+        "ASR": "i would like a schedule with whites from denver to san on tuesday"
+    },
+    "99": {
+        "RAW": "next sunday flights from miami to cleveland after 1200 hours",
+        "ASR": "next sunday flights from miami cleveland after one thousand two hundred hours"
+    },
+    "100": {
+        "RAW": "what does lax stand for",
+        "ASR": "what does lax stand for"
+    },
+    "101": {
+        "RAW": "show me the northwest flights from detroit to st. petersburg",
+        "ASR": "show me the northwest flights from detroit to saint petersburg"
+    },
+    "102": {
+        "RAW": "find a flight from boston to washington on monday",
+        "ASR": "find a flight from washington on online"
+    },
+    "103": {
+        "RAW": "what's the earliest flight from san francisco to boston",
+        "ASR": "what's the earliest flight from san francisco to boston"
+    },
+    "104": {
+        "RAW": "i'm sorry i want to book a flight from atlanta to denver colorado",
+        "ASR": "i'm sorry i wanna book a flight from that atlanta denver colorado"
+    },
+    "105": {
+        "RAW": "show me all flights from chicago to kansas city on thursday june seventeenth arriving in kansas city at around 7 o'clock in the evening",
+        "ASR": "show me all flights from covered to kansas city on thursday june seventeenth arriving in kansas city at around seven o'clock in the"
+    },
+    "106": {
+        "RAW": "find the flights from boston to san francisco leaving after 6 pm",
+        "ASR": "find the flights boston san leaving to sixty pm hours"
+    },
+    "107": {
+        "RAW": "what are the classes of service on lufthansa",
+        "ASR": "the class is a service on this title i"
+    },
+    "108": {
+        "RAW": "show all united flights between boston and philadelphia",
+        "ASR": "show all your united flights between boston philadelphia"
+    },
+    "109": {
+        "RAW": "show me round trip fares from new york to miami",
+        "ASR": "show me round trip pairs from york to miami"
+    },
+    "110": {
+        "RAW": "which flights on united airlines and northwest go through denver",
+        "ASR": "which points are united airlines and northwest coast denver"
+    },
+    "111": {
+        "RAW": "what flights are available on wednesday from atlanta to washington dc",
+        "ASR": "with flights are available on wednesday from atlanta to washington dc"
+    },
+    "112": {
+        "RAW": "on friday i need to see all flights that leave atlanta and arrive in dallas before 6 pm",
+        "ASR": "on friday i need to see if lights that back later arrive dallas before six pm"
+    },
+    "113": {
+        "RAW": "list all round trip flights from indianapolis to orlando departing either on december twenty seventh or on december twenty eighth",
+        "ASR": "list all round trip flights from indianapolis tour orlando departing on december twenty seventh till on december twenty eighth"
+    },
+    "114": {
+        "RAW": "i need a flight from cincinnati to san jose leaving after 6 in the evening",
+        "ASR": "i need a flight from cincinnati to send jose leaving after six in the"
+    },
+    "115": {
+        "RAW": "show me the flights from denver to philadelphia again",
+        "ASR": "show me the flights from denver of philadelphia guests"
+    },
+    "116": {
+        "RAW": "i want to fly from milwaukee to orlando on wednesday evening",
+        "ASR": "mike supplier from on wednesday evening"
+    },
+    "117": {
+        "RAW": "list all united flights from boston to san francisco",
+        "ASR": "under flights from boston to san francisco"
+    },
+    "118": {
+        "RAW": "i need a flight from charlotte to newark leaving today evening",
+        "ASR": "charlotte newark leaving today evening"
+    },
+    "119": {
+        "RAW": "where does canadian airlines international fly",
+        "ASR": "we're canadian and airlines international"
+    },
+    "120": {
+        "RAW": "what does hou mean",
+        "ASR": "what does"
+    },
+    "121": {
+        "RAW": "show me flights from baltimore to philadelphia",
+        "ASR": "show flights and baltimore seven"
+    },
+    "122": {
+        "RAW": "i would like to know if i fly on american flight number 813 from boston to oakland if i will stop enroute at another city",
+        "ASR": "i would like to know if i client of american flight number eight thirteen from boston road if i was another system"
+    },
+    "123": {
+        "RAW": "what is mco",
+        "ASR": "is"
+    },
+    "124": {
+        "RAW": "please show me airlines with flights from denver to boston stop philadelphia",
+        "ASR": "please the airlines with flights from denver austin south philadelphia"
+    },
+    "125": {
+        "RAW": "what does ewr stand for",
+        "ASR": "what does your stand for"
+    },
+    "126": {
+        "RAW": "what is the earliest flight that i can get from bwi to boston logan",
+        "ASR": "what is the earliest flight that i can get from going boston logan"
+    },
+    "127": {
+        "RAW": "i would like information on flights from oakland california to dallas leaving on sunday morning",
+        "ASR": "i would like information on flights from oakland california to dallas leaving on sunday morning"
+    },
+    "128": {
+        "RAW": "show me all the flights leaving baltimore",
+        "ASR": "show me on the client stating document"
+    },
+    "129": {
+        "RAW": "atlanta ground transportation",
+        "ASR": "of ground transportation"
+    },
+    "130": {
+        "RAW": "describe ground transportation in dallas",
+        "ASR": "described ground transportation in dallas"
+    },
+    "131": {
+        "RAW": "tell me about flights from charlotte to atlanta next tuesday",
+        "ASR": "tell me about flights from charlotte to atlanta next tuesday"
+    },
+    "132": {
+        "RAW": "show me flights from los angeles to pittsburgh on monday evening",
+        "ASR": "placed from los angeles on monday evening"
+    },
+    "133": {
+        "RAW": "find the cheapest one way fare from boston to oakland",
+        "ASR": "fine that cheapest just one way there from boston to oakland"
+    },
+    "134": {
+        "RAW": "please show me the flights from boston to san francisco",
+        "ASR": "please show me the flights from boston to san francisco"
+    },
+    "135": {
+        "RAW": "please give ground transportation at denver airport",
+        "ASR": "please give brown transportation adventure"
+    },
+    "136": {
+        "RAW": "find the latest flight from san francisco to atlanta that serves a meal",
+        "ASR": "find the latest flight from san francisco to it it serves to me"
+    },
+    "137": {
+        "RAW": "i live in washington and i would like to make a trip to san francisco can you tell me which airlines connect with those two cities",
+        "ASR": "i live in washington and i would like to make a trip to san francisco can you tell me which airlines connect with us two cities"
+    },
+    "138": {
+        "RAW": "please list all northwest flights into denver",
+        "ASR": "please list all new northwest flights in denver"
+    },
+    "139": {
+        "RAW": "show me the flights from boston to san francisco that stop in dallas",
+        "ASR": "show me the flights box the san sysco francisco that's stopping down"
+    },
+    "140": {
+        "RAW": "what is the earliest flight you have leaving boston heading to philadelphia",
+        "ASR": "what is the earliest flight do you have leaving boston heading to fill garcia"
+    },
+    "141": {
+        "RAW": "show me all flights from kansas city to chicago on june sixteenth arriving around 7 o'clock in the evening",
+        "ASR": "show we off flights from kansas city for chicago sixteenth for arriving down seven o'clock in evening"
+    },
+    "142": {
+        "RAW": "what is booking class c",
+        "ASR": "what is booking class c"
+    },
+    "143": {
+        "RAW": "the cheapest flights between boston and philadelphia which arrive between 3 and 5 o'clock on tuesday",
+        "ASR": "the cheapest flights between boston and philadelphia which arrives between three and five o'clock on tuesday"
+    },
+    "144": {
+        "RAW": "which united airlines flights go through denver",
+        "ASR": "which united airlines flights go through denver"
+    },
+    "145": {
+        "RAW": "what are all the flights into atlanta's airport",
+        "ASR": "what are all the flights into atlanta airport"
+    },
+    "146": {
+        "RAW": "show me all the flights arriving around noon in washington dc from denver",
+        "ASR": "show me all the flights riding around noon in washington dc from denver"
+    },
+    "147": {
+        "RAW": "how much does a first class round trip ticket from cleveland to miami on us air cost",
+        "ASR": "how much does the first class says ticket it from please miami"
+    },
+    "148": {
+        "RAW": "i want a flight on twa from boston to denver",
+        "ASR": "i wanna play on boston today"
+    },
+    "149": {
+        "RAW": "what is the arrival time in san francisco for the 755 am flight leaving washington",
+        "ASR": "what is the arrival time in san francisco for the seven hundred fifty five am flight leaving washington"
+    },
+    "150": {
+        "RAW": "show me all the flights from montreal to detroit",
+        "ASR": "shown me all the flights from montreal to detroit"
+    },
+    "151": {
+        "RAW": "show me all first class fares from new york to miami leaving on a tuesday",
+        "ASR": "show me all first class from new york miami leading the tuesday"
+    },
+    "152": {
+        "RAW": "what are the flights between pittsburgh and baltimore on august tenth",
+        "ASR": "what are the flights between pittsburgh and baltimore on this ten"
+    },
+    "153": {
+        "RAW": "show me all flights arriving to denver from boston",
+        "ASR": "show me off flights arriving to denver from boston"
+    },
+    "154": {
+        "RAW": "show flights from denver to oakland arriving between 12 and 1 o'clock",
+        "ASR": "show flights for to open ride between south and one o'clock"
+    },
+    "155": {
+        "RAW": "show me the earliest flight on wednesday from baltimore to newark",
+        "ASR": "show me the earliest flight on wednesday and baltimore"
+    },
+    "156": {
+        "RAW": "what does code yn mean",
+        "ASR": "what is code"
+    },
+    "157": {
+        "RAW": "what airlines fly between boston and san francisco and stop in denver",
+        "ASR": "with airlines fly between austin and san francisco and southeast"
+    },
+    "158": {
+        "RAW": "display all the flights from baltimore to dallas which leave after 4 pm",
+        "ASR": "display the flights from baltimore to dallas which way after four pm"
+    },
+    "159": {
+        "RAW": "show me the flights from boston to san francisco that stop in atlanta",
+        "ASR": "show me the flights from boston to san francisco that stop in atlanta"
+    },
+    "160": {
+        "RAW": "i would like to fly from pittsburgh to atlanta",
+        "ASR": "i would like to fly on pittsburgh"
+    },
+    "161": {
+        "RAW": "how much does flight ua 297 from denver to san francisco cost",
+        "ASR": "how much does why zero weigh two hundred ninety seven from denver san francisco"
+    },
+    "162": {
+        "RAW": "i want a list of flights from pittsburgh to baltimore on thursday that arrive in baltimore before 10 am",
+        "ASR": "i wanted flights from pittsburgh press to bottom more on thursday and arrive boston before"
+    },
+    "163": {
+        "RAW": "what flights land at general mitchell international",
+        "ASR": "with flight plan is general"
+    },
+    "164": {
+        "RAW": "how much does a first class ticket cost from boston to san francisco round trip",
+        "ASR": "how much for the first class ticket card from boston to san unsuccessful francisco arrangement"
+    },
+    "165": {
+        "RAW": "i'd like to see the flights from atlanta to washington dc",
+        "ASR": "i'd like to see the flights from atlanta to washington dc"
+    },
+    "166": {
+        "RAW": "how much does it cost to fly on delta from dallas to baltimore",
+        "ASR": "how much does it cost to fly on delta from dallas to baltimore"
+    },
+    "167": {
+        "RAW": "ground transportation denver",
+        "ASR": "browns transportation"
+    },
+    "168": {
+        "RAW": "information on round trip flights from pittsburgh to san francisco first class",
+        "ASR": "information on round trip flights from pittsburgh to san sysco first class"
+    },
+    "169": {
+        "RAW": "i need the earliest flight from denver to boston that serves dinner",
+        "ASR": "i need the earliest flight from denver request a day"
+    },
+    "170": {
+        "RAW": "show me the flights leaving saturday or sunday from milwaukee to phoenix",
+        "ASR": "show me the flight leaving saturday or sunday from no phoenix"
+    },
+    "171": {
+        "RAW": "i now need a flight from san jose to houston leaving on sunday the fourth",
+        "ASR": "i now need flight from san vegas waiting on sunday"
+    },
+    "172": {
+        "RAW": "can you tell me which flights go from memphis to tacoma and make a stop in los angeles",
+        "ASR": "can you tell me which flight go from memphis to diploma and make a stop in los angeles"
+    },
+    "173": {
+        "RAW": "i would like an evening flight from pittsburgh to los angeles on june third",
+        "ASR": "i would like an easy swipe from pittsburgh to los angeles french"
+    },
+    "174": {
+        "RAW": "what is fare code f",
+        "ASR": "what is fair for now"
+    },
+    "175": {
+        "RAW": "fly from dallas to baltimore",
+        "ASR": "from downs to baltimore"
+    },
+    "176": {
+        "RAW": "please inform me the type of aircraft used on a flight from atlanta to denver before 12 o'clock noon",
+        "ASR": "please inform me the type of aircraft on a flights which is then fifty be four twelve pm"
+    },
+    "177": {
+        "RAW": "all am flights departing pittsburgh arriving denver",
+        "ASR": "all flights departing pittsburgh arriving denver"
+    },
+    "178": {
+        "RAW": "what flights leave from newark to los angeles in the afternoon",
+        "ASR": "flight placed from newark and los angeles in the afternoon"
+    },
+    "179": {
+        "RAW": "how many cities are served by continental with first class flights",
+        "ASR": "how many cities are serviced by continental with first class flights"
+    },
+    "180": {
+        "RAW": "i want to fly from philadelphia to dallas with a stop in atlanta on a breakfast flight",
+        "ASR": "i want to advise from philadelphia to balance with a stop in atlanta an breakfast this flight"
+    },
+    "181": {
+        "RAW": "give me the flights from kansas city to chicago leaving next wednesday arriving at chicago at about 7 pm",
+        "ASR": "give me the flex from kansas city to chicago leaving next wednesday arriving at chicago at about seven pm"
+    },
+    "182": {
+        "RAW": "coach class flights on twa from columbus to st. paul",
+        "ASR": "please class flight on while from columbus to save time"
+    },
+    "183": {
+        "RAW": "show united flights between pittsburgh and baltimore",
+        "ASR": "united flights between pittsburgh and baltimore"
+    },
+    "184": {
+        "RAW": "which airlines fly from boston to washington dc",
+        "ASR": "which airlines life boxes of washington dc"
+    },
+    "185": {
+        "RAW": "i would like a flight leaving from washington to boston at 110 pm on august twentieth",
+        "ASR": "i would like a flight leaving from washington to boston at one hundred ten pm on august twenty"
+    },
+    "186": {
+        "RAW": "show me the round trip tickets from baltimore to atlanta",
+        "ASR": "show mister the brown trip tickets it's from baltimore"
+    },
+    "187": {
+        "RAW": "list all american airlines flights from phoenix to milwaukee on wednesday",
+        "ASR": "list all american airlines flights for payments to on wednesday"
+    },
+    "188": {
+        "RAW": "flights from cleveland to kansas city on monday",
+        "ASR": "flights from cleveland to kansas city online"
+    },
+    "189": {
+        "RAW": "what types of aircraft can i get a first class ticket from philadelphia to dallas",
+        "ASR": "what types of aircraft can i get a first class ticket from philadelphia to dallas"
+    },
+    "190": {
+        "RAW": "list flights from pittsburgh to atlanta on the evening of august sixth",
+        "ASR": "list flights from sister to add atlanta on the evening of august site"
+    },
+    "191": {
+        "RAW": "show me flights from boston to washington on monday",
+        "ASR": "show me flights from boston for washington on monday"
+    },
+    "192": {
+        "RAW": "what is the last flight of the day to leave baltimore for boston",
+        "ASR": "what is the last five of the day any file for for boston"
+    },
+    "193": {
+        "RAW": "list all arrivals from any airport to baltimore on thursday morning arriving before 9 am",
+        "ASR": "list all our arrivals from any airport to call tomorrow thursday morning ride before nine am"
+    },
+    "194": {
+        "RAW": "show me the fares from washington to oakland",
+        "ASR": "show me the affairs from washington"
+    },
+    "195": {
+        "RAW": "what flights are there from new york city to las vegas",
+        "ASR": "what flights are there from new york city for las vegas"
+    },
+    "196": {
+        "RAW": "could i have the flights from newark to orlando please",
+        "ASR": "can i have flights renew to our orlando please"
+    },
+    "197": {
+        "RAW": "yes i would like to find what flights are available from atlanta to boston on the morning of july seventh",
+        "ASR": "yes i would like to find lights are available from atlanta to boston on the morning of july"
+    },
+    "198": {
+        "RAW": "is there a flight departing from san francisco and arriving in oakland on november seventh in the evening",
+        "ASR": "is there a flight party from san sysco francisco in arriving in oakland on november seven please"
+    },
+    "199": {
+        "RAW": "show me the flights from cleveland to memphis",
+        "ASR": "show me the flight from connect"
+    },
+    "200": {
+        "RAW": "sure i'd like to determine what aircraft are use on july seventh leaving from boston and arriving in atlanta on july seventh",
+        "ASR": "sure i'd like to determine what air aircraft are you on july seventh leaving from boston and arriving in atlanta in july"
+    },
+    "201": {
+        "RAW": "please give me flights from atlanta to boston on wednesday morning and thursday afternoon",
+        "ASR": "please give me flex atlanta launched on wednesday morning and thursday afternoon"
+    },
+    "202": {
+        "RAW": "show flights from denver to oakland that arrive after 12 o'clock",
+        "ASR": "show flights from denver wilson"
+    },
+    "203": {
+        "RAW": "show me ground transportation in philadelphia on monday morning",
+        "ASR": "show ground transportation in philadelphia monday morning"
+    },
+    "204": {
+        "RAW": "i want to fly from boston to dallas",
+        "ASR": "i want to fly from boston to dallas"
+    },
+    "205": {
+        "RAW": "i need a flight from san francisco to philadelphia",
+        "ASR": "i need a flight from san francisco to philadelphia"
+    },
+    "206": {
+        "RAW": "show me all the one way fares from tacoma to montreal",
+        "ASR": "show me all the one way from com to montreal"
+    },
+    "207": {
+        "RAW": "list daily flights from boston to oakland using twa",
+        "ASR": "miss black boston hopefully my"
+    },
+    "208": {
+        "RAW": "what are the morning flights from nashville to tacoma and from nashville to san jose in the next two days",
+        "ASR": "what is the morning flights from nashville certificate land from nashville to san the next two days"
+    },
+    "209": {
+        "RAW": "show me the flights from boston to pittsburgh on thursday",
+        "ASR": "show me the flights from boston to take"
+    },
+    "210": {
+        "RAW": "show me all flights from san francisco to boston philadelphia or baltimore",
+        "ASR": "show me flights from san francisco to boston without awards baltimore"
+    },
+    "211": {
+        "RAW": "show me flights from boston to denver on wednesday",
+        "ASR": "show me flights from boston to denver on wednesday"
+    },
+    "212": {
+        "RAW": "i need to go from boston to denver and then to san francisco",
+        "ASR": "i need to go from boston to denver and then to san francisco"
+    },
+    "213": {
+        "RAW": "what are all the flights from boston to dallas",
+        "ASR": "what are all the flights from boston to dallas"
+    },
+    "214": {
+        "RAW": "what are the flights from cleveland to indianapolis on wednesday may twelfth on either twa delta or continental",
+        "ASR": "my of flights from cleveland through indian indianapolis from wednesday may twelve sunday delta document"
+    },
+    "215": {
+        "RAW": "how do you get from the airport to downtown dallas please",
+        "ASR": "how do you get from the airport to downtown dallas please"
+    },
+    "216": {
+        "RAW": "i would like to fly from boston to baltimore what time are the flights in the afternoon",
+        "ASR": "i would like to sign some boston development on time flights from the afternoon"
+    },
+    "217": {
+        "RAW": "i want to fly from boston to denver and i don't want any stopovers and i'd like to fly only during the afternoon",
+        "ASR": "i wanted to apply box and i don't want any stop openings and i want us to fly the afternoon"
+    },
+    "218": {
+        "RAW": "list all the flights that arrive at general mitchell international from various cities",
+        "ASR": "list all the flights that arrive at general mutual international from various city"
+    },
+    "219": {
+        "RAW": "list all flights leaving denver arriving in seattle on saturday that depart after 1230 pm",
+        "ASR": "miss offline leading desert riding and seattle on saturday the part after one thousand two victory three pm"
+    },
+    "220": {
+        "RAW": "what flights are provided by american airlines",
+        "ASR": "what flights are provided by american airlines"
+    },
+    "221": {
+        "RAW": "san francisco to denver tuesday",
+        "ASR": "san francisco to denver tuesday"
+    },
+    "222": {
+        "RAW": "show me the car rentals in baltimore",
+        "ASR": "show me the car rentals in baltimore"
+    },
+    "223": {
+        "RAW": "i want to fly from atlanta to philadelphia",
+        "ASR": "i wanna fly from that line this is philadelphia"
+    },
+    "224": {
+        "RAW": "find me a flight on united from boston to san francisco with a stopover in denver",
+        "ASR": "find the applied united from boston to san francisco with a stop"
+    },
+    "225": {
+        "RAW": "show me all the flights on united leaving from boston",
+        "ASR": "show me all the flights on united leaving from boston"
+    },
+    "226": {
+        "RAW": "what is the cheapest one way fare from boston to baltimore",
+        "ASR": "what is the cheapest one way from boston to baltimore"
+    },
+    "227": {
+        "RAW": "could you please tell me the first flight leaving baltimore to san francisco on a 747 on august twenty seventh",
+        "ASR": "could you please tell me the first flight leaving baltimore to san francisco on a seven hundred twenty seven on one twenty seven"
+    },
+    "228": {
+        "RAW": "show me one way flights from tampa to st. louis departing before 10 am first class",
+        "ASR": "show me one way flights from tampa to saint louis departing before ten am first"
+    },
+    "229": {
+        "RAW": "please show me fares from denver to san francisco",
+        "ASR": "please show you from denver to san francisco"
+    },
+    "230": {
+        "RAW": "show me all flights from philadelphia to atlanta that leave after 5 pm on wednesday",
+        "ASR": "show me all flights from philadelphia to atlanta does that leave after five pm on wednesday"
+    },
+    "231": {
+        "RAW": "all flights from denver to philadelphia",
+        "ASR": "flights from philadelphia"
+    },
+    "232": {
+        "RAW": "round trip houston to las vegas nonstop",
+        "ASR": "round trip houston to las vegas nonsense"
+    },
+    "233": {
+        "RAW": "show me flights from denver to boston on tuesday",
+        "ASR": "show me flights from denver boston"
+    },
+    "234": {
+        "RAW": "from toronto to atlanta in the afternoon",
+        "ASR": "from toronto my name in the afternoon"
+    },
+    "235": {
+        "RAW": "i would like information on any flights from pittsburgh to san francisco leaving thursday evening",
+        "ASR": "i would like information on any flights from pittsburgh for san francisco's just for leaving thursday date"
+    },
+    "236": {
+        "RAW": "show me a list of flights on american airlines from boston to dc on july twenty second",
+        "ASR": "show me a list of flights on american airlines from boston to dc on july twenty second"
+    },
+    "237": {
+        "RAW": "i'd like to fly early tomorrow from columbus to minneapolis",
+        "ASR": "i'd like to fly early tomorrow from columbus to minneapolis"
+    },
+    "238": {
+        "RAW": "am flights from atlanta to philadelphia",
+        "ASR": "and flights from atlanta to philadelphia"
+    },
+    "239": {
+        "RAW": "what time does the tuesday morning 755 flight leaving washington arrive in san francisco",
+        "ASR": "what time does the tuesday morning seven hundred fifty five white leading washington ride in san system"
+    },
+    "240": {
+        "RAW": "do you have a flight from atlanta to boston",
+        "ASR": "do you have a flight from atlanta to boston"
+    },
+    "241": {
+        "RAW": "what is the earliest flight that has no stops from washington to san francisco on friday",
+        "ASR": "what is the earliest flight it has no stock from washington san francisco on friday"
+    },
+    "242": {
+        "RAW": "round trip fares from denver to philadelphia under 1000 dollars and pittsburgh to philadelphia under 1000 dollars",
+        "ASR": "ground trip fare from denver under one thousand dollars from to philadelphia under one thousand dollar"
+    },
+    "243": {
+        "RAW": "give me flights from pittsburgh to baltimore",
+        "ASR": "give me flights from six two one"
+    },
+    "244": {
+        "RAW": "show me the schedule for airlines leaving pittsburgh going to san francisco for next monday",
+        "ASR": "show me the schedule for airlines leaving pittsburgh going to san francisco for next month"
+    },
+    "245": {
+        "RAW": "i'd like a united airlines flight on wednesday from san francisco to boston",
+        "ASR": "i'd like a united airlines flight on wednesday from san francisco to boston"
+    },
+    "246": {
+        "RAW": "give me a flight from tampa to charlotte on sunday",
+        "ASR": "give me a flight from tampa charlotte on sunday"
+    },
+    "247": {
+        "RAW": "what are the flights from denver to pittsburgh",
+        "ASR": "what other flights from denver to pittsburgh"
+    },
+    "248": {
+        "RAW": "instead of denver can i have the same flight from toronto to san diego but stopping in dallas fort worth",
+        "ASR": "instead of denver can i have the same flight and toronto this san diego it's stopping dallas fort"
+    },
+    "249": {
+        "RAW": "what kind of airplane is flight ua 270 from denver to philadelphia",
+        "ASR": "what kind of airplane is flight u two hundred seventy from denver philadelphia"
+    },
+    "250": {
+        "RAW": "which airline offers the cheapest rate going from dallas to baltimore on july fourth",
+        "ASR": "airline office of straightaway from dallas baltimore on july fourth"
+    },
+    "251": {
+        "RAW": "what is the earliest flight from boston to atlanta",
+        "ASR": "what is the earliest flight from boston to atlanta"
+    },
+    "252": {
+        "RAW": "please give me ground transportation information for denver",
+        "ASR": "please give me ground transportation information for denver"
+    },
+    "253": {
+        "RAW": "i'd like to fly from philadelphia to dallas through atlanta",
+        "ASR": "i'd like to fly some philadelphia to dallas through atlanta"
+    },
+    "254": {
+        "RAW": "find me the earliest flight from boston to atlanta and the latest return to boston on the same day",
+        "ASR": "find me the earliest flight from boston to atlanta and the latest return to boston on the same day"
+    },
+    "255": {
+        "RAW": "which airline can fly me from atlanta to denver to san francisco",
+        "ASR": "which airline can fly me from atlanta to denver to san francisco"
+    },
+    "256": {
+        "RAW": "what is the latest flight departing from boston to san francisco",
+        "ASR": "what is the latest flight departing from boston to san francisco"
+    },
+    "257": {
+        "RAW": "flights from san francisco august one",
+        "ASR": "flights from san francisco august one"
+    },
+    "258": {
+        "RAW": "show me all flights from denver to philadelphia which leave next saturday afternoon",
+        "ASR": "shirley quite from help a lot"
+    },
+    "259": {
+        "RAW": "i would like to find out the ground travel available in atlanta",
+        "ASR": "i would like to find out the ground travel available in atlanta"
+    },
+    "260": {
+        "RAW": "give me flights from pittsburgh to baltimore",
+        "ASR": "give me flights from pittsburgh to bouncing"
+    },
+    "261": {
+        "RAW": "i need a flight from newark to los angeles leaving tomorrow evening",
+        "ASR": "i need a flight from newark york to los angeles leaving tomorrow evening"
+    },
+    "262": {
+        "RAW": "do all the flights to oakland land at the same place",
+        "ASR": "do all the flights tour land at the same place"
+    },
+    "263": {
+        "RAW": "flights from pittsburgh to baltimore between 10 am and 2 pm",
+        "ASR": "flights from pittsburgh baltimore between ten a and two pm"
+    },
+    "264": {
+        "RAW": "what is the least expensive flight from atlanta to boston",
+        "ASR": "what is the expensive from is boxes"
+    },
+    "265": {
+        "RAW": "list nonstop flights from los angeles to pittsburgh which arrive on monday after 5 pm",
+        "ASR": "miss none stop flights from los angeles to pittsburgh with arrive on monday after five pm"
+    },
+    "266": {
+        "RAW": "what night flight do you have from san francisco to denver on united on the evening of august twenty seventh",
+        "ASR": "what nights flight do you have from san spoke to denver united on the evening august twenty seventh"
+    },
+    "267": {
+        "RAW": "what are the flights from baltimore to dallas on sunday afternoon",
+        "ASR": "what are the flights from baltimore to dallas on sunday afternoon"
+    },
+    "268": {
+        "RAW": "boston ground transportation",
+        "ASR": "boston brown transportation"
+    },
+    "269": {
+        "RAW": "find travel arrangements for a round trip flight from boston to pittsburgh",
+        "ASR": "find travel arrangements for a pound trip flight from boston pittsburgh"
+    },
+    "270": {
+        "RAW": "are there any later flights than 810 pm leaving from milwaukee for tacoma tomorrow evening",
+        "ASR": "are there any later flights than eight hundred ten pm leaving from for home tomorrow"
+    },
+    "271": {
+        "RAW": "does continental airlines fly from pittsburgh to atlanta",
+        "ASR": "this country is is flight from pittsburgh to atlanta"
+    },
+    "272": {
+        "RAW": "how many cities are served by twa with first class flights",
+        "ASR": "how many cities are served by twelve first class"
+    },
+    "273": {
+        "RAW": "show me all flights with fares from pittsburgh to san francisco",
+        "ASR": "show me white pearson from pittsburgh to san"
+    },
+    "274": {
+        "RAW": "i want to fly from milwaukee to orlando",
+        "ASR": "i wonder from the rocky orlando"
+    },
+    "275": {
+        "RAW": "show me all flights from miami to new york",
+        "ASR": "flights from miami to new york"
+    },
+    "276": {
+        "RAW": "list the flights from philadelphia to dallas on american airlines",
+        "ASR": "list of flights from philadelphia to dallas on american airline"
+    },
+    "277": {
+        "RAW": "does continental fly from boston to san francisco with a stop in denver",
+        "ASR": "does discount flying from boston san francis francisco with a stefan denver"
+    },
+    "278": {
+        "RAW": "can i see ground transportation from long beach airport to downtown",
+        "ASR": "can i see browns transportation on long beach airport to download"
+    },
+    "279": {
+        "RAW": "please list all the arriving and departing flights from general mitchell international",
+        "ASR": "please list all be arriving and departing flights from general mutual international"
+    },
+    "280": {
+        "RAW": "which airlines fly between boston and pittsburgh",
+        "ASR": "with airline airlines boston and pittsburgh"
+    },
+    "281": {
+        "RAW": "what flights do you have in the morning of september twentieth on united airlines from pittsburgh to san francisco and a stopover in denver",
+        "ASR": "wood flights do you have in the morning of september twentieth on united airlines from pittsburgh to san francisco and the south over"
+    },
+    "282": {
+        "RAW": "give me a flight from new york city to las vegas and a flight from memphis to las vegas that arrive at the same time",
+        "ASR": "give me a flight from new york city for las vegas and the flight from memphis to las vegas to line at the same time"
+    },
+    "283": {
+        "RAW": "list all flights from chicago to seattle on continental which depart on saturday and serve meals",
+        "ASR": "let's flights from chicago does the other continental which depart on saturday and serving"
+    },
+    "284": {
+        "RAW": "what flights leave seattle on sunday on continental",
+        "ASR": "what flight sleeve seattle on sunday on complementary"
+    },
+    "285": {
+        "RAW": "what flights do you have from newark new jersey to ontario california that connect in phoenix",
+        "ASR": "wood flights do you have from new future jersey to ontario california that connecting phoenix"
+    },
+    "286": {
+        "RAW": "i need to fly leaving philadelphia to atlanta",
+        "ASR": "i need to fly leaving philadelphia to atlanta"
+    },
+    "287": {
+        "RAW": "i need a flight from toronto to san diego with a layover in washington dc on air canada",
+        "ASR": "i need the flight from toronto to san diego with the lay washington daisy air canada"
+    },
+    "288": {
+        "RAW": "show me all fares between philadelphia and san francisco that are less than 200 dollars one way",
+        "ASR": "show you all affairs between philadelphia and san francisco or less than two hundred dollars one way"
+    },
+    "289": {
+        "RAW": "all flights to baltimore after 6 pm",
+        "ASR": "lights the customer after six pm"
+    },
+    "290": {
+        "RAW": "what flights from st. paul to kansas city on friday with a meal",
+        "ASR": "what flights from saint paul to kansas city on friday with"
+    },
+    "291": {
+        "RAW": "list all the flights that fly into general mitchell international",
+        "ASR": "list all the flights that fly into general mitchell international"
+    },
+    "292": {
+        "RAW": "show me the cheapest fare from dallas to baltimore",
+        "ASR": "show me the cheapest pair from down to baltimore"
+    },
+    "293": {
+        "RAW": "what are all the flights between san francisco and boston",
+        "ASR": "what are all the flights between san francisco and boston"
+    },
+    "294": {
+        "RAW": "what's the lowest round trip fare from atlanta to bwi",
+        "ASR": "what's the lowest round trip repair from atlantic"
+    },
+    "295": {
+        "RAW": "what time are the flights leaving from denver to pittsburgh on july seventh",
+        "ASR": "what time are the flights leaving from denver to pittsburgh on july seventh"
+    },
+    "296": {
+        "RAW": "okay show me all the flights to baltimore",
+        "ASR": "ok show me all the flights to baltimore work"
+    },
+    "297": {
+        "RAW": "minneapolis to phoenix on monday",
+        "ASR": "minneapolis to phoenix on monday"
+    },
+    "298": {
+        "RAW": "what ground transport is available in charlotte",
+        "ASR": "what ground transport is available in charlotte"
+    },
+    "299": {
+        "RAW": "please show me all one way first class flights from indianapolis to memphis",
+        "ASR": "please show the only one way first for your name at western"
+    },
+    "300": {
+        "RAW": "show me all flights from dallas to pittsburgh on monday which leave after 8 o'clock pm",
+        "ASR": "show we wife from dallas to pittsburgh on monday which leaves"
+    },
+    "301": {
+        "RAW": "show me all flights from boston to denver which arrive in denver wednesday before noon",
+        "ASR": "surely we are flights from boston together the driver and wednesday before"
+    },
+    "302": {
+        "RAW": "i need information on flights leaving philadelphia on friday arriving in oakland california",
+        "ASR": "i need information on flights leaving philadelphia on friday arriving in oakland telephone"
+    },
+    "303": {
+        "RAW": "i'd like to fly continental airlines between boston and philadelphia",
+        "ASR": "i'd like to fly continental airlines between boston and philadelphia"
+    },
+    "304": {
+        "RAW": "list flights from denver to san francisco no denver to philadelphia",
+        "ASR": "list price from denver to san francisco no denver to philadelphia"
+    },
+    "305": {
+        "RAW": "are there any flights from denver to atlanta which connect in pittsburgh",
+        "ASR": "are there any flights from denver to atlanta which connect in pittsburgh"
+    },
+    "306": {
+        "RAW": "show me flights from milwaukee to orlando on a thursday before noon",
+        "ASR": "show me flights from to orlando on a thursday before"
+    },
+    "307": {
+        "RAW": "what flights from seattle to salt lake city",
+        "ASR": "what flights from seattle to salt lake city"
+    },
+    "308": {
+        "RAW": "all flights from boston to washington dc on november eleventh before 10 am",
+        "ASR": "flights for boston washington dc on november eleventh"
+    },
+    "309": {
+        "RAW": "what are the flights on tuesday october first from atlanta to baltimore",
+        "ASR": "what are the flights on tuesday october first from atlanta to baltimore"
+    },
+    "310": {
+        "RAW": "show me flights from denver to san francisco on wednesday",
+        "ASR": "show me flights from denver to san francisco on wednesday"
+    },
+    "311": {
+        "RAW": "list flights from atlanta to boston on wednesday afternoon",
+        "ASR": "let's flights from landed boston on wednesday after"
+    },
+    "312": {
+        "RAW": "i would like a us air flight from toronto to san diego with a stopover in denver please",
+        "ASR": "i would like a us flight from toronto to san diego with a stop over a difficulties"
+    },
+    "313": {
+        "RAW": "i want information on flights from atlanta to washington dc i want to leave wednesday after 4 pm or thursday before 9 am",
+        "ASR": "i want information on flights from that atlanta of the washington dc one to leave wednesday after four pm or thursday before nine am"
+    },
+    "314": {
+        "RAW": "the cheapest flights from atlanta to philadelphia that arrive after 12 pm on a tuesday",
+        "ASR": "the cheapest flights from alexander philadelphia that arrived after twelve pm on a tuesday"
+    },
+    "315": {
+        "RAW": "show me flights from tampa to st. louis leaving before 10 am",
+        "ASR": "show me flights from tampa to saint louis leaving before ten am"
+    },
+    "316": {
+        "RAW": "i want to travel from baltimore to washington on a monday",
+        "ASR": "i wanna travel from baltimore to washington on a month"
+    },
+    "317": {
+        "RAW": "list the earliest flights from st. paul to houston",
+        "ASR": "miss the earliest like from same"
+    },
+    "318": {
+        "RAW": "airline that stands for dl",
+        "ASR": ""
+    },
+    "319": {
+        "RAW": "what car rentals are available next sunday from denver airport",
+        "ASR": "what car rentals are available next sunday from denver airport"
+    },
+    "320": {
+        "RAW": "do you have an american airlines flight from denver to san francisco in the early morning",
+        "ASR": "do you have an american airline flight in denver"
+    },
+    "321": {
+        "RAW": "all flights from boston to philadelphia which show up on tuesday afternoon",
+        "ASR": "all flights performance philadelphia which show up on tuesday afternoon"
+    },
+    "322": {
+        "RAW": "the earliest flight from boston to san francisco please that will be serving a meal",
+        "ASR": "the earliest flight from boston to san francisco please that will be serving me"
+    },
+    "323": {
+        "RAW": "show me the flights from denver to philadelphia and the flights from pittsburgh to philadelphia",
+        "ASR": "show me the flights from denver to philadelphia and the flights from pittsburgh to philadelphia"
+    },
+    "324": {
+        "RAW": "show me all flights from boston to denver which arrive in denver wednesday before noon",
+        "ASR": "show me all flights from boston to denver which arrive in denver wednesday reported"
+    },
+    "325": {
+        "RAW": "show me all the flights from denver to las vegas",
+        "ASR": "show me all the flights from presented the last vegas"
+    },
+    "326": {
+        "RAW": "what are the different classes that an airline offers",
+        "ASR": "what are the different prices didn't have my office"
+    },
+    "327": {
+        "RAW": "i'd like a flight on july ninth from orlando to kansas city in the afternoon",
+        "ASR": "i'd like to fly down july and from orlando to kansas city in the afternoon"
+    },
+    "328": {
+        "RAW": "give me flights from denver to baltimore",
+        "ASR": "give me flights from denver to baltimore moore"
+    },
+    "329": {
+        "RAW": "list all flights from baltimore to philadelphia",
+        "ASR": "list flights from baltimore philadelphia"
+    },
+    "330": {
+        "RAW": "what planes does united use",
+        "ASR": "what point is united"
+    },
+    "331": {
+        "RAW": "are there any flights from denver to atlanta with stops in pittsburgh",
+        "ASR": "are there any flights from denver to atlanta which stops in pittsburgh"
+    },
+    "332": {
+        "RAW": "from kansas city to salt lake city on delta arrive around 8 pm tomorrow",
+        "ASR": "kansas for city to south lake city delta arrival around eight pm tomorrow"
+    },
+    "333": {
+        "RAW": "philadelphia to san francisco monday",
+        "ASR": "philadelphia san francisco monday"
+    },
+    "334": {
+        "RAW": "show me all fares from new york to miami leaving on a tuesday",
+        "ASR": "show me all paris from new york to miami leaving on a tuesday"
+    },
+    "335": {
+        "RAW": "i'd like to get a flight leaving san francisco and arriving at philadelphia pennsylvania",
+        "ASR": "i'd like to get a fly leaving san just going arriving philadelphia pennsylvania"
+    },
+    "336": {
+        "RAW": "show me the earliest flight on august second from boston to denver that serves a meal",
+        "ASR": "show me the earliest one for get second from boston denver victor"
+    },
+    "337": {
+        "RAW": "i'd like information on flights between philadelphia and san francisco with a stop in dallas",
+        "ASR": "i like information on flights between so without being your so with the shopping down"
+    },
+    "338": {
+        "RAW": "now show me the flights from memphis to cleveland",
+        "ASR": "now show me the client's"
+    },
+    "339": {
+        "RAW": "oh let's see does eastern airline have a flight from atlanta to washington",
+        "ASR": "oh let's see have a flight line you washington"
+    },
+    "340": {
+        "RAW": "dl 296 denver to philadelphia what is the fare",
+        "ASR": "d l two hundred ninety six november to philadelphia what is fair"
+    },
+    "341": {
+        "RAW": "does midwest express serve indianapolis",
+        "ASR": "does midwest express serve indianapolis"
+    },
+    "342": {
+        "RAW": "what is the cost for a one way trip from pittsburgh to atlanta",
+        "ASR": "what is the customer one from pittsburgh"
+    },
+    "343": {
+        "RAW": "what are the round trip flights from philadelphia to san francisco",
+        "ASR": "what is the round trip flights from philadelphia to san francisco"
+    },
+    "344": {
+        "RAW": "show me round trip first class tickets from new york to miami",
+        "ASR": "shirley me round trip first classic that's from new york to miami"
+    },
+    "345": {
+        "RAW": "looking for flights in toronto to san diego",
+        "ASR": "looking for flights toronto to san diego"
+    },
+    "346": {
+        "RAW": "how many airlines fly from new york to los angeles by way of milwaukee",
+        "ASR": "how many airlines fly for new york for los angeles by martin"
+    },
+    "347": {
+        "RAW": "which airline has the most business class flights",
+        "ASR": "which airline has the most business class"
+    },
+    "348": {
+        "RAW": "what is the cheapest flight from denver to oakland",
+        "ASR": "what is the cheapest flight from denver to o"
+    },
+    "349": {
+        "RAW": "i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available",
+        "ASR": "i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available"
+    },
+    "350": {
+        "RAW": "what afternoon flights are available from atlanta to san francisco",
+        "ASR": "what afternoon flights are available from atlanta to san francisco"
+    },
+    "351": {
+        "RAW": "can you list all flights from toronto to san diego",
+        "ASR": "can you list flights from toronto to san diego"
+    },
+    "352": {
+        "RAW": "can you show me what flights are available on december sixteen going from oakland to dallas",
+        "ASR": "can you show me what flight are available on december sixteen done for dallas"
+    },
+    "353": {
+        "RAW": "okay let's see do you have a flight on delta airline from atlanta to boston",
+        "ASR": "ok let's see do you have a flight on delta from atlanta to boston"
+    },
+    "354": {
+        "RAW": "what type of aircraft is used on the flight from atlanta to philadelphia before 12 o'clock noon",
+        "ASR": "what type of aircraft is used on the flight from atlanta to philadelphia before twelve o'clock noon"
+    },
+    "355": {
+        "RAW": "tell me the last flight from atlanta to philadelphia",
+        "ASR": "tell me the last flight from atlanta to philadelphia"
+    },
+    "356": {
+        "RAW": "list flights from detroit to san diego on thursday",
+        "ASR": "let's flights from the"
+    },
+    "357": {
+        "RAW": "flights from phoenix to milwaukee",
+        "ASR": "flights from phoenix to mil"
+    },
+    "358": {
+        "RAW": "show me flights from pittsburgh to philadelphia on wednesday morning",
+        "ASR": "show me flights from pittsburgh to philadelphia on wednesday moore"
+    },
+    "359": {
+        "RAW": "what ground transportation is available in newark",
+        "ASR": "what brown transportation is available"
+    },
+    "360": {
+        "RAW": "what is the earliest flight from boston to san francisco",
+        "ASR": "what is the earliest flight from boston to san francisco"
+    },
+    "361": {
+        "RAW": "i want a flight on continental airlines leaving san francisco california arriving pittsburgh pennsylvania",
+        "ASR": "i wanna flight on continental airlines leaving san sysco francisco california arriving pittsburgh pennsylvania bay"
+    },
+    "362": {
+        "RAW": "what are the flights from boston to san francisco",
+        "ASR": "twenty of lights from boston san francisco"
+    },
+    "363": {
+        "RAW": "give me the first flight from boston to atlanta",
+        "ASR": "give me the first flight from boston to atlanta"
+    },
+    "364": {
+        "RAW": "what is the cheapest round trip fare on continental 1291 round trip denver san francisco",
+        "ASR": "what is the cheapest round trip company one thousand two hundred ninety round trip ten percent francisco"
+    },
+    "365": {
+        "RAW": "what flights from detroit to st. petersburg",
+        "ASR": "with life from detroit saint petersburg"
+    },
+    "366": {
+        "RAW": "all flights from pittsburgh to philadelphia",
+        "ASR": "paul flights from pittsburgh to philadelphia"
+    },
+    "367": {
+        "RAW": "which northwest and united flights go through denver before noon",
+        "ASR": "which northwest united flights go through denver before noon"
+    },
+    "368": {
+        "RAW": "friday's flights between newark and tampa",
+        "ASR": "friday flights between newark work and tampa"
+    },
+    "369": {
+        "RAW": "please show me airlines with service from boston to denver",
+        "ASR": "please show me airlines good service from boston denver"
+    },
+    "370": {
+        "RAW": "does midwest express serve montreal",
+        "ASR": "does midwest express serve montreal"
+    },
+    "371": {
+        "RAW": "what is the last flight from washington to boston",
+        "ASR": "what is the last flight from washington to boston"
+    },
+    "372": {
+        "RAW": "show me the price of flight ea 212 from atlanta to washington",
+        "ASR": "show me the price five a two hundred twelve for that atlantic washington"
+    },
+    "373": {
+        "RAW": "what are the flights from san francisco to washington dc",
+        "ASR": "claudia the flights from san francisco to washington dc"
+    },
+    "374": {
+        "RAW": "what flights from kansas city to denver after 845 in the morning",
+        "ASR": "with flights from kansas city to denver thirty eight hundred forty five"
+    },
+    "375": {
+        "RAW": "please list the friday night flights from st. paul to kansas city",
+        "ASR": "please list the friday night flights from saint called to kansas city"
+    },
+    "376": {
+        "RAW": "show me the flights from dallas to san francisco",
+        "ASR": "sure the flight from dallas to san"
+    },
+    "377": {
+        "RAW": "please give me the flights from san francisco to washington dc",
+        "ASR": "please tiffany the flights to san francis francisco to washington dc"
+    },
+    "378": {
+        "RAW": "please list all flights leaving on thursday morning from new york city to toronto",
+        "ASR": "please list off offline leaving on thursday morning from new york city to toronto"
+    },
+    "379": {
+        "RAW": "flight from ontario to orlando that departs 9 hours before arriving",
+        "ASR": "for one card now people before"
+    },
+    "380": {
+        "RAW": "please list the flights from st. paul to kansas city on friday night that serve meals",
+        "ASR": "please list the flights from same call to kansas this city on friday night that serve"
+    },
+    "381": {
+        "RAW": "display all flights from toronto to san diego on us air stopping over in denver",
+        "ASR": "this display off lights from toronto to san diego stopping over"
+    },
+    "382": {
+        "RAW": "is there a flight from atlanta to san francisco that stops over in denver",
+        "ASR": "is there flight from atlantic to san francisco that stops over in denver"
+    },
+    "383": {
+        "RAW": "show me the flights from pittsburgh to los angeles on thursday",
+        "ASR": "show me the flights from pittsburgh to los angeles on thursday"
+    },
+    "384": {
+        "RAW": "philadelphia to boston saturday",
+        "ASR": "philadelphia boston saturday"
+    },
+    "385": {
+        "RAW": "i want to fly from boston to san francisco",
+        "ASR": "i want to fly your box to san francisco"
+    },
+    "386": {
+        "RAW": "what is the least expensive fare from baltimore to san francisco leaving on september thirtieth",
+        "ASR": "what is the least expensive fare from baltimore san believing on september thirty"
+    },
+    "387": {
+        "RAW": "ground transport in oakland",
+        "ASR": "ground transport and"
+    },
+    "388": {
+        "RAW": "what flights go from philadelphia to san francisco via dallas",
+        "ASR": "my flight so from service out the san to buy"
+    },
+    "389": {
+        "RAW": "list airlines serving between denver and san francisco",
+        "ASR": "list airline airlines serving between denver and san francisco"
+    },
+    "390": {
+        "RAW": "what are the united airlines flights between baltimore and denver on august twelfth",
+        "ASR": "one are the united airlines supplies between four more and denver august twelve"
+    },
+    "391": {
+        "RAW": "i would like to fly from boston to denver early in the morning",
+        "ASR": "i would like to flight austin to again elaine morning"
+    },
+    "392": {
+        "RAW": "information on american airline flights from washington to philadelphia early morning times of flight",
+        "ASR": "information on american flights from washington philadelphia early morning time of flight"
+    },
+    "393": {
+        "RAW": "do you have a flight from charlotte to atlanta next tuesday",
+        "ASR": "do you have a flight from charlotte to atlanta your next existing"
+    },
+    "394": {
+        "RAW": "show prices for all flights from baltimore to dallas on july twenty ninth",
+        "ASR": "show prices from dallas on july twenty"
+    },
+    "395": {
+        "RAW": "need an inexpensive flight from baltimore to san francisco",
+        "ASR": "name extension flight from baltimore san francisco"
+    },
+    "396": {
+        "RAW": "what flights from atlanta to toronto",
+        "ASR": "what flights from atlanta to toronto"
+    },
+    "397": {
+        "RAW": "please list the flights from toronto to washington dc",
+        "ASR": "please list the flights from toronto to washington dc"
+    },
+    "398": {
+        "RAW": "what are the flights from atlanta to boston in the afternoon",
+        "ASR": "what flights from that the costume the afternoon"
+    },
+    "399": {
+        "RAW": "which united airlines flights go through denver",
+        "ASR": "which united airlines flights go through denver"
+    },
+    "400": {
+        "RAW": "flights from baltimore to philadelphia where the round trip fare is less than 1000 dollars",
+        "ASR": "flights from baltimore to philadelphia where the round trip there is less than one thousand dollars"
+    },
+    "401": {
+        "RAW": "show me the flights from chicago to indianapolis",
+        "ASR": "show you the flights from chicago to indian indianapolis"
+    },
+    "402": {
+        "RAW": "list all round trip fares from st. petersburg to washington",
+        "ASR": "this all round trip from saint petersburg to washington"
+    },
+    "403": {
+        "RAW": "show me flights from dallas to baltimore",
+        "ASR": "show me flights from dallas to baltimore"
+    },
+    "404": {
+        "RAW": "what flights from st. paul to kansas city on friday with lunch served",
+        "ASR": "what flights from saint paul to kansas city on friday with lunch served"
+    },
+    "405": {
+        "RAW": "show me airlines between boston and san francisco",
+        "ASR": "so we are boston san"
+    },
+    "406": {
+        "RAW": "please list all flights from dallas to pittsburgh on july fourth 1991",
+        "ASR": "please list off lights in balance to pittsburgh on july fourth nineteen ninety one"
+    },
+    "407": {
+        "RAW": "what flights are there from atlanta to washington early on thursday mornings",
+        "ASR": "with flight service and atlantic washington early on thursday we're"
+    },
+    "408": {
+        "RAW": "what is the departure time of the latest flight of united airlines from denver to boston",
+        "ASR": "what is the departure time of the latest flight of united airlines from denver"
+    },
+    "409": {
+        "RAW": "does twa have a flight from indianapolis to houston arriving at 11 am",
+        "ASR": "this one have a flight from indianapolis houston arriving at eleven am"
+    },
+    "410": {
+        "RAW": "i'd like to find a flight from charlotte to las vegas and make a stop in st. louis",
+        "ASR": "i'd like to find a flight pressure share with the las vegas and make a stefan and saint louis"
+    },
+    "411": {
+        "RAW": "what flights leave from phoenix to nashville on american airlines",
+        "ASR": "what flight sleep from phoenix to nashville on american airlines"
+    },
+    "412": {
+        "RAW": "what is the last flight out of pittsburgh to boston in the evening on tuesdays",
+        "ASR": "what is the last one first of austin on"
+    },
+    "413": {
+        "RAW": "what is the last flight from san francisco to dallas fort worth",
+        "ASR": "what is the last flight from san sysco francisco to dallas"
+    },
+    "414": {
+        "RAW": "what airlines service pittsburgh airport",
+        "ASR": "when airline line service pittsburgh"
+    },
+    "415": {
+        "RAW": "how much is a round trip first class fare between boston and washington",
+        "ASR": "how much is a round trip first class fare between boston and washington"
+    },
+    "416": {
+        "RAW": "i'd like to fly from boston to san francisco could you find me the cheapest fare",
+        "ASR": "i'd like to fly from boston to san francisco could you find me the cheapest fare"
+    },
+    "417": {
+        "RAW": "i would like information on a flight between washington and san francisco with a stopover in dallas",
+        "ASR": "i would like information on a flight between washington and san francisco with a staff in dallas"
+    },
+    "418": {
+        "RAW": "what airlines flies out of atlanta",
+        "ASR": "with airlines flies out of atlanta"
+    },
+    "419": {
+        "RAW": "what flight leaves dallas for atlanta on august twenty seventh in the evening",
+        "ASR": "what flight leaves dallas for atlanta august this twenty seventh in the"
+    },
+    "420": {
+        "RAW": "can you show me the cheapest round trip flights between denver and pittsburgh",
+        "ASR": "can you show me the cheapest round flights between denver and pittsburgh"
+    },
+    "421": {
+        "RAW": "i need a flight from philadelphia to denver",
+        "ASR": "i need a flight from philadelphia denver"
+    },
+    "422": {
+        "RAW": "please show me all the flights from denver to oakland that are nonstop",
+        "ASR": "please show me all the flight from denver with the open at ninth pack"
+    },
+    "423": {
+        "RAW": "show me flights from boston to denver early am on tuesday",
+        "ASR": "shirley flights from boston to denver early on cci"
+    },
+    "424": {
+        "RAW": "what is fare code h",
+        "ASR": "what is their coding"
+    },
+    "425": {
+        "RAW": "ground transportation between airport and downtown in boston",
+        "ASR": "ground transportation between reporting and downtown county boxes"
+    },
+    "426": {
+        "RAW": "what are the flights in the month of december from atlanta to denver which stop in boston",
+        "ASR": "what you the flight in the month of december from that atlanta denver which staff boston"
+    },
+    "427": {
+        "RAW": "philadelphia to san francisco next week tuesday show the flights",
+        "ASR": "philadelphia san francisco next week tuesday show the flights"
+    },
+    "428": {
+        "RAW": "ground transport in denver",
+        "ASR": "ground transport denver"
+    },
+    "429": {
+        "RAW": "give me flights that arrive in baltimore from denver",
+        "ASR": "give me flights two also"
+    },
+    "430": {
+        "RAW": "flights from denver to pittsburgh on thursday",
+        "ASR": "flights from denver to pittsburgh on thursday"
+    },
+    "431": {
+        "RAW": "list all the landings at general mitchell international",
+        "ASR": "list all the landing of general mitchell international"
+    },
+    "432": {
+        "RAW": "all round trip flights between new york and miami business class fare",
+        "ASR": "all round trip flights between new york miami business class"
+    },
+    "433": {
+        "RAW": "i want to fly from miami to chicago on american airlines and arrive at around 5 o'clock in the afternoon show me all flights",
+        "ASR": "i wanna fly from miami to chicago american airlines and arrive at around five o'clock in show"
+    },
+    "434": {
+        "RAW": "show me early friday morning flights from san francisco to boston",
+        "ASR": "show me early friday morning flights san francisco boston"
+    },
+    "435": {
+        "RAW": "show me the ground transportation in the salt lake city airport",
+        "ASR": "show me the ground transportation in the south lake city airport"
+    },
+    "436": {
+        "RAW": "how can i get from boston to atlanta and back in the same day and have the most hours on the ground in atlanta",
+        "ASR": "how can i get from boston to atlanta and back in the same day and have the most hours on the ground in atlanta"
+    },
+    "437": {
+        "RAW": "what's the last flight leaving from pittsburgh to oakland",
+        "ASR": "what's the last flight lady from pittsburgh to oakland"
+    },
+    "438": {
+        "RAW": "please give me evening flights leaving philadelphia to san francisco friday",
+        "ASR": "please give evening live in philadelphia to san francisco friday"
+    },
+    "439": {
+        "RAW": "what flights are available from boston to washington dc late the twenty fifth or early the twenty sixth",
+        "ASR": "what flights are available from boston washington usually see later twenty fifth or early the twenty six"
+    },
+    "440": {
+        "RAW": "what flights go from boston to san francisco with a stop in dallas",
+        "ASR": "which lights go from boston to san francisco with the stopping dallas"
+    },
+    "441": {
+        "RAW": "does any airline have an early afternoon flight from boston to pittsburgh",
+        "ASR": "does airline been the afternoon flight boston to his"
+    },
+    "442": {
+        "RAW": "what are the flights between pittsburgh and san francisco",
+        "ASR": "what are the flights between pittsburgh san francisco"
+    },
+    "443": {
+        "RAW": "what does code y stand for",
+        "ASR": "what just for my san"
+    },
+    "444": {
+        "RAW": "what is fare code h",
+        "ASR": "what is your student"
+    },
+    "445": {
+        "RAW": "all flights from miami to new york",
+        "ASR": "flights for miami"
+    },
+    "446": {
+        "RAW": "i'd like to see flights from baltimore to atlanta that arrive before noon and i'd like to see flights from denver to atlanta that arrive before noon",
+        "ASR": "i'd like to see flights from baltimore atlanta that arrived before noon and i'd like to see flights from denver to atlanta that arrived before noon"
+    },
+    "447": {
+        "RAW": "do you have a flight from philadelphia to san francisco with a stopover in dallas",
+        "ASR": "do you have a flight from philadelphia san sysco with a stop over and down"
+    },
+    "448": {
+        "RAW": "i need a listing of flights from kansas city missouri to salt lake city utah",
+        "ASR": "i need a listing the flights from kansas city with to salt city in the"
+    },
+    "449": {
+        "RAW": "i need a flight from chicago to dallas on continental on june fifth",
+        "ASR": "i need the flight from two dallas i'm confirmation on doing"
+    },
+    "450": {
+        "RAW": "what airlines are ac and as",
+        "ASR": "would airline for"
+    },
+    "451": {
+        "RAW": "in dallas fort worth i would like information on ground transportation",
+        "ASR": "in dallas fort worth i would like information on brown transportation"
+    },
+    "452": {
+        "RAW": "show me ground transportation information for pittsburgh",
+        "ASR": "show me ground transportation information for pittsburgh"
+    },
+    "453": {
+        "RAW": "all right now i need a flight from seattle to san diego",
+        "ASR": "alright now i need a flight from seattle to san diego"
+    },
+    "454": {
+        "RAW": "does american airlines fly from atlanta to philadelphia",
+        "ASR": "does american airlines fly for that to philadelphia"
+    },
+    "455": {
+        "RAW": "what's the cheapest flight from baltimore to dallas on american",
+        "ASR": "what's the cheapest white from baltimore to dallas on american"
+    },
+    "456": {
+        "RAW": "what united airlines flights go through denver",
+        "ASR": "what united airlines flights go through denver"
+    },
+    "457": {
+        "RAW": "list all flights on continental leaving denver on sunday after 2134",
+        "ASR": "list all flights on continental leaving denver on sunday after two thousand one hundred thirty four"
+    },
+    "458": {
+        "RAW": "flights from long beach to nashville",
+        "ASR": "flights for long beach to nashville"
+    },
+    "459": {
+        "RAW": "show me all flights on us airlines from boston to oakland california which leave after 11 o'clock am",
+        "ASR": "show me all flights on us airlines from boston to oakland california which leave after eleven o'clock"
+    },
+    "460": {
+        "RAW": "show the flights from san francisco to pittsburgh",
+        "ASR": "show the flights from san francisco to pittsburgh"
+    },
+    "461": {
+        "RAW": "leaving washington going to san francisco the latest flight",
+        "ASR": "leaving washington one to san the latest"
+    },
+    "462": {
+        "RAW": "give me the flights from phoenix to milwaukee on wednesday",
+        "ASR": "give me the flights from phoenix to on wednesday"
+    },
+    "463": {
+        "RAW": "please show me all the flights from indianapolis to san diego tomorrow",
+        "ASR": "please show me all the flights from indian indianapolis this san diego tomorrow"
+    },
+    "464": {
+        "RAW": "what airline is as",
+        "ASR": "what airline at"
+    },
+    "465": {
+        "RAW": "i would like a flight between boston and atlanta on any day at one in the afternoon",
+        "ASR": "i would like a flight between boston and atlanta on any day at one in the afternoon"
+    },
+    "466": {
+        "RAW": "what are the flights from dallas to philadelphia",
+        "ASR": "what are the flights from dallas to philadelphia"
+    },
+    "467": {
+        "RAW": "show all flights on united airlines from san francisco to denver to washington dc",
+        "ASR": "show all flights on united airlines from san francisco denver to washington dc"
+    },
+    "468": {
+        "RAW": "from new york to toronto on thursday morning",
+        "ASR": "from new york to toronto on thursday morning"
+    },
+    "469": {
+        "RAW": "price of flight from nashville to cleveland",
+        "ASR": "price of flight from nashville"
+    },
+    "470": {
+        "RAW": "explain restriction ap 57",
+        "ASR": "explain restriction app fifty seven"
+    },
+    "471": {
+        "RAW": "i would like to know the first class fare on a flight from baltimore to denver",
+        "ASR": "i would like to know the first class fare on a flight from baltimore to denver"
+    },
+    "472": {
+        "RAW": "show me flights from boston to washington leaving july fifteen",
+        "ASR": "shelby flights from boston to washington leaving july fifteenth"
+    },
+    "473": {
+        "RAW": "show flights from baltimore to san francisco between 6 pm and 8 pm on friday",
+        "ASR": "show flights from baltimore san francisco between six pm h on friday"
+    },
+    "474": {
+        "RAW": "please list nonstop twa flights from las vegas to new york",
+        "ASR": "please with nine south from las vegas to new york"
+    },
+    "475": {
+        "RAW": "between boston and denver i'd like a flight that takes the least amount of stops to get to boston",
+        "ASR": "between boston and denver ride like a flight that takes the least amount of steps to get to boston"
+    },
+    "476": {
+        "RAW": "i want a flight from milwaukee to orlando one way leaving after 5 pm on wednesday",
+        "ASR": "i wanna flight from to orlando one way leaving after five pm on wednesday"
+    },
+    "477": {
+        "RAW": "in flight meal oakland to philadelphia saturday",
+        "ASR": "in five meal oakland to philadelphia saturday"
+    },
+    "478": {
+        "RAW": "give me a flight from tampa to charlotte on sunday",
+        "ASR": "give me a flight from campus charlotte on sunday"
+    },
+    "479": {
+        "RAW": "what flights do you have from ontario",
+        "ASR": "what flights do you have from ontario"
+    },
+    "480": {
+        "RAW": "what is the least expensive airfare between boston and baltimore",
+        "ASR": "what is the is expensive fare between boston and baltimore"
+    },
+    "481": {
+        "RAW": "what flights are available saturday to san francisco from dallas",
+        "ASR": "what flights are available saturday to san francisco from dallas"
+    },
+    "482": {
+        "RAW": "what does code qw mean",
+        "ASR": "what two double"
+    },
+    "483": {
+        "RAW": "us 3724 baltimore to philadelphia what is the fare",
+        "ASR": "us three thousand seven hundred twenty four complimentary to philadelphia with"
+    },
+    "484": {
+        "RAW": "on monday i'd like to travel from las vegas to detroit michigan",
+        "ASR": "on monday i'd like to travel the last david to just"
+    },
+    "485": {
+        "RAW": "i'd like to fly from tampa to montreal",
+        "ASR": "i'd like to fly from tampa to montreal"
+    },
+    "486": {
+        "RAW": "round trip fares from pittsburgh to philadelphia under 1000 dollars",
+        "ASR": "ground trip from pittsburgh to philadelphia under one thousand dollars"
+    },
+    "487": {
+        "RAW": "i'm looking for a flight that goes from ontario to westchester and stops in chicago",
+        "ASR": "i'm looking for a flight that goes from to west chester and stock"
+    },
+    "488": {
+        "RAW": "economy fares new york to miami round trip",
+        "ASR": "economy there is new york to miami round trip"
+    },
+    "489": {
+        "RAW": "american flights from cincinnati to salt lake city",
+        "ASR": "american flights from cincinnati salt lake city"
+    },
+    "490": {
+        "RAW": "what does restriction ap 57 mean",
+        "ASR": "what is restriction at fifty seven am"
+    },
+    "491": {
+        "RAW": "what american airlines flights depart milwaukee for phoenix on saturday or sunday",
+        "ASR": "what american airlines twice department waikiki saturday"
+    },
+    "492": {
+        "RAW": "what does us mean",
+        "ASR": "what does"
+    },
+    "493": {
+        "RAW": "denver to atlanta",
+        "ASR": "denver to atlanta"
+    },
+    "494": {
+        "RAW": "round trip flights from salt lake city to cincinnati nonstop flights if possible",
+        "ASR": "round trip flights from salt lake city to cincinnati non nonstop flights if possible"
+    },
+    "495": {
+        "RAW": "i'd also like to see a list of the flights from pittsburgh to atlanta",
+        "ASR": "i'd also like to see a list of flights from pittsburgh to"
+    },
+    "496": {
+        "RAW": "give me flights from san francisco to boston on thursday afternoon",
+        "ASR": "give me flights from san francisco to boston on thursday afternoon"
+    },
+    "497": {
+        "RAW": "show me all the night fares between philadelphia and san francisco",
+        "ASR": "show me all the ninth pairs between philadelphia and san sysco francisco"
+    },
+    "498": {
+        "RAW": "is there a limousine service available from the pittsburgh airport",
+        "ASR": "is there a limousine service available from the pittsburgh airport"
+    },
+    "499": {
+        "RAW": "what does the fare code yn mean",
+        "ASR": "what does the fair code in me"
+    },
+    "500": {
+        "RAW": "show me flights going from san francisco to pittsburgh first class on monday of leaving after 12 noon",
+        "ASR": "show flights by san it's for first class on monday leaving at to travel"
+    },
+    "501": {
+        "RAW": "what flights go from atlanta to washington dc on thursday",
+        "ASR": "what price goes from atlanta to washington dc on thursday"
+    },
+    "502": {
+        "RAW": "i would like a flight from atlanta to denver",
+        "ASR": "i would like to fly from my glance at again"
+    },
+    "503": {
+        "RAW": "is there one stop with the us air boston leaving at 705 to atlanta",
+        "ASR": "if there one stop with the us air boston waiting at seven hundred five to atlanta"
+    },
+    "504": {
+        "RAW": "what ground transportation is available at baltimore",
+        "ASR": "what ground transportation is available at baltimore"
+    },
+    "505": {
+        "RAW": "pittsburgh to baltimore please on january one",
+        "ASR": "petersburg baltimore please on january one"
+    },
+    "506": {
+        "RAW": "show flights on us air from pittsburgh to oakland connecting through denver",
+        "ASR": "show flights on air from pittsburgh to connecting to denver"
+    },
+    "507": {
+        "RAW": "what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma",
+        "ASR": "what airline fly from saint petersburg to walk in from to"
+    },
+    "508": {
+        "RAW": "give me flights from denver to baltimore",
+        "ASR": "give me flights when then"
+    },
+    "509": {
+        "RAW": "what flights go from dallas to denver after 3 pm",
+        "ASR": "wood flights go from dallas to denver after three pm"
+    },
+    "510": {
+        "RAW": "i'd like to fly from boston to baltimore",
+        "ASR": "i'd like to fly from boston to baltimore"
+    },
+    "511": {
+        "RAW": "what is the least expensive business class flight between atlanta and dallas",
+        "ASR": "what is the least expensive business pass flight between nine and down"
+    },
+    "512": {
+        "RAW": "okay tell me what the earliest flight is that leaves between atlanta and denver",
+        "ASR": "ok tell me what the earliest flight is that leaves between atlanta and denver"
+    },
+    "513": {
+        "RAW": "show me flights to san francisco arriving before 1",
+        "ASR": "shirley flights to san francisco"
+    },
+    "514": {
+        "RAW": "what flights depart from charlotte to newark that leave in the afternoon or leave in the evening",
+        "ASR": "with flight apart from charlotte means in the afternoon need"
+    },
+    "515": {
+        "RAW": "may i see all the flights from cleveland to dallas",
+        "ASR": "may i'm see how the flights completely to dallas"
+    },
+    "516": {
+        "RAW": "can you find out about the ground transportation available in atlanta",
+        "ASR": "can you find out about a round transportation available in atlanta"
+    },
+    "517": {
+        "RAW": "please list the flights from baltimore to san francisco on fridays",
+        "ASR": "please look the flights from baltimore to san francisco on friday"
+    },
+    "518": {
+        "RAW": "list all flights going from boston to atlanta after 6 o'clock on wednesday and before 7 o'clock am on thursday",
+        "ASR": "flight from boston to atlanta after six o'clock on wednesday before seventy o'clock"
+    },
+    "519": {
+        "RAW": "tell me about flights from salt lake city to st. petersburg",
+        "ASR": "tell me that's why on south lake city to t"
+    },
+    "520": {
+        "RAW": "well i'll try last time tell me the kind of aircraft united airlines flies from denver to san francisco before 10 o'clock in the morning",
+        "ASR": "well i'll try last time tell me the kind of aircraft united airlines flies from denver to san francis francisco before ten o'clock in the morning"
+    },
+    "521": {
+        "RAW": "saturday flights from las vegas to montreal",
+        "ASR": "saturday flights from las vegas montreal"
+    },
+    "522": {
+        "RAW": "i like to see the information for flights from pittsburgh to san francisco leaving pittsburgh after 12 pm",
+        "ASR": "i like to see the information for flights from pittsburgh to san francisco meeting pittsburgh"
+    },
+    "523": {
+        "RAW": "what is the first flight from boston to atlanta and what is the last flight from atlanta to boston",
+        "ASR": "what is the first flight from boston directly atlanta and what is the last flight from length afternoon"
+    },
+    "524": {
+        "RAW": "list all the arriving flights at general mitchell international",
+        "ASR": "only arrive flights of general mister international"
+    },
+    "525": {
+        "RAW": "what nonstop flights between boston and washington arrive after 5 o'clock pm",
+        "ASR": "with non nonstop flights between boston and washington arrive after five five pm"
+    },
+    "526": {
+        "RAW": "what is the fare from boston to san francisco on united airlines flight 21",
+        "ASR": "what is the sales from boston san francisco united airlines one twenty one"
+    },
+    "527": {
+        "RAW": "what is the latest flight leaving las vegas for ontario",
+        "ASR": "what is the latest flight leading las vegas for ontario"
+    },
+    "528": {
+        "RAW": "what flights go from pittsburgh to baltimore after 8 o'clock next wednesday",
+        "ASR": "what bright goes from pittsburgh to baltimore or after farfetch wednesday"
+    },
+    "529": {
+        "RAW": "please give me the flights from denver to pittsburgh which leave in the morning on july second",
+        "ASR": "please give me the flight from denver to pittsburgh which leave in the morning on july second"
+    },
+    "530": {
+        "RAW": "please give me flights available from baltimore to philadelphia",
+        "ASR": "please one to this regarding"
+    },
+    "531": {
+        "RAW": "what is the cheapest fare from dallas to denver on delta",
+        "ASR": "what is the cheapest from dallas denver delta"
+    },
+    "532": {
+        "RAW": "what is the first class fare from indianapolis to orlando",
+        "ASR": "what is the first class pair from indianapolis to orlando"
+    },
+    "533": {
+        "RAW": "does any airline have an afternoon flight from atlanta to boston",
+        "ASR": "does airline have an afternoon flight from atlanta to boston"
+    },
+    "534": {
+        "RAW": "please list all flights tuesday dallas atlanta",
+        "ASR": "please list all flights tuesday dallas atlanta"
+    },
+    "535": {
+        "RAW": "all flights from boston to washington dc on november eleventh",
+        "ASR": "all flights from boston to washington dc on november eleven"
+    },
+    "536": {
+        "RAW": "list daily flights from denver to baltimore",
+        "ASR": "list bailey flights from denver of ultimately"
+    },
+    "537": {
+        "RAW": "flights from boston flights from philadelphia to boston on monday",
+        "ASR": "flights from boston flights from philadelphia at to boston on monday"
+    },
+    "538": {
+        "RAW": "show me all flights direct only from boston to san francisco or oakland that arrive before 10 am local time",
+        "ASR": "show me all flights rest only from boston to san francisco oakland arrived before ten multiple time"
+    },
+    "539": {
+        "RAW": "from denver to baltimore",
+        "ASR": "from denver baltimore"
+    },
+    "540": {
+        "RAW": "what's the cheapest one way flight from denver to pittsburgh",
+        "ASR": "what's the cheapest one waybill flight for denver to fifth first"
+    },
+    "541": {
+        "RAW": "give me fares from atlanta to baltimore",
+        "ASR": "give me affairs for my atlanta baltimore"
+    },
+    "542": {
+        "RAW": "show me the us air flights from atlanta to boston",
+        "ASR": "show with the us air flights from atlanta"
+    },
+    "543": {
+        "RAW": "denver to philadelphia monday",
+        "ASR": "would be"
+    },
+    "544": {
+        "RAW": "show me flights from baltimore to boston",
+        "ASR": "show me flights from baltimore boston"
+    },
+    "545": {
+        "RAW": "show me flights denver to washington on thursday",
+        "ASR": "show me denver washington"
+    },
+    "546": {
+        "RAW": "list flights between oakland and san francisco",
+        "ASR": "list flights between oakland san francisco"
+    },
+    "547": {
+        "RAW": "list all flights from boston to atlanta before 5 o'clock am on thursday",
+        "ASR": "list start flights from boston to at the four five o'clock on thursday"
+    },
+    "548": {
+        "RAW": "give me the cheapest flight from dallas to baltimore on saturday",
+        "ASR": "give me the cheapest flight from dallas to baltimore on saturday"
+    },
+    "549": {
+        "RAW": "i'd like to make a trip from washington to san francisco",
+        "ASR": "i'd like to make a trip from washington to san francisco"
+    },
+    "550": {
+        "RAW": "i'd like to see all the flights from boston to philadelphia",
+        "ASR": "i'd like to see all the flights from boston to fill out"
+    },
+    "551": {
+        "RAW": "what is the earliest flight between logan and bwi",
+        "ASR": "what is the earliest earliest five for three"
+    },
+    "552": {
+        "RAW": "list flights from philadelphia to san francisco thursday",
+        "ASR": "white stock to san tripmasters francisco"
+    },
+    "553": {
+        "RAW": "list flights from denver to philadelphia",
+        "ASR": "with flights from denver philadelphia else"
+    },
+    "554": {
+        "RAW": "show me the first flight that arrives in toronto from cincinnati",
+        "ASR": "show me the first flight that arrives in toronto from cincinnati"
+    },
+    "555": {
+        "RAW": "show me the flights from dallas to baltimore at economy level",
+        "ASR": "show me the flights from dallas to baltimore economy"
+    },
+    "556": {
+        "RAW": "show me flights from oakland to dallas on sunday",
+        "ASR": "show me flights for oakland to dallas on sunday"
+    },
+    "557": {
+        "RAW": "show me the flights leaving from love field",
+        "ASR": "show me the flights leaving from love"
+    },
+    "558": {
+        "RAW": "what are the fares for flights from charlotte to newark on tuesday and wednesday",
+        "ASR": "what are the pairs flights from charlotte work on tuesday in winter"
+    },
+    "559": {
+        "RAW": "what type of aircraft leaves from boston to washington dc at 9 am during a weekday",
+        "ASR": "what type of from boston to washington new nine alexandra"
+    },
+    "560": {
+        "RAW": "flights from pittsburgh to baltimore arriving between 4 and 5 pm",
+        "ASR": "flights from pittsburgh to bottom arriving between four and five pm"
+    },
+    "561": {
+        "RAW": "and flight from oakland to boston leaving after midnight",
+        "ASR": "and flight moment to boston leaving at"
+    },
+    "562": {
+        "RAW": "show me the airlines that fly from san francisco to boston",
+        "ASR": "show me the airlines that five from san francisco to boston"
+    },
+    "563": {
+        "RAW": "can you show me the price of a flight to washington from atlanta on thursday morning",
+        "ASR": "can you show the price of a flight to washington from atlanta on thursday"
+    },
+    "564": {
+        "RAW": "show me all the types of aircraft",
+        "ASR": "show me all the types of aircraft"
+    },
+    "565": {
+        "RAW": "please list all flights between boston and philadelphia operating on sundays",
+        "ASR": "please resolve flights between aggravating sunday"
+    },
+    "566": {
+        "RAW": "what flights are there from dallas to pittsburgh on monday morning",
+        "ASR": "what flights are there to pittsburgh on monday morning"
+    },
+    "567": {
+        "RAW": "what is the latest flight from washington dc to denver",
+        "ASR": "what is the latest flight washington denver"
+    },
+    "568": {
+        "RAW": "i would like to find flights from columbus to minneapolis on monday june fourteenth early in the morning or in the evening sunday june thirteenth thank you",
+        "ASR": "i would like to find flights from columbus to minneapolis on monday june fourteen early in the morning while the evening sunday day june thirteenth thank you"
+    },
+    "569": {
+        "RAW": "are there any flights from dallas fort worth to boston leaving before 10 am",
+        "ASR": "are there any flights from dallas fort worth boston needing before"
+    },
+    "570": {
+        "RAW": "flights from cincinnati to los angeles departing after 718 am",
+        "ASR": "flights from cincinnati los angeles departing after seven hundred eighteen pm million"
+    },
+    "571": {
+        "RAW": "i need information on flight from atlanta to denver",
+        "ASR": "i need information on flight for that language adventure"
+    },
+    "572": {
+        "RAW": "what are the flights for united airlines on september twentieth in the morning",
+        "ASR": "what is the flights free united airlines on september twentieth in morning"
+    },
+    "573": {
+        "RAW": "i would like a flight from toronto to san diego that stops in kansas city",
+        "ASR": "i would like a flight from toronto to san diego that stops in kansas city"
+    },
+    "574": {
+        "RAW": "show me the type of aircraft that cp uses",
+        "ASR": "show me the type of aircraft c"
+    },
+    "575": {
+        "RAW": "show me fares from houston to las vegas",
+        "ASR": "show from houston to las vegas"
+    },
+    "576": {
+        "RAW": "i am interested in booking an early morning flight from dallas into houston on february twenty second and returning late in the evening of february twenty second",
+        "ASR": "i'm interested in booking an early morning and flight on february twenty second and return invoice the is thirty twenty seven"
+    },
+    "577": {
+        "RAW": "could you please show me all flights from charlotte to milwaukee",
+        "ASR": "could you please show me all flights from charlotte mill"
+    },
+    "578": {
+        "RAW": "i'd like to leave from boston on tuesday and i'd like to leave sometime in the morning",
+        "ASR": "i'd like to read from boston on tuesday and i'd like to leave some time in the morning"
+    },
+    "579": {
+        "RAW": "please show me airlines with flights from denver to philadelphia",
+        "ASR": "please show me airlines with lines from denver to philadelphia"
+    },
+    "580": {
+        "RAW": "could you tell me if there is ground transportation between the boston airport and boston downtown",
+        "ASR": "could you tell me if there is ground transportation between the boston airport and boston downtown"
+    },
+    "581": {
+        "RAW": "i want to go from boston to atlanta on monday",
+        "ASR": "i want to go from boston directly monday"
+    },
+    "582": {
+        "RAW": "list the nonstop flights early tuesday morning from dallas to atlanta",
+        "ASR": "lisbon nonstop flights early tuesday morning from dallas to atlanta"
+    },
+    "583": {
+        "RAW": "what is the latest us air flight leaving philadelphia and returning to boston",
+        "ASR": "what is the latest click flight and returning boxes"
+    },
+    "584": {
+        "RAW": "show me the flights from denver to baltimore or washington dc that arrive before or around noon",
+        "ASR": "show me the flights from denver baltimore washington dc that arrived before around this"
+    },
+    "585": {
+        "RAW": "show me flights from san francisco to denver after 4 pm",
+        "ASR": "shelby me flights from san francisco to denver after four pm"
+    },
+    "586": {
+        "RAW": "what are the prices of the flights from atlanta to dallas in the morning",
+        "ASR": "what are the prices of the price from atlanta the dallas in the morning"
+    },
+    "587": {
+        "RAW": "list the nonstop flights on wednesday june second from miami to baltimore arriving in baltimore between 1115 am and 1245 pm",
+        "ASR": "list the non nonstop flights on wednesday june second miami hand to baltimore arriving in baltimore between eleven fifteen a and one thousand two hundred forty five pm"
+    },
+    "588": {
+        "RAW": "cheapest flight from memphis to miami",
+        "ASR": "cheapest flight from memphis to miami"
+    },
+    "589": {
+        "RAW": "is there a flight between philadelphia and denver that leaves philadelphia around 2 o'clock in the afternoon",
+        "ASR": "is there a flight between philadelphia and then with a beach philadelphia around two o'clock in the afternoon"
+    },
+    "590": {
+        "RAW": "list all the airlines that service denver",
+        "ASR": "please call the airlines at service center"
+    },
+    "591": {
+        "RAW": "flights from montreal and phoenix to las vegas arriving at the same time",
+        "ASR": "flights from montreal and phoenix to las vegas is arriving at the same time"
+    },
+    "592": {
+        "RAW": "i'd like to see flights from pittsburgh to atlanta",
+        "ASR": "i'd like to see flights from pittsburgh to atlanta"
+    },
+    "593": {
+        "RAW": "what ground transportation is there in atlanta",
+        "ASR": "white transportation is there in"
+    },
+    "594": {
+        "RAW": "i would like one flight from kansas city to st. paul arriving around dinnertime 6 pm",
+        "ASR": "i would like one five kansas city to say all arriving around anytime six pm"
+    },
+    "595": {
+        "RAW": "what are the first class fares from dallas to baltimore",
+        "ASR": "one of the first class from dallas to baltimore"
+    },
+    "596": {
+        "RAW": "could you please find me the cheapest one way fare from boston to philadelphia",
+        "ASR": "could you please find me the cheapest one way from boston to philadelphia"
+    },
+    "597": {
+        "RAW": "how do i get to philadelphia downtown from the airport",
+        "ASR": "how do i get the philadelphia downtown from the airport"
+    },
+    "598": {
+        "RAW": "how many first class flights does united airlines have departing from boston today",
+        "ASR": "how many first class flights this united airlines type departing from boston today"
+    },
+    "599": {
+        "RAW": "flight will start from boston",
+        "ASR": "flight will start from boston"
+    },
+    "600": {
+        "RAW": "what are the afternoon flights from atlanta to baltimore",
+        "ASR": "what are the afternoons flights from that loans with the baltimore one"
+    },
+    "601": {
+        "RAW": "flight from washington dc to salt lake city",
+        "ASR": "flight from washington dc salt collection"
+    },
+    "602": {
+        "RAW": "list flights from atlanta to boston on wednesday afternoon and thursday morning",
+        "ASR": "flights one of the on a wednesday afternoon or thursday more"
+    },
+    "603": {
+        "RAW": "first i'd like to fly from philadelphia to dallas and fly from dallas to san francisco",
+        "ASR": "first i'd liked to fly from philadelphia to dallas and fly from dallas to san francisco"
+    },
+    "604": {
+        "RAW": "list the nonstop flights on wednesday june second from miami to washington arriving in washington between 1115 am and 1245 pm",
+        "ASR": "stop flights on wednesday june second island washington in washington between eleven fifty eight hundred and one thousand two hundred forty five pm"
+    },
+    "605": {
+        "RAW": "what ground transportation is available in denver",
+        "ASR": "what ground transportation is available in denver"
+    },
+    "606": {
+        "RAW": "list evening flights tomorrow from phoenix to detroit",
+        "ASR": "let's evening in fly tomorrow from phoenix to the tour"
+    },
+    "607": {
+        "RAW": "what is the cheapest flight from pittsburgh to atlanta one way",
+        "ASR": "what is the cheapest flight from pittsburgh to add atlanta one way"
+    },
+    "608": {
+        "RAW": "what flights leave from phoenix",
+        "ASR": "what lights sleep from phoenix"
+    },
+    "609": {
+        "RAW": "please give me the flights from boston to pittsburgh on thursday of next week",
+        "ASR": "please give me the flights from boston to pittsburgh on thursday of next week"
+    },
+    "610": {
+        "RAW": "may i see all nonstop flights from st. petersburg to charlotte",
+        "ASR": "may i see all nonstop flights from saint petersburg to charlotte"
+    },
+    "611": {
+        "RAW": "i'd like a flight on american from newark to nashville",
+        "ASR": "i'd like a flight on american familiar work to"
+    },
+    "612": {
+        "RAW": "please list all flights between boston and san francisco nonstop",
+        "ASR": "please list off flights between austin in san this a non"
+    },
+    "613": {
+        "RAW": "what are the flights available in the morning between boston and denver",
+        "ASR": "what are the flights available in the mornings between boston in denver"
+    },
+    "614": {
+        "RAW": "what do you have on monday from dallas fort worth to oakland california",
+        "ASR": "with do you have on monday from dallas fort worth california"
+    },
+    "615": {
+        "RAW": "flights from washington dc to denver",
+        "ASR": "flights from washington dc to denver"
+    },
+    "616": {
+        "RAW": "what is the earliest flight from memphis to las vegas",
+        "ASR": "what is the earliest fly for to las vegas"
+    },
+    "617": {
+        "RAW": "give me the cheapest round trip flight from dallas to baltimore",
+        "ASR": "give me the cheapest round trip flight from dallas to baltimore"
+    },
+    "618": {
+        "RAW": "what flights go from san francisco to dallas",
+        "ASR": "with flight go from san holder dallas"
+    },
+    "619": {
+        "RAW": "what is the earliest flight in the morning leaving boston for baltimore",
+        "ASR": "what is the earliest flight in the morning leading back for"
+    },
+    "620": {
+        "RAW": "list the flights from st. petersburg to toronto",
+        "ASR": "list the flights from saint petersburg to toronto"
+    },
+    "621": {
+        "RAW": "is there a united flight from baltimore to san francisco on the morning of august twenty seventh",
+        "ASR": "united flights from baltimore to san francisco in the morning of august twenty seven"
+    },
+    "622": {
+        "RAW": "i would like a flight from boston to san francisco on august seventeenth",
+        "ASR": "i would like a flight from boston to san one august seventeenth"
+    },
+    "623": {
+        "RAW": "i would like to see flights from denver to philadelphia",
+        "ASR": "i would like to see flights from denver to philadelphia"
+    },
+    "624": {
+        "RAW": "what are the flights from cleveland to indianapolis for wednesday the twelfth",
+        "ASR": "what the flights are the indianapolis for renting twelve"
+    },
+    "625": {
+        "RAW": "show me all flights from toronto",
+        "ASR": "show me on flights from toronto"
+    },
+    "626": {
+        "RAW": "what is the latest flight from philadelphia to boston",
+        "ASR": "what is the latest flight from philadelphia dot"
+    },
+    "627": {
+        "RAW": "what are the cheapest one way flights from pittsburgh to atlanta",
+        "ASR": "what are the cheapest one flights from pittsburgh atlanta"
+    },
+    "628": {
+        "RAW": "give me the flights leaving denver august ninth coming back to boston",
+        "ASR": "give me the flight steven bank august ninth coming back to boston"
+    },
+    "629": {
+        "RAW": "show me a list of all the airlines that offer business class service",
+        "ASR": "show me a list of all the error and offer business classes"
+    },
+    "630": {
+        "RAW": "find me the earliest flight from boston to denver that serves breakfast",
+        "ASR": "find me the earliest flight from boston get second"
+    },
+    "631": {
+        "RAW": "what is sa",
+        "ASR": ""
+    },
+    "632": {
+        "RAW": "what is the cost of united airlines flight 415 from chicago to kansas city thursday night",
+        "ASR": "what is the cost of united airlines twice fifteenth from chicago kansas city thursday and"
+    },
+    "633": {
+        "RAW": "is there ground transportation from the pittsburgh airport to downtown pittsburgh",
+        "ASR": "is there a ground transportation at from the pittsburgh airport to downtown pittsburgh"
+    },
+    "634": {
+        "RAW": "list daily flights from oakland to boston using twa",
+        "ASR": "miss bailey flights from amounts using her"
+    },
+    "635": {
+        "RAW": "please give me direct morning flights from pittsburgh to atlanta",
+        "ASR": "white from pittsburgh"
+    },
+    "636": {
+        "RAW": "show me the least expensive flight from miami to cleveland on sunday after noon",
+        "ASR": "show me the least expensive flight for miami the cleveland on funding and your name"
+    },
+    "637": {
+        "RAW": "is there a thursday night flight from pittsburgh to san francisco on us air",
+        "ASR": "is there a thursday night from pittsburgh to san on sarah"
+    },
+    "638": {
+        "RAW": "please give me all flights from dallas to oakland before noon",
+        "ASR": "please give me all flights from dallas to"
+    },
+    "639": {
+        "RAW": "list flights leaving dallas on saturday and arriving in san francisco before 4 pm",
+        "ASR": "miss white leading balance on saturday in riding center four four"
+    },
+    "640": {
+        "RAW": "show me the flights leaving from love field",
+        "ASR": "show me the flights leaving from lucky"
+    },
+    "641": {
+        "RAW": "please list the shortest one stop flight from ontario california to orlando florida",
+        "ASR": "placed just shortest glance flight from here in your california tour orlando florida"
+    },
+    "642": {
+        "RAW": "show me all the flights to baltimore after 6 o'clock pm",
+        "ASR": "show me all the flights to baltimore after six o'clock pm"
+    },
+    "643": {
+        "RAW": "flights on friday from newark to tampa",
+        "ASR": "flights on friday from"
+    },
+    "644": {
+        "RAW": "show me flights from san francisco to denver on weekdays",
+        "ASR": "shirley flights from san but to denver on weakness"
+    },
+    "645": {
+        "RAW": "show me all the us air flights to pittsburgh between 12 and 4 in the afternoon",
+        "ASR": "show me all the us air flights to pittsburgh between twelve and four in the afternoon"
+    },
+    "646": {
+        "RAW": "all flights from san francisco to boston leaving before noon",
+        "ASR": "all flights from san francisco to boston leaving before you"
+    },
+    "647": {
+        "RAW": "show me prices of flights from baltimore to dallas",
+        "ASR": "show me prices of flights from baltimore to dallas"
+    },
+    "648": {
+        "RAW": "all flights from denver colorado to pittsburgh pennsylvania",
+        "ASR": "white from denver colorado to pittsburgh pennsylvania bay"
+    },
+    "649": {
+        "RAW": "what are the sunday flights from oakland to washington dc",
+        "ASR": "what is the sunday for friendly washington dc"
+    },
+    "650": {
+        "RAW": "what are the coach flights between dallas and baltimore leaving august tenth and returning august twelve",
+        "ASR": "what are the coach flights between allison falls one leaving august tenth and returning august twelve"
+    },
+    "651": {
+        "RAW": "flight from dallas to oakland california on monday",
+        "ASR": "flight from dallas shields california"
+    },
+    "652": {
+        "RAW": "i need information on flights for tuesday leaving baltimore for dallas dallas to boston and boston to baltimore",
+        "ASR": "i need information on flights tuesday leaving document for dallas dallas boston"
+    },
+    "653": {
+        "RAW": "what is the fare for flights from denver to atlanta",
+        "ASR": "what is the fare for flights from denver to atlanta"
+    },
+    "654": {
+        "RAW": "show me fares leaving on tuesdays from denver to dallas",
+        "ASR": "show me sir really been on tuesday from denver today"
+    },
+    "655": {
+        "RAW": "tell me about flights from atlanta to charlotte north carolina leaving on monday and arriving in charlotte",
+        "ASR": "tell me a that's why from atlanta charlotte north carolina maybe monday arriving in"
+    },
+    "656": {
+        "RAW": "what are the flights from boston to philadelphia",
+        "ASR": "whatever other flights from boston to philadelphia"
+    },
+    "657": {
+        "RAW": "show flights leaving miami to cleveland on us air that leave after noon",
+        "ASR": "show leaving miami the cleveland on air that leaves afternoon"
+    },
+    "658": {
+        "RAW": "how many flights does eastern airlines have from boston to atlanta",
+        "ASR": "how many flights does from boston direct atlanta"
+    },
+    "659": {
+        "RAW": "what is the cheapest fare for flights from boston to dallas",
+        "ASR": "what is the cheapest fabric flights from boston doubts"
+    },
+    "660": {
+        "RAW": "i need to fly from baltimore to dallas on tuesday evening",
+        "ASR": "i need to fly from baltimore to dallas on tuesday evening"
+    },
+    "661": {
+        "RAW": "which of the flights from pittsburgh to baltimore on july twenty fifth 1991 carries the smallest number of passengers",
+        "ASR": "which of the flights from pittsburgh to baltimore on july twenty fifth nineteen ninety one carries is the smallest number of passengers"
+    },
+    "662": {
+        "RAW": "yes i need a flight from denver to pittsburgh on july seventh",
+        "ASR": "yes i need a flight from denver to pittsburgh on july seventh"
+    },
+    "663": {
+        "RAW": "i would like to fly from atlanta to boston arriving in boston at 5 pm",
+        "ASR": "i would like to advise for with boston writing boston at five pm"
+    },
+    "664": {
+        "RAW": "what do you know about car rental in denver",
+        "ASR": "what you know that's karl denver"
+    },
+    "665": {
+        "RAW": "show me the flights from indianapolis to orlando with round trip fares less than 1288",
+        "ASR": "show me the flights from indianapolis to orlando with round trip affairs less than one thousand two hundred eighty"
+    },
+    "666": {
+        "RAW": "display types of aircraft departing from cleveland to dallas before noon",
+        "ASR": "display types of aircraft departing from cleveland to dallas before noon"
+    },
+    "667": {
+        "RAW": "what are the flights from boston to washington",
+        "ASR": "what flights from boston washington"
+    },
+    "668": {
+        "RAW": "what is the round trip first class fare on united from boston to san francisco",
+        "ASR": "what is around the first class there on united from boston to san victor"
+    },
+    "669": {
+        "RAW": "what flights are available on sunday to pittsburgh from san francisco",
+        "ASR": "what flights are available on sunday to pittsburgh from san francis francisco"
+    },
+    "670": {
+        "RAW": "i'd like to fly from philadelphia to san francisco with a stopover in dallas",
+        "ASR": "i'd like to fly from philadelphia to san francisco with a stock over in dallas"
+    },
+    "671": {
+        "RAW": "i need to spend much of a day on the ground in atlanta find me an early flight from boston and the lastest possible flight back from atlanta",
+        "ASR": "i need to spend much in day on the ground and going to find these an early flight from boston in the last possible flight back from madeline"
+    },
+    "672": {
+        "RAW": "what does fare code qo mean",
+        "ASR": "what does"
+    },
+    "673": {
+        "RAW": "does flight dl 1083 from philadelphia to denver fly on saturdays",
+        "ASR": "just point pm one thousand eighty three philadelphia inquire"
+    },
+    "674": {
+        "RAW": "show me the airlines between toronto and denver",
+        "ASR": "show me your airlines mister rhonda and denver"
+    },
+    "675": {
+        "RAW": "show me flights from new york to miami",
+        "ASR": "show me my"
+    },
+    "676": {
+        "RAW": "flights from nashville to seattle",
+        "ASR": "flights from nashville for seattle"
+    },
+    "677": {
+        "RAW": "list all daily flights between boston and oakland using american airlines",
+        "ASR": "let's all dale flights between boston and oakland using in american airline airlines"
+    },
+    "678": {
+        "RAW": "show me flights from san francisco to atlanta",
+        "ASR": "show me flights from san francisco atlanta"
+    },
+    "679": {
+        "RAW": "show me the flights from boston to pittsburgh on wednesdays and thursdays",
+        "ASR": "show me the flights from boston to pittsburgh on wednesdays and thursdays"
+    },
+    "680": {
+        "RAW": "what are the flights from milwaukee to orlando on wednesday night",
+        "ASR": "whatever flights in orlando on wednesday"
+    },
+    "681": {
+        "RAW": "show me the morning flights from boston to philadelphia",
+        "ASR": "show me the morning flights from boston to philadelphia"
+    },
+    "682": {
+        "RAW": "how many flights does delta have with a class of service code f",
+        "ASR": "how many flights this sell to handle with a class service for that"
+    },
+    "683": {
+        "RAW": "show me flights between new york city and las vegas on sunday",
+        "ASR": "show me flights between new york city and las vegas on sunday"
+    },
+    "684": {
+        "RAW": "what airlines fly between san francisco and denver",
+        "ASR": "whether our airlines fly between san francisco and denver"
+    },
+    "685": {
+        "RAW": "what is the fare going from baltimore to boston one way on november seventh",
+        "ASR": "what is the sarah going from baltimore to boston one way on november seven"
+    },
+    "686": {
+        "RAW": "please give me flights from atlanta to boston on wednesday afternoon and thursday morning",
+        "ASR": "please give me flights from atlanta to boston on wednesday afternoon and thursday morning"
+    },
+    "687": {
+        "RAW": "show me all the flights from boston to denver that serve lunch",
+        "ASR": "show me all the flights from boston to denver that serve lunch"
+    },
+    "688": {
+        "RAW": "show me all flights from oakland to philadelphia on saturday which serve a meal",
+        "ASR": "show me all white from oakland philadelphia on saturday"
+    },
+    "689": {
+        "RAW": "list the flights on friday afternoon from philadelphia to oakland",
+        "ASR": "list the flights on friday afternoon from philadelphia to"
+    },
+    "690": {
+        "RAW": "which flights depart los angeles destination charlotte that leave on a monday morning",
+        "ASR": "which flights depart los angeles destination show that we on a monday morning"
+    },
+    "691": {
+        "RAW": "i need to go from philadelphia to dallas",
+        "ASR": "i need to go from philadelphia to dallas"
+    },
+    "692": {
+        "RAW": "from las vegas to phoenix departing in the morning",
+        "ASR": "from las vegas phoenix departing morning"
+    },
+    "693": {
+        "RAW": "show me the flights on delta or twa which go through atlanta",
+        "ASR": "show me the flights on delta which go through atlanta"
+    },
+    "694": {
+        "RAW": "what ground transportation is available in denver",
+        "ASR": "what ground transportation is available in denver"
+    },
+    "695": {
+        "RAW": "which flights from memphis to tacoma also stop in los angeles",
+        "ASR": "which flights are memphis to diploma are also start in los angeles"
+    },
+    "696": {
+        "RAW": "i would like to see the flights from denver to philadelphia",
+        "ASR": "i would like to see the flights from denver philadelphia"
+    },
+    "697": {
+        "RAW": "find travel arrangements for a round trip flight from baltimore to pittsburgh",
+        "ASR": "find travel arrangements for a round trip flight from baltimore to pittsburgh"
+    },
+    "698": {
+        "RAW": "what is the price of a one way fare from boston to denver on continental airlines",
+        "ASR": "what is the price of one way fare from boston to denver on continental airlines"
+    },
+    "699": {
+        "RAW": "does midwest express serve baltimore",
+        "ASR": "this west express serve baltimore"
+    },
+    "700": {
+        "RAW": "please list the friday flights from houston to milwaukee on american airlines in the evening",
+        "ASR": "please list the friday flights from houston to on american airlines in the evening"
+    },
+    "701": {
+        "RAW": "i'm flying from boston to dallas",
+        "ASR": "i'm flying from boston dallas"
+    },
+    "702": {
+        "RAW": "please show me flights from philadelphia to baltimore between 10 am and 2 pm",
+        "ASR": "please show me flight to coffee between nine two pm"
+    },
+    "703": {
+        "RAW": "give me us air flights for next wednesday from cleveland to miami",
+        "ASR": "give me flights for next wednesday from cleveland miami"
+    },
+    "704": {
+        "RAW": "all right give me the flight times in the morning on september twentieth from pittsburgh to san francisco",
+        "ASR": "alright give me the flight times in the morning on september twentieth from pittsburgh to san francisco"
+    },
+    "705": {
+        "RAW": "give me the flights from washington dc to philadelphia for december second",
+        "ASR": "give me the flights from washington dc philadelphia for december seventh"
+    },
+    "706": {
+        "RAW": "what ground transportation is available in baltimore for the day after tomorrow",
+        "ASR": "what ground transportation is available in baltimore for the day after tomorrow"
+    },
+    "707": {
+        "RAW": "all flights from charlotte to anywhere on us air around 1 pm",
+        "ASR": "all flights from charlotte to anywhere honestly around one pm"
+    },
+    "708": {
+        "RAW": "what is the fare on november seventh going one way from pittsburgh to philadelphia",
+        "ASR": "what is the fair on november seventh going one way from pittsburgh to philadelphia"
+    },
+    "709": {
+        "RAW": "show me the american airline flights leaving phoenix on wednesday and arriving in milwaukee",
+        "ASR": "so maybe the american airline flights leaving soon on wednesday and arriving in"
+    },
+    "710": {
+        "RAW": "show me the flights from boston to san francisco on united airlines",
+        "ASR": "show me the flights from boston to san preferences plamondon united airlines"
+    },
+    "711": {
+        "RAW": "please list all flights from dallas to philadelphia on monday",
+        "ASR": "please resolve flights from dallas holding"
+    },
+    "712": {
+        "RAW": "show me all flights from san francisco to washington dc area",
+        "ASR": "show me all flights from san to washington area"
+    },
+    "713": {
+        "RAW": "please show me the flights available from san francisco to pittsburgh on tuesday",
+        "ASR": "please show me the flights available for san francisco to pittsburgh on"
+    },
+    "714": {
+        "RAW": "what is the fare on the thrift economy flight from boston to san francisco",
+        "ASR": "what is this on miss christopher company twice from boston san"
+    },
+    "715": {
+        "RAW": "please list the cheapest flight from dallas to baltimore arriving on may seventh",
+        "ASR": "please the cheapest flight from dallas to qualify writing on may seven"
+    },
+    "716": {
+        "RAW": "what flights from miami to indianapolis",
+        "ASR": "what's flights from miami to indian indianapolis"
+    },
+    "717": {
+        "RAW": "i want to travel from atlanta to baltimore early in the morning first flight",
+        "ASR": "i wanted travel from atlanta to baltimore early morning first flight"
+    },
+    "718": {
+        "RAW": "all flights to baltimore after 12 pm",
+        "ASR": "all flights to baltimore after twelve pm"
+    },
+    "719": {
+        "RAW": "also show me all flights from oakland to denver",
+        "ASR": "also showing me all flights from oakland denver"
+    },
+    "720": {
+        "RAW": "what types of ground transportation are available in philadelphia",
+        "ASR": "what types of trail transportation you're available in philadelphia"
+    },
+    "721": {
+        "RAW": "show me any show me what the first class fares are of the flights from pittsburgh to san francisco on monday",
+        "ASR": "show me any show me what the first class pairs are of the flights from pittsburgh to san system on monday"
+    },
+    "722": {
+        "RAW": "all flights before 10 am boston denver",
+        "ASR": "flights before ten am boston denver"
+    },
+    "723": {
+        "RAW": "what flights are available from pittsburgh to baltimore on july twenty fifth 1991",
+        "ASR": "what points are available from pittsburgh baltimore on july twenty fifth nineteen ninety one"
+    },
+    "724": {
+        "RAW": "i need to go from boston to dallas",
+        "ASR": "i need to go from farfetch"
+    },
+    "725": {
+        "RAW": "what is the last flight from atlanta to boston",
+        "ASR": "what is the last flight from atlanta to boston"
+    },
+    "726": {
+        "RAW": "what time does the earliest flight which goes from atlanta to denver leave",
+        "ASR": "what time is the earliest flight is goes from atlanta which you can delete"
+    },
+    "727": {
+        "RAW": "list all flights going from boston to atlanta on wednesday after 6 o'clock pm on wednesday",
+        "ASR": "list all flights going from boston to on wednesday after six o'clock pm on wednesday"
+    },
+    "728": {
+        "RAW": "show me all daily flights out of boston that have coach class",
+        "ASR": "show me all daily flights out of boston that coach class"
+    },
+    "729": {
+        "RAW": "newark to cleveland",
+        "ASR": ""
+    },
+    "730": {
+        "RAW": "is the american flight 813 from boston to oakland a nonstop flight",
+        "ASR": "is the american flight eight hundred thirteen from boston to oakland non nonstop flight"
+    },
+    "731": {
+        "RAW": "what is ewr",
+        "ASR": "what is you"
+    },
+    "732": {
+        "RAW": "show me all flights to philadelphia in the evening",
+        "ASR": "show me all flights to philadelphia and need"
+    },
+    "733": {
+        "RAW": "show me all the flights arriving in charlotte around 5 pm next monday please",
+        "ASR": "show me all the flights arriving in charlotte around five pm next monday please"
+    },
+    "734": {
+        "RAW": "what northwest flights stop in denver",
+        "ASR": "what northwest stop in denver"
+    },
+    "735": {
+        "RAW": "what is restriction ap 57",
+        "ASR": "what is restriction at fifty seven"
+    },
+    "736": {
+        "RAW": "morning flight from boston to philadelphia",
+        "ASR": "morning flight from boston to philadelphia"
+    },
+    "737": {
+        "RAW": "list the flight from philadelphia to san francisco on american airlines",
+        "ASR": "list flight from philadelphia the san francisco on american airlines"
+    },
+    "738": {
+        "RAW": "on a flight from san francisco to atlanta that leaves before 8 am is there such a flight",
+        "ASR": "on the flight from san francisco to atlanta that leaves four eight am is there such a flight"
+    },
+    "739": {
+        "RAW": "i want a flight from denver to atlanta",
+        "ASR": "i want a flight from denver to atlanta"
+    },
+    "740": {
+        "RAW": "show me the flights from boston to denver on august second",
+        "ASR": "show me the flights from boston to denver do know this sec"
+    },
+    "741": {
+        "RAW": "flights from denver to pittsburgh on wednesday",
+        "ASR": "flight the pittsburgh"
+    },
+    "742": {
+        "RAW": "what flights are available from denver to philadelphia with stopover in pittsburgh",
+        "ASR": "with flight available from denver green pittsburgh"
+    },
+    "743": {
+        "RAW": "show me flights leaving from san francisco to denver on september thirtieth",
+        "ASR": "show his flights leaving from san francisco denver on september seven"
+    },
+    "744": {
+        "RAW": "hi could i get a one way ticket from milwaukee to orlando",
+        "ASR": "hi could i get a one way ticket from the"
+    },
+    "745": {
+        "RAW": "please list all flights from baltimore to atlanta",
+        "ASR": "please list off flights from baltimore atlanta"
+    },
+    "746": {
+        "RAW": "list all round trip fares from pittsburgh to washington dc",
+        "ASR": "list all round trip from pittsburgh to washington conditions"
+    },
+    "747": {
+        "RAW": "show me the ground transportation to westchester county",
+        "ASR": "show me the ground transportation to west chester county"
+    },
+    "748": {
+        "RAW": "show me one way flights from milwaukee to orlando",
+        "ASR": "show me one way for no lock to orlando"
+    },
+    "749": {
+        "RAW": "what is the earliest flight from washington to atlanta leaving on wednesday september fourth",
+        "ASR": "what is the earliest flight from washington to atlanta leaving on the wednesday september fourth"
+    },
+    "750": {
+        "RAW": "could you please find me the earliest flight from boston to oakland",
+        "ASR": "could you please find me earliest price boston to"
+    },
+    "751": {
+        "RAW": "i want to fly philadelphia to san francisco on july eighth",
+        "ASR": "a wonderful i philadelphia a san francisco on"
+    },
+    "752": {
+        "RAW": "i am looking to get one air fare from baltimore to san francisco on a 747 leaving august twenty seventh",
+        "ASR": "i am looking to get one fare from baltimore to san francisco one a seven hundred forty seven leaving august twenty seventh"
+    },
+    "753": {
+        "RAW": "show me the flights that go from san diego to newark new jersey",
+        "ASR": "show me the white six from san lima future"
+    },
+    "754": {
+        "RAW": "what is hp",
+        "ASR": "what is hp"
+    },
+    "755": {
+        "RAW": "is there an american airlines flight in the evening from dallas to san francisco",
+        "ASR": "is there an american airlines flight in the evening from dallas to san francisco"
+    },
+    "756": {
+        "RAW": "list all flights going from boston to atlanta before 7 am on thursday",
+        "ASR": "list all flights going from boston to before seven am on thursday"
+    },
+    "757": {
+        "RAW": "i would like the flights available from boston to denver arriving in denver on 9 o'clock wednesday morning on or by 9 o'clock wednesday morning",
+        "ASR": "i would like the flights available from boston to denver arriving in denver on nine o'clock wednesday morning or by nine o'clock wednesday morning"
+    },
+    "758": {
+        "RAW": "show ground transportation for pittsburgh",
+        "ASR": "show ground transportation for pittsburgh"
+    },
+    "759": {
+        "RAW": "is there an airline that services boston dc and dallas",
+        "ASR": "is there an airline that services boston in dc and dallas"
+    },
+    "760": {
+        "RAW": "give me the flights from pittsburgh to los angeles thursday evening",
+        "ASR": "give the flight from to angeles thursday evening"
+    },
+    "761": {
+        "RAW": "what's the cheapest of the dallas to atlanta flights which are after 2 in the afternoon",
+        "ASR": "what's the cheapest of the dallas to atlanta of flights which are after three in the afternoon"
+    },
+    "762": {
+        "RAW": "show me the round trip tickets from baltimore to atlanta",
+        "ASR": "show me the round trip if it's from baltimore"
+    },
+    "763": {
+        "RAW": "i would like a flight from nashville to st. louis that arrives in st. louis around 6 pm and is nonstop",
+        "ASR": "i would like to flight from nashville to eight state us around six pm rand in advance"
+    },
+    "764": {
+        "RAW": "list the nonstop flights from miami to washington dc",
+        "ASR": "list the nonstop flights from miami to washington dc"
+    },
+    "765": {
+        "RAW": "flights from newark to cleveland daily",
+        "ASR": "flights from your cleveland"
+    },
+    "766": {
+        "RAW": "from atlanta to washington dc",
+        "ASR": "from at atlanta to washington dc"
+    },
+    "767": {
+        "RAW": "what airlines fly from dallas to baltimore",
+        "ASR": "whether airlines fly from dallas baltimore"
+    },
+    "768": {
+        "RAW": "what type of aircraft leaving after 2 pm from boston to oakland",
+        "ASR": "which type of air fascinating after tsheets pm and from boston department"
+    },
+    "769": {
+        "RAW": "show me the flights to and from love field",
+        "ASR": "show me the flights doing from luck"
+    },
+    "770": {
+        "RAW": "i would like to book a flight from chicago to seattle on june first",
+        "ASR": "i would like to book a flight from chicago to see how ones you first"
+    },
+    "771": {
+        "RAW": "what ground transportation is available at boston",
+        "ASR": "once transportation is available with"
+    },
+    "772": {
+        "RAW": "show me the flights from philadelphia to baltimore",
+        "ASR": "show me the flights from"
+    },
+    "773": {
+        "RAW": "what is the yn code",
+        "ASR": "what is the income"
+    },
+    "774": {
+        "RAW": "i would like a flight from philadelphia to san francisco but i would like to stop in dallas",
+        "ASR": "i would like to fly some philadelphia with san francisco but i would like to stop and down"
+    },
+    "775": {
+        "RAW": "please show me flights from pittsburgh to atlanta on wednesday morning serving breakfast",
+        "ASR": "please show me flights from pittsburgh to atlanta on wednesday on serving reference"
+    },
+    "776": {
+        "RAW": "i would like to see the flights from denver to philadelphia please",
+        "ASR": "i would like to see the flight from denver ridiculous without being included"
+    },
+    "777": {
+        "RAW": "evening flights from philadelphia to oakland",
+        "ASR": "evening flights from philadelphia oakland"
+    },
+    "778": {
+        "RAW": "show me the airlines that fly from denver to san francisco",
+        "ASR": "show me the airlines five from denver san france francisco"
+    },
+    "779": {
+        "RAW": "please give me the flights available from boston to pittsburgh on wednesday of next week",
+        "ASR": "please give me the flights available from boston to pittsburgh on wednesday of next week"
+    },
+    "780": {
+        "RAW": "show me all flights from pittsburgh to philadelphia which arrive before 8 o'clock am on wednesday",
+        "ASR": "show me all flights and to out the july before eight o'clock in on run"
+    },
+    "781": {
+        "RAW": "boston to denver monday",
+        "ASR": "boston to denver"
+    },
+    "782": {
+        "RAW": "morning flight from dallas to atlanta",
+        "ASR": "morning flight from dallas"
+    },
+    "783": {
+        "RAW": "show me the flights arriving at love field",
+        "ASR": "show me the flights arriving at my"
+    },
+    "784": {
+        "RAW": "what flights go from seattle to boston via minneapolis",
+        "ASR": "what flight are from seattle of austin fire minneapolis"
+    },
+    "785": {
+        "RAW": "what flight do you have from san francisco to pittsburgh on the evening of august twenty seventh",
+        "ASR": "would like do you have from san francisco to pittsburgh on the evening of august twenty seven"
+    },
+    "786": {
+        "RAW": "show me the earliest flight from boston to san francisco",
+        "ASR": "show me the earliest flight from boston to san francisco"
+    },
+    "787": {
+        "RAW": "show me all the flights from new york to milwaukee",
+        "ASR": "show me all the flights from you you"
+    },
+    "788": {
+        "RAW": "i would like a list of the round trip flights between indianapolis and orlando on the twenty seventh or the twenty eighth of december",
+        "ASR": "i would like a list of the round trip flights between indian indianapolis and orlando on the twenty seventh or the twenty eighth of this december"
+    },
+    "789": {
+        "RAW": "please give me the flight times the morning on united airlines for september twentieth from philadelphia to san francisco",
+        "ASR": "please give me the flight time the morning on united airlines for september twentieth from philadelphia this san francisco"
+    },
+    "790": {
+        "RAW": "a listing of all flights from boston to baltimore before 10 am on thursday",
+        "ASR": "a listing about flights for boston before ten am cents"
+    },
+    "791": {
+        "RAW": "please give me round trip fares from baltimore to philadelphia",
+        "ASR": "please give me round trip from baltimore to philadelphia"
+    },
+    "792": {
+        "RAW": "show me all flights from phoenix to milwaukee on american airlines on wednesday",
+        "ASR": "show me all flexible phoenix walking on american airlines on wednesday"
+    },
+    "793": {
+        "RAW": "of all airlines which airline has the most arrivals in atlanta",
+        "ASR": "of airlines which airline is the most arrived in atlanta"
+    },
+    "794": {
+        "RAW": "show me the flights before 11 am on august second from boston to denver on delta",
+        "ASR": "show me the flights the four eleven am on august second from boston to denver"
+    },
+    "795": {
+        "RAW": "what are the flights from baltimore to dallas on sunday night",
+        "ASR": "what are the flights from baltimore water hours on sunday now"
+    },
+    "796": {
+        "RAW": "show me all flights from denver to pittsburgh which serve dinner",
+        "ASR": "show me all flights from denver to pittsburgh which serve dinner"
+    },
+    "797": {
+        "RAW": "do you have any flights from denver to baltimore via dallas",
+        "ASR": "do you have any flights from denver call or buy down"
+    },
+    "798": {
+        "RAW": "i'd like a flight tomorrow from san diego to toronto",
+        "ASR": "i'd like a flight tomorrow from san diego to toronto"
+    },
+    "799": {
+        "RAW": "san francisco to philadelphia please",
+        "ASR": "san will please"
+    },
+    "800": {
+        "RAW": "information on american airlines flight from washington to philadelphia",
+        "ASR": "information on american airlines flight from washington to philadelphia"
+    },
+    "801": {
+        "RAW": "give me the flights from memphis tennessee to charlotte north carolina",
+        "ASR": "give me the flights from this kindly to try with"
+    },
+    "802": {
+        "RAW": "find a flight from philadelphia to san francisco please on delta",
+        "ASR": "find flight from same crystal street and"
+    },
+    "803": {
+        "RAW": "how can i get from indianapolis to montreal in the evening",
+        "ASR": "how can i get from indianapolis to montreal in the evening"
+    },
+    "804": {
+        "RAW": "show me flights denver to washington dc on thursday",
+        "ASR": "show me flights san and washington"
+    },
+    "805": {
+        "RAW": "what american airlines flights from phoenix to milwaukee depart phoenix after 6 pm on wednesday",
+        "ASR": "what american airlines flights from phoenix to park phoenix after six pm on wednesday"
+    },
+    "806": {
+        "RAW": "please show me airlines with flights from philadelphia to dallas",
+        "ASR": "please show me airlines with flights from philadelphia dallas"
+    },
+    "807": {
+        "RAW": "i'd like to go from st. paul to kansas city on friday with a meal",
+        "ASR": "i'd like to go from paypal to kansas city friday"
+    },
+    "808": {
+        "RAW": "okay give me the flights that leave denver after 7 pm next monday arriving in boston",
+        "ASR": "ok give me the flight that the then for seven pm that's one arriving in boston"
+    },
+    "809": {
+        "RAW": "how much is the cheapest flight from denver to pittsburgh with a stop in atlanta",
+        "ASR": "how much is the cheapest flight from denver the pittsburgh with a stock atlanta"
+    },
+    "810": {
+        "RAW": "what is the cheapest one way fare from any city to another",
+        "ASR": "what is the cheapest one way there from any city to another"
+    },
+    "811": {
+        "RAW": "information on flights from pittsburgh to philadelphia",
+        "ASR": "information on quite"
+    },
+    "812": {
+        "RAW": "what does the fare code f and fn mean",
+        "ASR": "what does the fair happen f"
+    },
+    "813": {
+        "RAW": "i would like an early morning flight from chicago into seattle on june first on continental airline",
+        "ASR": "i would like an early morning flight from chicago into june first on continental airline airlines"
+    },
+    "814": {
+        "RAW": "how about arrivals for american in atlanta",
+        "ASR": "for american atlanta"
+    },
+    "815": {
+        "RAW": "how many fares are there one way from tacoma to montreal",
+        "ASR": "how many stairs are your one way thank montreal"
+    },
+    "816": {
+        "RAW": "show me the flights from dallas to baltimore in first class",
+        "ASR": "show me the flights been dallas to baltimore first class"
+    },
+    "817": {
+        "RAW": "from las vegas to montreal",
+        "ASR": "from las vegas montreal"
+    },
+    "818": {
+        "RAW": "sure i want to go from philadelphia to dallas",
+        "ASR": "want to go from philadelphia"
+    },
+    "819": {
+        "RAW": "is there ground transportation from the dallas airport to downtown dallas",
+        "ASR": "is there a ground transportation from the dallas airport to downtown dallas"
+    },
+    "820": {
+        "RAW": "flights from nashville to seattle",
+        "ASR": "flights from nashville to seattle"
+    },
+    "821": {
+        "RAW": "show me the flights from philadelphia to dallas with one stop",
+        "ASR": "show me the flight without together with one stop"
+    },
+    "822": {
+        "RAW": "are there any flights from boston to san francisco which stop in washington dc",
+        "ASR": "are there any flights from boston to san francisco with south in washington dc"
+    },
+    "823": {
+        "RAW": "find the cheapest flight from denver to atlanta with a stopover in pittsburgh",
+        "ASR": "find the cheapest flight from denver to atlanta with the stop pittsburgh confirmed"
+    },
+    "824": {
+        "RAW": "list all flights on continental leaving denver",
+        "ASR": "list all flights on continental metal leaving denver"
+    },
+    "825": {
+        "RAW": "show me flights from philadelphia to baltimore",
+        "ASR": "show frank"
+    },
+    "826": {
+        "RAW": "show me flights from denver to philadelphia arriving after 2100",
+        "ASR": "shelby flights from denver to philadelphia arriving after two thousand one hundred"
+    },
+    "827": {
+        "RAW": "what morning flights do you have between oakland and denver",
+        "ASR": "what morning flight do you have the pay up with my day"
+    },
+    "828": {
+        "RAW": "what is the ground transportation between airport and baltimore",
+        "ASR": "what is the ground transportation between airport and baltimore"
+    },
+    "829": {
+        "RAW": "show me all nationair flights from toronto",
+        "ASR": "show the all flights from toronto"
+    },
+    "830": {
+        "RAW": "please show me flights from boston to denver with a stopover in philadelphia",
+        "ASR": "please netflix flights from boston denver we stock over in philadelphia"
+    },
+    "831": {
+        "RAW": "afternoon flights from boston to san francisco please that leave in the afternoon",
+        "ASR": "afternoon flights from boston to san francisco please at least in the afternoon"
+    },
+    "832": {
+        "RAW": "list all flights from baltimore to philadelphia",
+        "ASR": "list flights from both philadelphia"
+    },
+    "833": {
+        "RAW": "show me all flights from boston to dallas fort worth both direct and connecting that arrive before noon",
+        "ASR": "show me all flights from boston to dallas fort worth both direct connecting that arrive beforehand noon"
+    },
+    "834": {
+        "RAW": "i'd like to know the information from boston to philadelphia nonstop",
+        "ASR": "i'd like to know the information from boston to without being united"
+    },
+    "835": {
+        "RAW": "i need a flight after 6 pm on wednesday from oakland to salt lake city",
+        "ASR": "i need a ride after six pm on wednesday from oakland to salt lake city"
+    },
+    "836": {
+        "RAW": "what does flight code us mean",
+        "ASR": "what is flight code me"
+    },
+    "837": {
+        "RAW": "show me the flights on delta or twa which go through atlanta",
+        "ASR": "show me the flight while go through the atlanta"
+    },
+    "838": {
+        "RAW": "what ground transportation is available in denver",
+        "ASR": "what ground transportation is available in denver"
+    },
+    "839": {
+        "RAW": "what is the first class fare from baltimore to dallas",
+        "ASR": "what is the first class pair from baltimore dallas"
+    },
+    "840": {
+        "RAW": "i would like to find a flight from pittsburgh to boston on wednesday and i have to be in boston by one so i'd like a flight out of here no later than 11 am",
+        "ASR": "i would like to find a flight from pittsburgh boston on wednesday and it has to be in boston by once sort like a slide of here no later than eleven am"
+    },
+    "841": {
+        "RAW": "what is ewr",
+        "ASR": "what if you"
+    },
+    "842": {
+        "RAW": "i want to travel from philadelphia to san francisco with a stopover in dallas",
+        "ASR": "i want to travel from philadelphia and san francisco with the stock bring down"
+    },
+    "843": {
+        "RAW": "do any of the continental flights from boston to san francisco stop in denver",
+        "ASR": "do any of the continental flights from boston to san sysco francisco stop in denver"
+    },
+    "844": {
+        "RAW": "i would like a flight from philadelphia to dallas",
+        "ASR": "i would like a flight from philadelphia to dallas"
+    },
+    "845": {
+        "RAW": "pittsburgh to atlanta wednesday",
+        "ASR": "pittsburgh to at atlanta of wednesday"
+    },
+    "846": {
+        "RAW": "show nonstop flights from new york to miami on a tuesday which cost less than 466 dollars one way",
+        "ASR": "shown on flight new york to miami on a tuesday which cost less than four hundred sixty six dollars one way"
+    },
+    "847": {
+        "RAW": "please list the flights from pittsburgh to baltimore arriving may seventh",
+        "ASR": "please list the flights from pittsburgh to baltimore arriving may seven"
+    },
+    "848": {
+        "RAW": "what are all flights from pittsburgh to boston on wednesdays",
+        "ASR": "what flights from pittsburgh to boston on wednesdays"
+    },
+    "849": {
+        "RAW": "what are the flights on january first 1992 from boston to san francisco",
+        "ASR": "what are the flights on january first nineteen ninety two from boston to san francisco"
+    },
+    "850": {
+        "RAW": "what's the earliest flight from boston to bwi that serves lunch",
+        "ASR": "what's the earliest flight from boston to weigh that serves lunch"
+    },
+    "851": {
+        "RAW": "which airline serves denver pittsburgh and atlanta",
+        "ASR": "which line sir center atlanta"
+    },
+    "852": {
+        "RAW": "requesting flight information from boston to denver on wednesday",
+        "ASR": "requesting flight information from boston to denver"
+    },
+    "853": {
+        "RAW": "show me the evening flights from atlanta to washington on wednesdays",
+        "ASR": "show me the evening flights from atlanta to washington on wednesdays"
+    },
+    "854": {
+        "RAW": "round trip fares from baltimore to philadelphia under 1000 dollars",
+        "ASR": "round trip from baltimore to philadelphia under one thousand dollars"
+    },
+    "855": {
+        "RAW": "i need to fly from washington to san francisco but i'd like to stop over at dallas can you tell me a schedule of flights that will do that",
+        "ASR": "i need to fly from washington to san francisco but i'd like to stop over at dallas can you tell me a schedule with flights that will do that"
+    },
+    "856": {
+        "RAW": "show me the flights into love field",
+        "ASR": "show me the flights are"
+    },
+    "857": {
+        "RAW": "what flights are available between baltimore and boston on august twelfth",
+        "ASR": "what lights are available between baltimore and boston online as well"
+    },
+    "858": {
+        "RAW": "what's the earliest flight from dallas to houston",
+        "ASR": "what's the earliest flight from dallas to houston"
+    },
+    "859": {
+        "RAW": "i'd like to find the cheapest one way fare from baltimore to denver",
+        "ASR": "i'd like to find the cheapest one way there from baltimore denver"
+    },
+    "860": {
+        "RAW": "i want to go and take a plane in atlanta and fly to boston",
+        "ASR": "i wanna go and take a plane in that atlanta and fly to boston"
+    },
+    "861": {
+        "RAW": "i would like some information on flights leaving boston to atlanta",
+        "ASR": "i would like some information on flights leaving boston to atlanta"
+    },
+    "862": {
+        "RAW": "show me the flights from denver to philadelphia on a saturday",
+        "ASR": "show me the flights from denver to philadelphia on the saturday"
+    },
+    "863": {
+        "RAW": "find travel arrangements for a round trip flight from dallas to pittsburgh arriving after 8 pm",
+        "ASR": "find travel arrangement for flight from down the pittsburgh for eighteen"
+    },
+    "864": {
+        "RAW": "i need a united airlines flight from denver to baltimore on saturday",
+        "ASR": "i need the united one flight the bottom"
+    },
+    "865": {
+        "RAW": "list flights from cincinnati to san jose friday evening",
+        "ASR": "list white from cincinnati the san jose friday evening"
+    },
+    "866": {
+        "RAW": "please list all flights on united airlines out of denver before noon",
+        "ASR": "please list off lights on united airlines out denver corner"
+    },
+    "867": {
+        "RAW": "show me the flights from cincinnati to denver",
+        "ASR": "show me the flights from cincinnati to denver"
+    },
+    "868": {
+        "RAW": "list flights from atlanta to boston leaving between 6 pm and 10 pm on august eighth",
+        "ASR": "list flights from atlanta to boston leaving between six pm and ten pm on august eighth"
+    },
+    "869": {
+        "RAW": "what type of aircraft leaving philadelphia to dallas",
+        "ASR": "what type of aircraft leaving philadelphia to dallas"
+    },
+    "870": {
+        "RAW": "what's the first flight from dallas to houston",
+        "ASR": "what's the first flight from balance of you"
+    },
+    "871": {
+        "RAW": "what is the cheapest fare from washington to san francisco leaving on september thirtieth",
+        "ASR": "what is the cheapest fare for washington san francisco leaving on september thirtieth"
+    },
+    "872": {
+        "RAW": "i'm interested in a flight from pittsburgh to atlanta",
+        "ASR": "i'm interested in a flight from pittsburgh"
+    },
+    "873": {
+        "RAW": "i need a cheap flight from baltimore to san francisco",
+        "ASR": "i need a two flight from baltimore the san"
+    },
+    "874": {
+        "RAW": "show me fares from baltimore to philadelphia",
+        "ASR": "from baltimore to philadelphia"
+    },
+    "875": {
+        "RAW": "i'd like to know if you have any flights from denver to philadelphia",
+        "ASR": "i'd like to know if you have any flights from denver to fill the delta"
+    },
+    "876": {
+        "RAW": "show me the earliest flight on wednesday from baltimore to newark",
+        "ASR": "show me the earliest flight on wednesday from baltimore to new"
+    },
+    "877": {
+        "RAW": "how many american airline flights leave denver june tenth",
+        "ASR": "how many american airlines flight sandra"
+    },
+    "878": {
+        "RAW": "what flights are there from boston to dallas",
+        "ASR": "what flights are there from boston dallas"
+    },
+    "879": {
+        "RAW": "are there any nonstop flights leaving from dallas to baltimore july seventh with who united airlines",
+        "ASR": "are there any non stop flight seating from dallas to baltimore july service with the united airlines"
+    },
+    "880": {
+        "RAW": "i need to catch an evening flight from boston to philadelphia on august first",
+        "ASR": "i need to catch an evening flight from boston to philadelphia on august first"
+    },
+    "881": {
+        "RAW": "what is the most expensive flight from dallas to baltimore",
+        "ASR": "what is the most expensive flight from dallas to baltimore moore"
+    },
+    "882": {
+        "RAW": "pittsburgh to denver",
+        "ASR": "pittsburgh to denver"
+    },
+    "883": {
+        "RAW": "i'd like to book the cheapest one way flight from denver to pittsburgh on july fifteenth",
+        "ASR": "i'd like to book the cheapest one wave from vendors to pittsburgh down july"
+    },
+    "884": {
+        "RAW": "what nonstop flights between boston and washington arrive after 4 o'clock pm",
+        "ASR": "stop five speaking boston and washington arrive after four o'clock pm"
+    },
+    "885": {
+        "RAW": "what ground transportation is available in atlanta",
+        "ASR": "what ground transportation is available in atlanta"
+    },
+    "886": {
+        "RAW": "show me the flight that leaves philadelphia in the afternoon and arrives in the evening in denver",
+        "ASR": "show me the flight that leaves philadelphia in the afternoon at the evening"
+    },
+    "887": {
+        "RAW": "show me a list of flights from denver to san francisco for september first 1991",
+        "ASR": "show me of flights from denver san francisco for september first nineteen ninety nine"
+    },
+    "888": {
+        "RAW": "show me all the flights from san francisco to boston for august thirty first 1991",
+        "ASR": "show me all the flights from san francisco to boston for august thirty first nineteen ninety one"
+    },
+    "889": {
+        "RAW": "give me all the flights from memphis to charlotte",
+        "ASR": "give me all the flights from"
+    },
+    "890": {
+        "RAW": "show me the economy flights from baltimore to dallas",
+        "ASR": "show me the economy flights from blocking"
+    },
+    "891": {
+        "RAW": "i want to fly nonstop from denver to dallas",
+        "ASR": "a wonderful from denver dallas"
+    },
+    "892": {
+        "RAW": "can you list all flights departing from toronto and landing in san diego with a stopover in denver",
+        "ASR": "can you list off flights departing from toronto and branding in san diego with a stop over in denver"
+    },
+    "893": {
+        "RAW": "list all flights from baltimore to atlanta after 12 noon thursday",
+        "ASR": "placed off flights from walking with atlanta after twelve new"
+    },
+    "894": {
+        "RAW": "is there limousine service available at baltimore airport",
+        "ASR": "is there limousine service available at baltimore airport"
+    },
+    "895": {
+        "RAW": "show me the flights that leave on thursday mornings from atlanta to washington and include whether meals are offered and what the prices are",
+        "ASR": "the wife said me a thursday mornings from adelaide atlanta and to launch whether are offered in with the price"
+    },
+    "896": {
+        "RAW": "while i'm in pittsburgh what ground transportation is available",
+        "ASR": "and pittsburgh wood transportation is it"
+    },
+    "897": {
+        "RAW": "is there a flight from atlanta to san francisco on november seventh at noon",
+        "ASR": "is there a flight from atlanta to san francisco on november seventh"
+    },
+    "898": {
+        "RAW": "what is the cost of round trip ticket first class between oakland and atlanta",
+        "ASR": "what is the cost of round trip to get first class between oakland and atlanta"
+    },
+    "899": {
+        "RAW": "what flights leave pittsburgh and arrive in los angeles after 5 pm on thursday",
+        "ASR": "what flight sleep pittsburghr arrive in los angeles after five pm on thursday"
+    },
+    "900": {
+        "RAW": "nonstop flights denver to kansas city",
+        "ASR": "nine twenty ten hundred city"
+    },
+    "901": {
+        "RAW": "flight information between washington and denver on september third",
+        "ASR": "flight information we've in washington drive september"
+    },
+    "902": {
+        "RAW": "show me flights from baltimore to philadelphia",
+        "ASR": "show me flights from confirmation philadelphia"
+    },
+    "903": {
+        "RAW": "please arrange a flight for me from denver to san francisco on us air",
+        "ASR": "please arrange a flight for me from denver san when i"
+    },
+    "904": {
+        "RAW": "what is the least expensive one way ticket from atlanta to denver leaving on october twelfth",
+        "ASR": "what is the least expensive one way ticket from atlanta leaving or october twelve"
+    },
+    "905": {
+        "RAW": "show me all the flights from charlotte to cleveland",
+        "ASR": "show me all the flights from charlotte cleveland"
+    },
+    "906": {
+        "RAW": "what is the cheapest flight from long beach to memphis",
+        "ASR": "what is the cheapest fly for one beach"
+    },
+    "907": {
+        "RAW": "does delta airlines fly from boston to washington dc",
+        "ASR": "does delta airlines fly from boston to washington"
+    },
+    "908": {
+        "RAW": "what are the flights from tacoma to san jose on wednesday the nineteenth",
+        "ASR": "what are the flights from calling to san jose on wednesday the nineteenth"
+    },
+    "909": {
+        "RAW": "what flights are there from atlanta to oakland on thursday with in flight meals",
+        "ASR": "with flights from length of the open like"
+    },
+    "910": {
+        "RAW": "show me the most expensive fare",
+        "ASR": "show me the most expenses"
+    },
+    "911": {
+        "RAW": "need a flight from pittsburgh to denver",
+        "ASR": "need flight from his first denver"
+    },
+    "912": {
+        "RAW": "what does fn under fare code mean",
+        "ASR": "what does of and other fair code me"
+    },
+    "913": {
+        "RAW": "what flights are there from minneapolis to chicago",
+        "ASR": "what flights are there for minneapolis to chicago"
+    },
+    "914": {
+        "RAW": "i want to make a round trip flight from washington to san francisco and return",
+        "ASR": "i want to make a round flight from washington san system which return"
+    },
+    "915": {
+        "RAW": "i want a flight on twa from boston to san francisco",
+        "ASR": "i wanna flight on twelve from boston to san francisco"
+    },
+    "916": {
+        "RAW": "please list the flights from dallas fort worth to boston on july twenty third",
+        "ASR": "please list the flights from dallas forward to boston on"
+    },
+    "917": {
+        "RAW": "all flights from pittsburgh to dallas round trip after 12 pm less than 100",
+        "ASR": "white from pittsburgh to dallas round trip after twelve pm and less than one hundred"
+    },
+    "918": {
+        "RAW": "what would be cost of a round trip from pittsburgh to san francisco",
+        "ASR": "what would be posted around fifth from pittsburgh to san francisco"
+    },
+    "919": {
+        "RAW": "how much is an economy ticket from washington to san francisco on september thirtieth",
+        "ASR": "how much is an economy from washington campus six on september thirty"
+    },
+    "920": {
+        "RAW": "show me one way flights from milwaukee to orlando wednesday",
+        "ASR": "show me one reference from unwanted to orlando wednesday"
+    },
+    "921": {
+        "RAW": "i need a flight from indianapolis to toronto reaching toronto on thursday morning",
+        "ASR": "i need a flight from indianapolis to toronto reaching to toronto on thursday morning"
+    },
+    "922": {
+        "RAW": "i need a flight from san francisco to boston that leaves after 10 pm",
+        "ASR": "i need a flight from san spoke to boston the reach after ten pm"
+    },
+    "923": {
+        "RAW": "give me the flights from pittsburgh to los angeles on thursday evening",
+        "ASR": "give me the flights from pittsburgh so los angeles on thursday"
+    },
+    "924": {
+        "RAW": "show me all flights to dallas that are less than 1500 dollars round trip",
+        "ASR": "show me all flights to dallas that are less than one thousand five hundred dollars round trip"
+    },
+    "925": {
+        "RAW": "what are the prices of these flights",
+        "ASR": "what are the prices of these points"
+    },
+    "926": {
+        "RAW": "i need a list of late afternoon flights from chicago to milwaukee",
+        "ASR": "i need a list of late afternoon flights from chicago to mil"
+    },
+    "927": {
+        "RAW": "show me the flight schedule from pittsburgh to san francisco",
+        "ASR": "show me the flight schedule for pittsburgh to san francisco"
+    },
+    "928": {
+        "RAW": "what is the cheapest round trip flight from denver to atlanta",
+        "ASR": "what is the cheapest round trip fly from denver to atlanta"
+    },
+    "929": {
+        "RAW": "show me the cheapest flights from atlanta to denver",
+        "ASR": "show me the cheapest flight from denver"
+    },
+    "930": {
+        "RAW": "please show me the flights from washington to san francisco",
+        "ASR": "please show me the flight in washington to san"
+    },
+    "931": {
+        "RAW": "what is the most expensive one way fare from boston to atlanta on american airlines",
+        "ASR": "what is the most expensive one way from boston to at on american airlines"
+    },
+    "932": {
+        "RAW": "i'd like a first class flight from denver to baltimore on january first",
+        "ASR": "i'd like a first class flight from denver of baltimore on january first"
+    },
+    "933": {
+        "RAW": "show me the flights available from san francisco to pittsburgh for tuesday and also the price",
+        "ASR": "show me the flights available from san francisco to pittsburgh for tuesday day and also the price"
+    },
+    "934": {
+        "RAW": "how many nonstop flights going from dallas to oakland july twenty seventh",
+        "ASR": "how many non that flights going from dallas to oakland july twenty seven"
+    },
+    "935": {
+        "RAW": "i'd like to find the earliest flight possible from san francisco to atlanta",
+        "ASR": "i'd like to find the earliest white possible from san francisco directly"
+    },
+    "936": {
+        "RAW": "show me the cheapest flights from san francisco to boston",
+        "ASR": "show me the cheapest flights for san francisco to voucher"
+    },
+    "937": {
+        "RAW": "find travel arrangements for a round trip flight from dallas to pittsburgh arriving after 8 pm before 10 pm",
+        "ASR": "find travel arrangements for a round trip flight from dallas to pittsburgh arriving after eight pm before ten pm"
+    },
+    "938": {
+        "RAW": "show me the flights available from atlanta to baltimore leaving atlanta in the morning",
+        "ASR": "show me the flights available from atlanta to baltimore leaving at atlanta in the morning"
+    },
+    "939": {
+        "RAW": "show any flights leaving san francisco on sunday and arriving in pittsburgh",
+        "ASR": "show any flights leaving san francisco on sunday and arriving in pittsburgh"
+    },
+    "940": {
+        "RAW": "show me the flights from dallas to baltimore",
+        "ASR": "show me the flights from dallas to baltimore"
+    },
+    "941": {
+        "RAW": "what is the smallest aircraft available flying from pittsburgh to baltimore arriving on may seventh",
+        "ASR": "what is this smallest aircraft available line from place to baltimore water arriving on may"
+    },
+    "942": {
+        "RAW": "show me the flights from baltimore to philadelphia",
+        "ASR": "show me the flights from baltimore to you other delta"
+    },
+    "943": {
+        "RAW": "what is the airfare for flights from denver to pittsburgh on delta airline",
+        "ASR": "what is the enercare i like from denver for the pittsburgh delta airlines"
+    },
+    "944": {
+        "RAW": "what are the flights from chicago to indianapolis",
+        "ASR": "what are the flights from chicago to indian indianapolis"
+    },
+    "945": {
+        "RAW": "can you give me the latest flight from atlanta to denver on july seventh",
+        "ASR": "can you give me the latest swipe length of december is july nine seven"
+    },
+    "946": {
+        "RAW": "american flights from cincinnati to houston",
+        "ASR": "american flights from cincinnati to houston"
+    },
+    "947": {
+        "RAW": "what ground transportation is available in dallas",
+        "ASR": "what grant transportation is available in dallas"
+    },
+    "948": {
+        "RAW": "pittsburgh to boston saturday",
+        "ASR": "pittsburgh to boston saturday"
+    },
+    "949": {
+        "RAW": "what type of ground transportation is available at philadelphia airport",
+        "ASR": "what type of ground transportation is available at philadelphia airport"
+    },
+    "950": {
+        "RAW": "what flights leave pittsburgh july fifth after 7 pm and arrive in san francisco",
+        "ASR": "what flight sleeve pitt for dolores spectre seven pm in arrive in san francisco"
+    },
+    "951": {
+        "RAW": "what flights from miami to indianapolis on sunday",
+        "ASR": "what flights from my indianapolis on sunday"
+    },
+    "952": {
+        "RAW": "i live in denver and i'd like to make a trip to atlanta",
+        "ASR": "i live in denver and i'd like to make a trip to atlanta"
+    },
+    "953": {
+        "RAW": "how can i go from the san francisco airport to downtown san francisco",
+        "ASR": "how can i go from san to downtown or"
+    },
+    "954": {
+        "RAW": "show me the flights from atlanta to washington dc on thursday evening",
+        "ASR": "show me the flights a washington dc and thursday is"
+    },
+    "955": {
+        "RAW": "show me the least expensive flight from miami to new york on a sunday with first class fare",
+        "ASR": "show me the least expensive flight from miami to new york york on a sunday the first class"
+    },
+    "956": {
+        "RAW": "i want to fly from philadelphia to dallas to san francisco on monday july eighth",
+        "ASR": "i want to advise something without being to dallas the san system francisco and monday"
+    },
+    "957": {
+        "RAW": "i need a flight from atlanta to baltimore and this flight should arrive at 7 pm please",
+        "ASR": "i need to fly from this is also a why should seven pm"
+    },
+    "958": {
+        "RAW": "may i have a list of flights going from boston to denver on the twenty ninth of july",
+        "ASR": "may i have a list of flight one from boston to denver on the twenty ninth of july"
+    },
+    "959": {
+        "RAW": "what is sa",
+        "ASR": ""
+    },
+    "960": {
+        "RAW": "show me the cheapest flight on june fourteenth arriving in baltimore starting from dallas",
+        "ASR": "show that the cheapest slide on june fourteenth arriving baltimore starting from dallas"
+    },
+    "961": {
+        "RAW": "show me all flights from ontario to tacoma one way",
+        "ASR": "show me all flights from ontario to one way"
+    },
+    "962": {
+        "RAW": "locate flights from philadelphia to dallas stopping in hartfield",
+        "ASR": "flights from philadelphia of the dallas stopping and hard deal"
+    },
+    "963": {
+        "RAW": "what are the first class and coach fares for flights from chicago to kansas city arriving around 7 pm next thursday",
+        "ASR": "what are the first class and coach pairs for flights from chicago to kansas city arriving around seven pm next thursday"
+    },
+    "964": {
+        "RAW": "all flights from denver to pittsburgh leaving after 6 pm and before 7 pm",
+        "ASR": "all flights from denver to pittsburgh leaving after six pm and before seven pm"
+    },
+    "965": {
+        "RAW": "i'd like a flight tomorrow late from nashville to houston with dinner please",
+        "ASR": "i'd like to flight tomorrow lake and nashville houston dinner"
+    },
+    "966": {
+        "RAW": "what is your earliest flight from boston to washington on august twenty seventh",
+        "ASR": "what is your earliest flight boss they are wanting to know on is twenty seventh"
+    },
+    "967": {
+        "RAW": "i want to fly boston to dallas",
+        "ASR": "i wanted to find boston to dallas"
+    }
+}

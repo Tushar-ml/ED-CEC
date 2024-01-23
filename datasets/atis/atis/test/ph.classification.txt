@@ -1,0 +1,800 @@
+AY. .W.UH.D. .L.AY.K. .T.UW. .F.AY.N.D. .AH. .F.W.AY.T. .F.R.AH.M. .CH.AA.R.L.AH.N. .DH.AH. .L.AE.S. .S.T.EY.G.AH.S. .S.EH.T. .L.IY. .T.UW. .S.T.AA.P. .IH.N. .S.EY.OY. 
+AA.N. .N.EY.P.AH.L. .F.ER.S.T. .AY. .N.IY.D. .T.UW. .T.EY.K. .IH.Z. .F.R.AH.M. .S.AH.P.OW.M. .W.IH.DH. .DH.AH. .D.EH.N. .HH.UW. .S.EY. .D.IH.D.P.AA.R.T.IH.NG. .IH.DH. .F.AO.R. .S.EH.V.N.IY. .AH.N. 
+AA.N. .EY. .AH.L. .F.ER.S.T. .T.AY.M. .Y.IY. .T.UW. .F.L.AY.F.AH.L. .AH.N. .K.AH.N.T.IH.N.Y.UW.S. .T.UW. .S.EY.M. .DH.AH. .IH.NG.G.AH.L. 
+AY. .W.UH.D. .L.AY.K. .AH. .P.L.AY.S. .R.AE.V.AH.L.IH.NG. .W.AH.N. .W.EY. .F.R.AH.M. .S.IY.IH.K.S. .T.UW. .D.EY.D.IY.AY.G.OW. .AA.N. .EY. .P.IH.S.AH.N. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .AH.N. .M.AH.L.AE.N.D.AH. .DH.IH. .S.AO.L.AH.L.EY. .S.IH.N. .F.AO.R. .EY.B.AH.L. .F.AO.R. .S.AH.M. .S.AW.L.AH. .EH.R.AH.N. 
+AY. .N.IY.D. .T.UW. .F.L.AY.T. .F.R.AH.M. .T.JH.ER.AA.N.T.AH. .IH.N. .N.UW. .W.ER. .P.OY.T. .W.EY. .IY.L.IY. .S.IY. .IH. . .DH.EH.R.Z. .G.OW. . 
+M.AH.N.D.IY. .M.AO.R.N.IH.NG. .AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY.D. .F.R.AH.M. .K.AH.L.AH.M.B.AH.S. .R.UW. .IH.N.D.IY.AH.N.AE.HH.ER. 
+AA.N. .W.EH.N.Z.D.IY. .EY. .W.AH.L. .S.IH.K.S. .T.AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY. .F.R.AH.M. .L.AO.NG. .B.IY.CH. .T.UW. .K.AH.L.AH.M.B.AH.S. .AE.F.T.ER. .TH.R.IY. .P.EH.M. 
+AE.F.T.ER. .T.W.EH.L.V. .P.IY.EH.M. .AA.N. .W.EH.N.Z.D.IY. .EY.P.AH.L. .S.IH.K.S. .AY. .W.UH.D. .HH.AH.V. .T.UW. .F.L.AY. .F.R.AH.M. .W.AH.N. .B.IY.CH. .T.UW. .K.OY.N.AH.Z. 
+AA.R. .DH.EH.R. .EH.N.IY. .B.L.EY.T.S. .F.R.AH.M. .L.AO.NG. .B.IY.S.T. .T.UW.F.AH.L. .W.AH.N. .ER.AA.N. .W.AH. .S.IY.IY. .W.AO.S.AH. 
+F.AY.N.D. .AH. .F.L.AY.T. .P.R.AH.M.EH.N.AH.S. .T.UW. .T.IH.K.OW.M. .M.AH. .D.IH.M. 
+AA.N. .N.EH.K.S.T. .W.EH.N.D.IY.Z. .W.AY.F. .AO.R. .K.AE.N.Z.AH.S. .S.IH.N.IH.NG. .T.UW. .SH.AH.K.AA.G.OW. .SH.UH.D. .ER.AY.Z. .IH.N. .SH.AH.K.AA.G.OW. .ER.AW.N.D. .S.EH.V.AH.N.P.IY. .AH.M.D. .L.IH.T.ER. .W.AY.T. .AA.N. .TH.ER.D.D.EY. 
+F.L.AY.NG. .AA.N. .AH.M.EH.R.IH.K.AH.N. .F.AO.M. .M.AY.AE.M.IY.Z. .AH.V. .SH.AH.K.AA.L. .ER.AY.Z.IH.N. .SH.AH.K.AA.G.OW. .AH.B.AW.T. .S.AY.V. .P.AH. 
+F.AY.N.D. .F.L.AY.T.S. .S.AY.V.IH.NG. .N.UW. .Y.AO.R.K. .S.IH.T.IY. .N.EH.K.S.T. .S.AE.T.ER.D.IY. 
+F.AY.N.L.AE.N. .AE.T. .W.AY.T. .F.R.AH.M. .F.AO.L.V. .L.EY.T. .S.IH.T.IY. .T.UW. .N.UW. .Y.AO.R.K. .AA.N. .S.AE.T.ER.D.IY. .EY.P.AH.L. .N.AW.N. 
+SH.OW. .F.L.AY.T. .F.R.AH.M. .B.ER.AE.NG.K. .T.UW. .N.OW. .W.AO.K.IY. .F.AO.R. .T.AH.D.EY. 
+SH.OW. .F.L.AY.T.S. .M.AA.R. .W.IY.K.IH.NG. .F.R.AH.M. .AH. .W.AA.N.T.IY. .T.UW. .S.EY.V. .R.UW.IH.S. 
+SH.OW. .F.L.AY.T. .S.AE.T.ER.D.IY. .IY.V.N.IH.NG. .F.R.AH.M. .S.EY.N. .L.UW.IH.S. .T.UW. .B.ER.B.AE.NG.K. 
+SH.OW. .F.L.AY.T.S. .F.R.AH.M. .B.ER.B.AE.NG.K. .T.UW. .S.EY. .L.UW.IH.S. .AA.N. .M.AH.N.D.IY. 
+SH.OW. .F.L.AY.T.S. .F.R.AH.M. .V.ER.B.AE.K. .T.UW. .M.OW.W.AA.K.IY.AA.N. .M.AH.N.D.IY. 
+SH.OW. .F.L.AY.T.S. .T.UW.Z.D.IY. .IY.V.N.IH.NG. .F.R.AH.M. .N.IH.W.AO.K.IY. .T.UW. .S.EY. .T. .L.UW.IH.S. 
+SH.OW. .F.L.AY.T.S. .W.EH.N.Z.D.IY. .IY.V.N.IH.NG. .F.R.AH.M. .S.EY.N.T. .L.UW.IH.S. .T.UW. .B.ER.B.AE.NG.K. 
+W.IH.CH. .P.L.EY.T.S. .T.R.AE.V.AH.L. .F.R.AH.M. .HH.AE.N.Z.AH. .S.IH.T.IY. .T.UW. .L.AO.S. .AE.N.D.JH.R.AH.L.S. 
+W.AH.T. .F.L.AY.T.S. .T.R.AE.V.AH.L. .F.R.AH.M. .L.AA.S. .F.IH.G.AH.S.T. .T.UW. .W.OW.L. .AE.N.JH.AH.S. 
+W.IH.CH. .P.L.EY.T.S. .T.R.AE.V.AH.L. .F.R.AH.M. .K.AE.N.T.AH.S. .S.IH.T.IY. .F.UW. .L.AE.S. .AE.N.T.R.AH.L.AH.S. .S.AA.N.IY.P.R.AH.M. .AE. 
+W.IH.CH. .L.AY.T.S. .T.R.AE.V.AH.L. .F.R.AH.M. .L.AO.S. .F.IH.G.AH.Z. .T.UW. .L.OW.S. .AE.N.JH.AH.L.IH.S. .K.AE.L.AH.F.AO.R.N.Y.AH. .AH.N.D. .D.ER.AY.V. .AA.N. .EY.P.R.AH.L. .N.AY.N.S. .B.IH.T.W.IY.N. .F.AO.R. .AH.N.D. .F.AY.V. .P.AH.N.AH.N. 
+W.IH.CH. .L.AY.F. .AA.N. .DH.AE.T. .F.EH.R.B.OW.L. .F.R.AH.R. .M.AO. .L.AE.N.G.OW. .K.IH. .P.R.IY.Z.NG. 
+W.IH.CH. .F.L.AY.T.S. .T.R.AE.V.AH.L. .F.R.AH.M. .P.L.IY.V.AH.AH.N.AE.P.AH.L.IH.S. .AA.N. .IY.V.R.OW.L. 
+W.IH.CH. .F.L.AY.T.S. .T.R.AE.V.AH.L.D. .F.R.AH.M. .IH.N.EY.AH.S. .T.UW. .S.AE.N.D.IY.EY.G.OW. .P.EY.S.AH.L.T.IH.N. 
+W.IH.CH. .L.AY.K.S. .G.OW. .F.R.AH.M. .K.L.IY.V.L.AH.N.D. .T.UW. .IH.N.D.IY.AH.N. .AE.P.AH.L.Z. .AA.N. .IY.V.R.AH.TH.IH.N. 
+W.IH.CH. .F.L.AY.T.S. .T.R.AE.V.AH.L. .F.R.AH.M. .M.AE.SH. .V.IH.L. .T.UW. .T.AH.T.OW.M.AH. 
+JH.AH.S.T. .T.UW. .K.AH.M. .EH.R.F.AO.R.D. .AO.F.ER.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .F.R.AH.M. .DH.AH. .EH.R.P.AO.R.T. .T.UW. .DH.AH. .D.AW.N.T.AW.N. .EH.R.IY.AH. 
+W.IH.CH. .F.L.AY.T.S. .T.R.AE.V.AH.L. .AA.N. .T.UW. .HH.OW.M. .W.IH.DH. .DH.AH. .S.AE.N. .HH.OW.Z.EY. 
+W.AH.T. .AA.R. .UW.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .DH.AH. .K.OW.M. .AH.V. .DH.AH. .S.AE.N.D.AH.L. .D.EY. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .HH.ER. .JH.AY.N.AH.L.IH. .D.ER.S.AE.N. .AH. .EY. 
+AY. .N.IY.D.AH. .L.AY.T. .DH.AE.T. .G.OW.Z. .F.R.AH.M. .B.AA.S.T. .AH.N. .T.UW. .AO.R.L.AE.N.OW. 
+AA.R. .DH.EH.R. .EH.N.IY. .F.L.AY.T.S. .F.R.AH.M. .B.AA.S.T.AH.N. .T.UW. .AO.R. .L.AE.N.D.OW. .K.AH.N.EH.K.T.IH.NG. .IH.N. .N.UW. .Y.AO.R.K. 
+AA.R.D.ER. .EH.N.ER. .W.EY.S. .AH.R.V.AY.S. .AH.N. .F.AO.R. .AH.L.AE.N.D. .AH. .P.EH.N.AE.K.T.IH.NG. .AH.N.K.AH.M.EH.N.IH. 
+D.AH.Z. .DH.IH.S. .F.L.AY.T. .S.ER.V.AH.N.T. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .SH.AA.R.T.AH.Z. .T.UW. .M.AY. .AE.N. 
+AY. .N.IY.D. .AH. .N.AA.N.S.T.AH.F. .W.AY.F. .F.R.AH. .M.AY. .HH.AE.N.D.IH.NG. .T.AO. .T.ER.AA.N.K.OW. 
+AY. .N.IY.D. .AH. .N.AA.N. .S.T.AA.P. .F.L.AY.T. .F.R.AH.M. .TH.R.AA.OW. .T.UW. .S.EY.UW.IH.SH. 
+AY. .N.IY.D.AH. .F.L.AY.T. .F.R.AH.M. .T.UW.AA.N.AH. .T.UW. .T.IY. 
+AY. .N.IY.D. .T.UW. .F.L.AY. .F.R.AH.M. .T.EY.K.AH.N. .W.IH.DH. .DH.AH.SH.AO.NG. 
+AY. .N.IY.D. .T.UW. .F.L.AY.T. .AA.N. .Y.UW.N.AY.T.AH.D. .EH.R.L.AY.N.Z. .F.R.AH.M. .L.AO.G.W.AA.R.AH.T.IY. .AH.T. .T.UW. .S.AE.N. .HH.OW.Z.EY. 
+AY. .N.IY.D. .AH. .F.L.AY.S. .K.AH.N. .T.AE.M. . .T.AH.N. .AH.N. .R.AA.S.IH.NG. 
+AY. .N.IY.D.AH. .F.L.AY.T. .F.R.AH.M. .M.OW.W.AO.N.K.IY. .T.UW. .S.IY.AE.T.AH.L. 
+AY. .N.IY.D. .T.AH. .F.L.AY.T. .F.R.AH.M. .M.EH.M.P.AH.S. .T.UW. .M.AA. .S.P.IY.K.AH.Z. 
+AY. .N.IY.D. .T.AH. .F.L.AY.T. .F.R.AH.M. .L.AE.S.T. .F.EY.G.AH.S. .T.UW. .AE.N.T.EH.R.IY.OW. 
+AY. .N.IY.D. .T.AH. .P.F.L.AY. .F.R.AH.M. .AE.N.T.IH.R.IY.AH.N. .P.K.AH.M.EH.N.T.IH.NG. 
+W.IH.CH. .P.L.EY.T.S. .G.OW. .F.R.AH.M. .M.AH.W.AO.N.T.TH.IY. .DH.UW. .K.AE.M.P.AH.N. .S.T.AA.P. .IH.N. .R.AE.SH.T.OW.L. 
+W.IH.CH. .F.L.AY.T.S. .L.IY.V. .N.UW.ER.R. .K.AE.TH.ER.N.UW. .N.EH.K.S.T. .S.AE.T.ER.D.IY. .AH.N.D. .ER.AY.V. .IH.N. .L.OW.S. .AE.N.JH.AH.L.IH.S. 
+W.IH.CH. .W.AY.T.S. .L.IY.V. .D.IH.T.R.OY.T. .AH.N.D. .ER.AY.V. .AE.T. .S.EY. .P.IY.T.ER.S.B.ER.G. .ER.AW.N.D. .N.AY.N. .IY. 
+W.IH.CH. .F.L.AY.T.S. .AA.N. .Y.AO.R.TH.W.EH.S.T. .EH.R.L.AY.N. .W.IY. .D.AH. .K.AO.IH.NG. .R.AY.V. .DH.AE.T. .S.EY. .P.IY.T.Z. .B.ER.N. 
+W.IH.CH. .L.AY.T.L.IY. .SH.AH.K.AA.G.OW. .N.EH.K.S.T. .T.UW.Z.D.IY. .AH.N.D. .ER.AY.V. .IH.N. .T.UW. .T.R.OY.T. .ER.AW.N.D. .S.IH.K.P.IY. 
+SH.OW. .M.IY. .R.AW.N.D. .T.UW.R. .AH. .P.L.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW. .D.IH.T.AO.R.T. .L.IY.V.IH.NG. .N.EH.T.S. .T.UW. .S.T.EY. .AH.N.D. .R.IY.T.ER.N.IH.NG. .DH.AH. .EY. .AE.F.T.ER. 
+W.IH.CH. .R.AW.N.D. .F.UW. .F.L.AY.T.S. .W.IY. .HH.AE.V. .SH.AH.K.AA.G.OW. .HH.EH.K.S. .T.UW.Z.D.IY. . .ER.AW.N.D. .S.IH.K.S. .P.IY.EH.M. .AH.N.D. .ER.AY.V. .IH.N. .D.IH. .T.R.OY. 
+W.IH.CH. .R.AE.N.S.R.ER. .W.AY.T.L.IY. .SH.AH.K.AA.G.OW. .N.EH.K.S.T. .T.UW.TH. .D.IY. .AH.N.D. .ER.AY.V. .IH.N.D. .T.R.OY.D. .ER.AW.N.D. .DH. .W.IH.K.S.P.IY.EH.M. 
+W.IH.CH. .P.L.EY.T.S.L.IY. .W.AA.N. .M.AH.N.D.IY. .F.R.AH.M. .M.AA.R.K.IY.OW.N. .D.ER.AY.V.AH.N. .SH.UH. .K.AA.N.AH. . .DH.AH. .M.AO.R.N.IH.NG. 
+W.IH.CH. .L.AY.F.L.IY.V. .SH.AH.K.AA.G.OW. .AA.N. .EY.P.R.AH.L. .T.W.EH.L.V. .AH.N.D. .ER.AY.V. .IH.N. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.S. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. 
+W.IH.CH. .L.AY.T.S. .L.IY.V. .AA.N. .W.EH.N.Z.D.IY. .EY.P.AH.L. .TH.R.ER.T.IY.N. .F.R.AH.M. .IH.L.AH.N.AE.P.L.IH.S. .AH.N.D. .ER.AY.V. .IH.N. .L.AO.N.T.R.IY. .AO.L. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. 
+W.IH.CH. .F.L.AY.T.L.IY. .B.EY.S.AH.L. .T.R.AH.S. .F.R.AH.M. .K.AH.N.D.IY.N.AE.P.L.IH.S. .AH.N.D. .D.ER.AY.V. .IH.N. .M.AA.N.T.R.IY.AO.L. .ER.AW.N.D. .T.EH.N. .T.IY. 
+AY.D. .L.AY.K. .T.UW. .G.OW. .R.AH. .L.AO.NG. .B.IY.CH. .T.UW. .K.EY. .W.IH.L.S. .AH. .AY.D. .L.AY.K. .T.UW. .S.T.AA.F. .IH.N.D. .AW. .AY. .L.AY.K. .Y.UW. .HH.AE.V. .M.AH.CH. .D.UH.R.IH.NG. .N.AY.S. .W.AH.N. 
+N.EH.K.S.T. .W.EH.N.Z.D.IY. .AY. .W.UH.D. .L.AY.K. .T.UW. .L.IY.V. .K.AE.N.Z.AH.S. .S.IH.T.IY. .AA.N. .AH. .T.R.IH.P. .T.UW. .SH.AH.K.AA.G.OW. .W.IH.CH. .ER.AY.V.Z. .IH.N. .SH.AH.K.AA.G.OW. .ER.AW.N.D. .S.EH.V.AH.N. .P.IY.EH.M. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .R.IH.T.ER.N. .F.R.AH.M. .SH.AH.K.AA.G.OW. .ER.AW.N.D. .S.EH.V.AH.N. .P.IY.EH.M. .T.UW. .K.AE.N.Z.ER. .S.IH.T.IY. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .L.IY.D. .DH.IH.S. .AE.F.T.ER.N.UW.N.AW.ER. .AH.M.EH.R.IH.K.AH.N. .F.L.AY.T. .F.R.AH.M. .S.IH.N.S.IH.N. .AE.T.IY. .T.UW. .B.ER. .B.AE.K. 
+AA.N.S.AH.N.D.EY. .IY.V.N.IH.NG. .AY. .W.UH.D. .L.AY.K. .T.UW. .L.IY.V. .M.AA.N.T.R.IY.AO.L. .W.R. .B.AE.K. .AA.N. .AH. .F.L.AY.T. .T.UW. .S.AE.N. .D.IY.EY.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .AA.N. .S.AH.N.D.EY. .F.R.AH.M. .M.AA.N.T.R.IY.AO.L. .AH. .K.OW.B.EH.K. .T.UW. .S.AE.N. .D.IY.EY.G.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. 
+AA.N.Y.UW.D.IY. .AA.L. .DH.AH. .P.L.AY.S. .F.R.AH.M. .S.AE.N. .D.IY.EY.K.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. .T.UW. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.S.T. .IH.N.L.EY. .AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY.T. .T.UW. .B.IY. .IH.N. .DH.AH. .AE.F.T.ER.UW.N. 
+AA.N. .TH.ER.Z.D.EY. .M.AO.R.N.IH.NG. .AY. .W.AA.Z. .L.AY.K. .AE.N. .AA.N.AH.S.AE.P. .K.W.AY.T. .F.AO.R. .P.EY.N.IH. .DH.AE.T. .L.EH.S. .T.UW. .T.ER.R.AA.N. .T.EH.N. 
+AA.N. .F.R.AY.D.IY. .W.EH.R.N.IH.NG. .AY. .W.AA.Z. .L.AY.K. .T.UW. .F.L.AY.T. .R.AH.L. .T.ER.AA.N.T.AH.AH. .S.AH. .M.AA.N.T.R.IY.R. 
+AY. .W.UH.D. .L.AY.K. .IH.N. .ER.R.IY. .M.AO.R.N.IH.NG. .F.L.AY.T. .T.AH.D.EY. .AH.N. .L.AO.L. .S.AE.N.T.AH.L.IH.S. .T.UW. .SH.AA.R. 
+AA.N. .W.EH.N.Z.D.IY. .N.AY.T. .AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .F.R.AH.M. .SH.AA.R.L.AH.T. .T.UW.N. .N.UW. .W.ER.K. 
+AA.N. .F.R.AY.D.IH.NG. .IH.N. .AY. .W.UH.V. .L.AY.K. .DH.AH. .F.L.AY.T. .R.AH.M. .Y.UW. .W.ER. .L.AO.NG.S. .IH.N.JH.AH.L.IH.S. 
+F.AY.N.D. .AH. .F.L.AY.T. .F.R.AH.M. .K.AE.M.P.AH.S. .T.AH. .M.AA.N.T.R.IY. .AO.L. .B.AY. .W.EY. .AH.V. .N.UW. .Y.UW.N. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.L.AY.T. .F.AH.M. .M.AY.AE.M.IY. .TH.L.AO.D. .AE.Z. .DH.AH. .L.AA.T. .V.EY.G.AH.S. .M.AH.B.AE.T.AH.R.AY.V.AH.N. .B.IH.F.AO.R. .F.AO.R. .AH.K.L.AA.K. .IY.EH. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.L.AY.T. .F.R.AH.M. .L.AO.S.T. .B.EY. .AH. .M.IH.SH.IH.G.AH.N. 
+P.L.IY.Z. .F.AY.N.D. .AH.T. .K.W.AY.S. .AH.N. .D.IH.T.R.OY. .N.IH.SH.IH.G.AH.N. .ER.Z. .EY.M. .P.EY.V.ER.Z.F.ER. .R.AY.D.IH.NG. .B.IH.F.AO.R. .T.AE.N. .P.IY.T.AH. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.L.AY.T. .F.R.AH.M. .S.EY. .P.IY.T.ER.Z. .B.ER. .T.UW. .M.AY. .AE.M.IY. .AO. .TH.ER.Z.EY. 
+P.L.IY.Z. .F.AY.N.D. .DH.AH. .F.L.AY.T. .F.R.AH.M. .S.AE.N.IY.EY.G. .W.IH.DH. .AH. .AH.L.AH.ER. .W. .N. .AH. .L.AE.S.T. .P.AY. .W.AH.N. 
+P.L.IY.Z. .F.AY.N.D. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .K.AH.L.AH.M.B.AH.S. .T.UW. .HH.Y.UW.S.T.ER.N. .W.IH.DH. .AH. .L.EY. .OW.V.ER. .IH.N. .N.AE.SH.V.IH.L. .T.AH.M.AA.R.OW. 
+P.L.IY.Z. .G.IH.V. .M.IY. .DH.AH. .M.AY.S. .F.R.AH.M. .N.AE.SH.OW. .F.IH.F.IH.Z. .T.AH. .N.AY.N. .S.T.AE. .AH.Z. .S.T.IH.N.ER.Z. .DH.AH. .W.IY. 
+P.L.IY.Z. .F.AY.N.D. .F.L.AY.T.S. .AH.V.EY.L.AH.B.AH.L. .F.R.AH.M. .T.AE.N.Z.AH.S. .T.R.IH.T.IY. .T.UW. .N.UW.W.ER.TH. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.W.AY.T. .DH.AE.T. .G.OW.Z. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .N.UW.AO.R.K. .T.UW. .AW.ER.L.AE.N.D.OW. .B.AE.K. .T.UW. .K.AE.N.S.AH.S. .S.IH.T.IY.Z. 
+P.L.IY.Z. .F.AY.N.D. .AH. .P.R.AY.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY.Z. .AH.N.IY. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.L.AY.T. .F.R.AH.M. .DH.IY. .W.ER.TH. .T.AH.W.AO.R.D. .L.AE.N.D.ER. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.L.AY.T. .F.AO.R. .W.AO.R. .L.AE.N.D.OW. .T.UW. .K.AE.N.Z.AH.S. .S.UW.N. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY. .F.R.AH.M. .K.AH.L.AH.M.P.AH.S. .T.UW. .F.IY.N.IH.K.S. .TH.R.UW. .S.IH.N.S.AH.N.AE.T.IY. .IH.N. .DH.AH. .F.T.ER.N.UW.N. 
+IH.Z. .DH.AH. .EH.R.P.AO.R.T. .AH.V. .F.AO.R. .B.AE.NG.K. .HH.AE.V. .AH. .F.L.AY.T. .DH.AE.T. .K.AH.M.Z. .IH.N. .F.R.AH.M. .K.EH.N. .T.UW. .S.IH.T.IY. 
+W.IH.CH. .F.L.AY.T.S. .ER.AY.V.AH.N. .B.ER.B.V.AE.N.T. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .AA.N. .S.AE.T.ER.D.IY.Z. .IH.N. .DH.AH. .AE.F.T.ER.N.UW.N. 
+W.IH.CH. .F.L.AY.T.S. .D.ER.AY.D.IH.NG. .AO.R.V.EH.N. .AH.L.AO.S. .S.T.EY.T. .T.UW. .F.R.AH.N.S.AE.D.ER.D.IY. .EY.AH.L. .T.W.EH.N.T.IY. .ER.IH.N. .DH.AH. .AE.F.T.AH.M.IY. 
+W.IH.CH. .P.W.AY.T.S. .AA.R. .AH.V.EY.L.AH.B.AH.L. .F.AO.R. .M.AO.R. .L.AE.N.D.OW. .T.UW. .K.L.IY. .W.AH.N. .DH.AE.T. .ER.AY.V. .ER.AW.N.D. .T.EH.N.T.IY.EH.M. 
+W.IH.DH. .F.L.AY.T.S. .AA.R. .AH.V.EY.L.AH.B.AH.L. .F.R.AH.M. .IH.N.IY. .IH.N.AE.P.AH.L.IH.S. .T.UW. .S.AE.N. .D.IY.EY.G.OW. .AH.N. .EY.P.R.AH.L. .T.W.EH.N.T.IY. .F.ER.S.T. .IH.N. .AH. .L.EY.T. .AE.F.T.ER. .N.UW.N. 
+W.IH.T. .L.AY.T. .S.L.IY.Z. .K.L.IY.V. .DH.EH.M. .G.OW.IH.NG. .T.UW. .IH.N.D.IY.AH.N. .AE.P.IH.N. .F.AH.N.D. .EY.AH.L. .T.UW.EH.T. .F.ER.S. .AH.N.D. .M.AO.R.N.IH.NG. 
+W.IH.CH. .F.L.AY.T.S. .AA.R. .AH.V.EY.L.AH.B.AH.L. .AA.N. .EY.P.R.AH.L. .T.W.EH.N.T.IY. .F.ER.S.T. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. .F.R.AH.M. .N.AE.SH.V.IH.L.T.UW. .T.UW. .K.AA.M.AH. 
+W.IH.CH. .F.L.AY.T.S. .AA.R. .AH.V.EY.L.AH.B.AH.L. .F.R.AH.M. .DH.AH. .K.AH.M. .AH.V. .T.UW. .D.AE.N.HH.OW.IY. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. .EY.P.R.AH.L. .T.W.EH.N.T.IY. .S.EH.K.AH.N.D. 
+W.IH.CH. .F.L.AY.T.S. .AA.R. .AH.V.EY.L.AH.B.AH.L. .F.R.AH.M. .S.AE.N. .W.IH. .EY.AH.N.AE.N.SH.AH.L. .Y.UH. .G.EH.N. .M.AO.R.N.IH.NG. .IH.N. .W.IH. .T.UW.F.IY. 
+W.AH.T. .IH.Z. .DH.AH. .M.OW.S.T. .IH.K.S.P.EH.N.S.IH.V. .W.AH.N. .W.EY. .DH.EH.R. .B.IH.T.W.IY.N. .DH.AH. .T.AO.R.T. .IH.N. .W.EH.S.T.CH.EH.S.T.ER. .K.AW.N.T. 
+W.IH.DH. .EH.R.L.AY.N.Z. .F.R.AY. .B.IH.L.IY.N. .DH.AH. .T.R.OY.S.AH.N.D. .W.EH.S.T.CH.EH.S.T. .T.AH. .K.AE.N.S.AH.L. 
+W.AH.T. .Y.UW. .DH.IY. .D.IH.P.AA.R.T.Y.ER. .T.AY.M.Z. .S.T.EH.M. .DH.AH. .F.ER.S.T. .T.AH. .W.EH.S.T. .CH.EH.S.T.ER. .K.AW.N. 
+W.AH.T. .IH.Z. .DH.AH. .L.EY.T.AH.S.T. .F.L.AY.T. .F.R.AH.M. .B.AO.L.T.AH.M.AO.R.T.IY.W.OW.K.W.EH.N. .DH.AE.T. .S.ER.V.Z. .D.IH.N.ER. 
+W.AH.T. .IH.Z. .DH.AH. .ER.L.IY.AH.S.T. .L.AY.T. .B.IH.T.W.IY.N. .F.AO.L.T.AH.M.AO.R. .AH.G.OW. .W.EH.N. .DH.AE.T. .S.ER.V. .B.R.EH.K.F.L.AH.S. 
+W.AH.T. .ER. .L.AY.F. .F.L.AY.Z. .F.R.AH.M. .B.AA.S.T.AH.N. .T.UW. .S.AE.N. .D.IY.EY.G.OW. 
+W.AH.T. .IH.Z. .DH.AH.N. .L.EY.T. .AH. .F.R.EH.K.AH.S.T. .L.AY.T. .F.R.AH.M. .D.AW.L.Z. .T.UW. .K.AE.M.P.AH.N. 
+SH.OW. .M.IY. .AO.L. .L.UW.Z. .T.AA.N.Z. .AH.V. .F.L.AY.T.S. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .B.AA.S.T.AH.N. .W.IH.DH. .S.T.AH.F. .OW.V.ER.Z. .IH.N. .M.IH.N.IY. .AE.P.AH.L.Z. 
+SH.OW. .M.IY. .AO.L. .F.L.AY.T.S. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .B.AA.S.T.AH.N. .W.UH.D. .S.T.AA.P. .OW.V.ER.Z. .IH.N. .M.IH.N.IY.AE.V.AH.L.AH.Z. 
+L.IH.S.T. .V.IH.L.AH.D.EH.L.F.IY.AH. .T.UW. .S.AE.N. .F.R.AE.N.S.IH.S.K.OW. .F.L.AY.T.S. .W.IH.D. .S.T.AA.P. .OW.V.ER.Z. .AH.N. .D.AE.L.AH.S. 
+SH.OW.L. .M.IY. .DH.AH. .K.AH.N.EH.K.T.IH.NG. .F.W.AY.T.S. .B.IH.T.W.IY.N. .B.AA.S.T.AH.N. .AH.N.D. .D.EH.N.V.ER.AH.N.D. .DH.AH. .T.AY.P.S. .AH.V. .DH.EH.R. .G.R.AE.N.D. .Y.UW.N.AH.N. 
+SH.OW. .M.IY. .AO.L. .DH.AH. .M.AO.R.N.IH.NG. .F.L.AY.T.S. .F.R.AH.M. .F.IH.L.AH.D.EH.L.IY.AH. .T.UW. .P.AO.R.TH.W.ER.IY. 
+SH.OW. .DH.AH. .AH.L. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .K.AE.N.D.ER. .S.IH.T.IY. .DH.AO. .S.EY.M. .HH.AO.L. 
+SH.OW.M.IY. .N.AO.R.TH.W.EH.S.T. .F.L.AY.T.S. .IH. .EH.V.R.IY.D.EY.T. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IY.Z. .DH.UW. .S.EY. .K.AA.M. 
+SH.OW. .DH.IY. .AA.N. .DH.AH. .F.L.AY. .T.UW.N. .IH.N. .AH. .M.AE.T. .L.AH.Z. .K.AH.SH.UH.R. .IH.T. .AA.N. .M.AH.N.D.IY. 
+W.AH.T. .IH.Z. .DH.AH. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .B.IH.T.W.IY.N. .DH.AH. .CH.AA.R.L.AH.T. .DH.EH.R.F.AO.R. .CH.AA.R.L.AH.T. .AH.N.D. .F.AO.R.D.IH. .D.AW.N.T.AW.N. .CH.AY.M.AH. 
+SH.OW. .M.IY. .AO.L. .AH.F.L.AY.T.S. .F.R.AH.M. .SH.AA.R.L.AH.T. .AH. .M.IH.D.IY.AE.T. .L.IH.S.T. .TH.IH.NG. .B. .T. .T.UW. .DH.AH. .AE.M. .AO.R. .L.EY.T.ER. .AA.N. .M.AH.N.IY. 
+S.IH.L.M.IY. .AO.L. .DH.AH. .P.L.AY.T. .F.S.AH.M. .S.AA.L.AH.T. .T.UW. .M.IH.N.IY.AE.P.AH.L.IH.Z. .AA.N. .T.UW.D.EY. .M.AO.N.Y.IH.N. 
+SH.IY.L. .N.IY.D. .AH. .D.ER.EH.K.T. .W.AY.T. .AY.M. .SH.AA.R.IH.T. .T.UW. .IH.N.N.AE.P.AH.L.IH.Z. .AY.N. .R.UW. .S.EY. .AA.N. .IH.N. 
+SH.UH.R.L.IY. .F.L.AY.V.AH.S. .W.AY.IY. .F.AH.OY.IH. .AH.N.B.IY. .F.R.AH.M. .SH.UH.R. .W.IH.DH.IH.N. .DH.AH. .AE.P.AH.L.AH.S. .P.L.IY. 
+SH.OW. .M.IY. .AO.L. .DH.IH.S. .W.AY.T. .F.R.AH.M. .M.IY. .AE.P.AH.L.IH.Z. .T.UW. .IH.N.D.AH.N.AE.P.AH.L.IH.Z. .AA.N. .T.UW.Z.D.IY. .DH.AE.T. .L.IY.V. .AE.F.T.ER. .T.UW. .T.IY.EH.M. 
+SH.OW. .M.IY. .DH.AH. .F.L.AY.T. .F.R.AH.M. .M.EH.N.IY. .AE.P.AH.L.Z. .T.UW.IH.NG. .D.IY.EH.N.AH. 
+SH.UH.R.IH.NG. .DH.AH. .F.L.EY.S.IH.N. .F.AO.R. .M.EH.N.IY. .AH.P. .L.AH.S.T. .W.IH.N.D.IY.AH.N. .DH.AE.T. .L.AA.S. .AY. .T.IY.N. .DH.EH. .EH.R.AA.N.IH.T. 
+SH.IH.M. .F.L.AY.T.AH. .F.AO.AH.T.UW. .HH.AH.N.D.R.AH. .S.T.EH.V.IH. .F.R.IH.N.IH. .M.IY.AE.P.IY.Z. .IH. .SH.R. .W.AA.Z. .AH.N.W.IH.N. .D.EY. .IH.N. .S.W.AY.T. .W.IH.DH. .B.AO. .AW.N. .AH. .F.AY.V. .M.EH.ER.Z. .F.R.AH.M. .SH.AA.R.L.IY.AH. .T.UW.M.IH.N.IY.AE.F.R.AH. .AH.N. .W.AH.N.B.EY.N.IH.Z. .W.AY.T. .L.AE.S.T.IH.K. .IH.N. .IH. .R.IY. .N.AY.N. .R.AH.N. .M.IH.N.IY.AE.P.AH. .W.AA.Z. .D.UW.IH.NG. .AH.N.AE.P.AH.L.S. 
+SH.OW. .M.IY. .AO.L. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .L.AH.S. .V.EY.G.AH.S. .T.UW. .N.UW. .Y.AO.R.K. .S.IH.T.IY. 
+W.IH.CH. .D.IH.F.ER.AH.N.T. .EH.R.L.AY.N.Z. .G.OW. .F.R.AH.M. .L.AO.S. .V.EY.G.AH.S. .T.UW. .N.UW. .Y.AO.R.K. .S.IH.T.IY. 
+SH.OW. .M.IY. .AO. .DH.AH. .F.W.AY.T.S. .AA.N. .AH.M.EH.R.IH.K.AH. .W.EH.S.T. .DH.AH.N. .W.AO. .S.AH.M. .L.AE.S. .V.IH.G.AH.S.T. .T.UW. .G.EY. .AH.V. .K.EY. .T.R.AY. .Y.UW.T. 
+W.AH.T. .IH. .DH.AH. .L.AY.T. .F.R.AH.M. .DH.AH. .K.OW.M.AH.S. .AH.N. .M.AY. .AE.M.IY. .HH.AE.T. .L.IY.V. .AE.T. .T.ER. .S.W.IH.T.IY.EH.M. .T.AH.M.AA.R.OW. 
+AY.D. .L.AY.K. .T.UW. .F.L.AY. .F.R.AH.M. .S.AE.N.D.IY.EY.G.OW. .T.UW. .HH.Y.UW.S.T.AH.N. .AA.N. .JH.UW.IH.N. .T.EH.N. 
+IH.Z. .DH.EH.R. .AE.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .F.L.AY.T. .F.R.AH.M. .HH.Y.UW.S.T.AH.N. .T.UW. .N.UW.ER.K. .AA.N. .JH.UW.N. .T.EH.N.TH. .AE.F.T.ER. .S.IH.K.S. .P.IY.EH.M. 
+IH.Z. .DH.EH.R. .AE.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .F.L.AY.T. .F.R.AH.M. .HH.Y.UW.S.T.AH.N. .T.UW. .N.UW. .W.ER.K. .AA.N. .JH.IH.N.T.EH.N.TH. .AE.F.T.ER. .TH.R.IY. .P.IY.EH.M. 
+AY. .N.IY.D. .T.UW.D. .G.EH.T. .F.R.AH.M. .S.IH.N.S. .AH.N.AE.N.IY. .EH.R.AA.N. .JH.UW.AH. .S.IH.K.S. .B.AY. .S.IH.K.S.P.IY.EH.M. 
+W.AH.T.S. .DH.AH. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .IH.N. .D.EY.M.ER. 
+AY. .N.IY.D. .T.UW. .F.L.AY. .AH.N. .D.EH.M.P.ER. .T.UW. .W.EH.K. .JH.EH.S.T. .T.UW. .K.AE.V. .DH.AH. .AH.N.D.ER. .S.EH.V.AH. .B.AE.K.T.AH.V. .TH.R.IY.P.IY.EH.N. 
+W.IH.DH. .DH.AH. .G.R.AW.N.D. .F.AE.S. .P.AH.T.IH.SH.AH.N. .W.EH.S.T. .CH.EH.S.T. .IH.D. .K.AW.N. .HH.IY.Z. 
+AY. .N.IY.D. .T.UW. .T.EY.K. .AH. .Y.UW.N.AY.T.AH.D. .EH.R.L.AY.N. .K.W.AY.T. .AA.N.T.UW. .N.IY.T. .F.R.AH.M. .W.EH.B.CH.EH.S.T.ER. .T.EH.L.IY. .T.IH. .IH.N.S.T.AH.AE.T.IY. .AE.F. .ER. .TH.W.IY.T.IY. 
+W.AH.T. .Y.UW. .N.AY.T.AH.D. .EH.R.L.AY.N.Z. .F.L.AY.T.S. .AA.N. .JH.UW.N.IY.T. .G.OW. .F.R.AH.M. .W.EH.S.T.CH.EH.S.T.ER. .K.AW.N.T.IY. .T.UW. .S.IH.N.S.AH.N.AE.T.IY. 
+AA.N. .JH.UW.N.IY.K. .W.AH. .L.AY.T. .G.ER. .F.R.AH.M. .W.EH.S.T. .CH.EH.S.T.ER.Z. .K.AE.N. .B.IY. .D.IH.S.IH.N.AH.N.AE.T.IH.NG. 
+JH.AH.S.T. .AH. .Y.IY.R. .F.L.AY. .F.R.AH.M. .S.IH.S.AH.M.AE.T.IY. .T.UW. .DH.EH.M.K.AH.L.IH.SH.AH.N. .T.UW. 
+L.IH.K. .F.IH.R. .F.L.AY.T. .K.AH.M. .S.IH.S.AH.N.AE.T.IY.Z. .AH.G.EH.N. .AA.N. .JH.UW. .TH.IH.K. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .D.AE.N.V.ER.IH.K. .AH.N. .W.EH.S.T.R.EH.S.T.ER. .K.AW.N.T.AA.N. .JH.UW.N. .S.IH. 
+L.IH.T. .AH. .W.AY.T. .F.R.AH.M. .W.IH.DH. .CH.EH.N.S.T. .T.UW. .K.AW.N.T.IY. .T.UW. .S.IH.N.S.AH.N.AE.T.IY. .AH.N.D.ER.N.IY. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .T.UW. .W.EH.S.T.CH.EH.S.T.ER. .K.AW.N.T.IY. .AA.N. .JH.UW.S.IH. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .W.EH.S.T.CH.EH.S.T.ER. .K.AW.N.T.IY. .T.UW. .D.EH.N.V.ER. .AA.N. .JH.UW.N. .S.EH.V.AH.N. 
+L.IH.S. .DH.AH. .F.L.AY.T. .F.R.AH.M. .D.EH.N.ER. .T.UW. .K.IH.N. .S.AH.M.AE.T.IY.AH.N.T.IY. 
+L.IH.S.T. .DH.AH. .F.L.AY.NG.T.S. .F.R.AH.M. .D.EH.N.ER. .Z. .S.IH.N.S.AH.N.AE.T.IY. .AA.N. .JH.UW.N. .S.IH.K.S. .AE.F.T.ER. .F.AO.R. .P.IY.EH.M. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .T.UW. .W.EH.S.T.CH.EH.S.T.ER. .K.AW.N.T.IY. .AA.N. .JH.UW.N. .S.EH.V.AH.N. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .W.EH.S.T.CH.EH.S.T.ER. .K.AW.N.T.IH.D. .T.UW. .S.IH.N.S. .AH.N.AE.T.IY. .AA.R. .JH.UW.N.T. .S.AE. .AH.N.D. .L.IY.V.IH.NG. .AE.F.T.ER. .F.AY.V. .HH.IY.AW. 
+W.AH.T. .ER. .L.AY.N.Z. .AO.F. .DH.AH. .B.L.AH.K.F.IY.L.D. .B.IH.K.W.IY.N. .S.IH.T.S. .AH.N.D. .T.EH.N. .M. .M. .AA.M. .JH.UW.N.IH.S. 
+W.AH.T. .F.L.AY.T.S. .R.AY.V. .AE.T. .L.AH.N. .F.IY.L. .AH.N.JH.UW. .S.IH.T. 
+L.IH.S. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .M.AA.N.T.R.IY.AH.L.T.IH.K.F.IH.L.IY. .B.IH.F.AO.R. .N.AY.N.IY. .Y.AE. 
+L.IH.S.T. .DH.AH. .F.L.AY.S. .W.EH.N. .S.IY.V.AH.N. . .EH.N.S.AH.NG. 
+L.IH.S.T. .F.AO.R. .F.L.AY.T.S. .F.R.AH.M. .M.EH.M.P.AH.Z. .T.UW. .K.L.IY.V. .AY.N. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .D.EH.N.V.ER.Z. .T.AH.D. .B.AA.AH.M.AO.R. .R.AY.V.IH.NG. .AH.N. .JH.ER.L.AY.F.ER. 
+L.IH.T.S. .DH.AH. .F.L.AY.T. .F.R.AH.M. .G.AE.L.AH.T.S. .T.UW. .B.AA.T. .M.AO.R. .R.AY.V.IH.NG. .JH.UW. .L.AY.F.AY. 
+L.IH.S.T. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .P.IH.T.S.B.ER. .T.UW. .B.AO.L.T.AH.M.AO.R. .ER.AY.V.IH.NG. .AA.N. .JH.UW.L.AY. .F.ER.S.T. 
+L.IH.S.T. .DH.AH. .F.L.AY.T. .S.AA.N. .K.AH.N.EY.D.IY.AH.N. .EH.R.L.AY.N.Z. .IH.N.T.ER.N.AE.SH.AH.N.AA.L. 
+T.AY.M. .L.UH.K.IH.NG. .AH. .G.IH. .IH.N.AH. .L.AY.N. .IH.N.T.ER.N.AE.SH.AH.N.IH.L. .L.AY.Y.UW. .P.L.EY.R.IY. .AY. 
+HH.AW. .M.EH.N.IY. .Y.UW. .M.EY.B.IY. .AY.R.AO.R.L.AY.N.Z. .IH.N.T.ER.N.AE.SH.AH.N.AA.L. .S.W.AY.S.HH.IY.Z. .EH.R.K.R.AE.S.T. .TH.R.IY.HH.AH.N.R.AH.AH. .T.W.EH.N.T.IY. 
+HH.AW. .M.EH.N.IY. .K.AH.N.EY.D.IY.AH. .IY.R. .W.AH. .K.W.AY.T. .DH.IY.Z. .EH.R.K.R.AE.S. .IY.EY. 
+SH.OW. .M.IY. .DH.AH. .F.L.AY.S. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .W.IH.CH. .F.L.AY. .AH.N.D. .S.EY.T.IY.AH. .S.AO.UW. .AY. .T.EH.R.IY.AH.EY. .T.UW. .R.AA.K. .DH.AH. .B.R.IH.N. .EY.AH. 
+SH.IY.L. .N.IY.D. .DH.AH. .T.W.AY.T. .K.AH.N. .AH.M.EH.R.IH.K.AH.N. .IH.N. .AO.R. .L.AY.N. .W.IH.CH. .G.OW. .K.AH.M.S.EY. .S.IY.T.ER. .F.AO. .IH. .D.R.UW.AW.N.T.EH.R.IY.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. .B.AY. .W.EY. .F.IH.L.UW.IH. 
+SH.IY.L. .M.IY. .DH.AH. .P.OY.N.T.S. .F.R.AH.M. .S.IH.S.T.AH.N. .W.AO.IH.NG. 
+SH.IY.L. .N.IY.D. .DH.AH. .S.W.AY.P. .F.R.AH.M. .AO.R. .L.AE.N.G.AH.Z. .AE.Z. .DH.IY.Z. .TH.IH.NG.Z. 
+SH.IY.L. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .D.IH.T.R.OY. .T.UW. .L.AE.S. .V.EY.G.AH.S. 
+SH.OW. .DH.AH. .IH.M.F.IH.S.T. .G.R.AW.N.D. .F.AO.R. .AH.T. .K.OW.CH. .DH.EH.R. .F.R.AH.M. .L.AE.S.T. .B.IH.G.AH.S. .T.UW. .D.IH.N.T.R.OY. 
+SH.OW.L. .M.IY. .DH.AH. .CH.IY.P.AH.S.T. .R.AW.N.D. .T.R.IH.P. .K.OW.CH. .F.EH.R. .AA.N. .T.W.AY.L.V. .AH.N. .L.AY. .V.EY.G.AH.S. .HH.IY. .D.IH.T.R.OY. 
+SH.OW. .M.IY. .DH.AH. .D.EH.L.T. .AH. .F.L.AY.T.S. .W.IH.CH. .S.ER.V.AH.S. .N.AE.K.T.UW. .K.OW.CH. .P.AE.S.AH.N.JH.ER.Z. 
+W.AH.T. .IH.Z. .M.IY.L. .K.OW.D.EH.S.T.M.IY. 
+SH.OW. .M.IY. .DH.AH. .D.EH.L.T.AH.V. .F.L.AY.T.S. .F.R.AH.M. .T.AE.M.P.ER.T.ER. .S.AE.N.D. .F.R.AE.N.S.IH.S.K.OW. 
+S.IH.M.IY. .AW.T. .T.UW. .F.L.AY.T. .F.AO.R. .EY.T.IY. .S.EH.N.S. 
+L.IH.S.T. .DH.AH. .T.AW.ER. .EH.R.V. .W.AY.T. .AH.N. .M.AH.N.IY. 
+M.IH.S.T.OW.L. .T.AW.ER. .EH.R.P.L.AY.S. .W.IH.DH. .M.IY.Z. 
+W.IH.D. .F.W.AY.T.S. .D.IH.P.AA.R.T. .F.R.AH.M. .B.AO.L.T.AH.M.AO.R. 
+W.AH.T. .F.L.AY.T.S. .D.IH.P.AA.R.T. .F.R.AH.M. .B.AO.L.T.AH.M.AO.R. .AH. .D.ER.AY.V.IH.D. .S.AE.N.D. .F.R.AE.N.S. .S.IH.S.K.ER. .W.AA.N. .AH. .F.R.AY.D.IY. 
+W.AH.T. .F.L.AY.T. .S.L.IY.V. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. .AH.N.D. .ER.AY.V.IH.N. .T.AE.M.P.AH. 
+W.IH.CH. .F.L.AY.T.S. .D.IH.P.AA.R.T. .F.R.AH.M. .T.AE.M.P.AH. .AH.N.D. .D.ER.AY.V. .IH.N. .S.IH.N.S.AH.N.AE.T.IY. .IH.N. .DH.AH. .IY.V.N.IH.NG. 
+W.IH.CH. .P.L.AY.Z. .T.UW. .K.L.AA.R. .K.AH.M.P.AE.N.P.L.ER. .AH.N. .ER.L.IY. .IY.V.N.IH.NG. .AH.N.D. .D.ER.ER.AY.V.IH.N. .S.IH.N.S.T.AH.N.AE.T.IY.Z. 
+W.IH.CH. .L.AY.K.S. .AH.P.AA.R.T. .F.R.AH.M. .T.UW. .AH.EH.L.IY.AH.N. .ER.AY.V.IH.N. .EH.G.L.AE.N. 
+W.IH.CH. .F.L.AY.T.S. .D.IH.P.AA.R.T. .F.AH.R. .M.EH. .AH.L.AE.R.AY.T. .T.AE.N.AH. 
+W.IH.CH. .F.L.AY.T.S. .D.IH.P.AA.R.T. .F.R.AH.M. .T.ER.AA.G.OW.IH.NG. .ER.AY.V. .IH.N. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+W.IH.CH. .W.AY.T.S. .D.IH.P.AA.R.T. .F.R.AH.M. .N.UW. .Y.AO.R.K. .AH.N.D. .ER.AY.V. .IH.N. .L.OW.S. .AE.N.JH.R.AH.L.IH.S. .AE.F.T.ER. .T.EH.N.IY.Y.IH.R. 
+W.AH.T. .ER.R.AY.V. .AY.D.AH. .F.R.AH.N. .W.AA.SH.IH.NG.T.AH.N. .P.IY.S. . .T.AH.L.AO.NG. .AH.S. .OW.HH.AY.OW. 
+W.AH.T. .F.L.AY.T.S. .Y.IY. .B.IH.T. .M. .IY.N. .W.AA.SH.IH.NG.T.AH.N. .P.IY.S. .L.AH.N. .DH.AH. .S.OW. .HH.AY. .OW. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .W.AA.SH.IH.NG.T.AH.N. .IY.Z.IY. .AH.N.D. .P.IH.L. .AH.M.ER. .S.OW. .B.AY.OW. 
+W.AH.T. .IH.Z. .F.EH.R.Z. .L.AY.S.W.EY.T.S. .IH.N.T.UW.UW. .W.AA.AH.N.L. .AH.N.D. .K.AH.L.AH.N.ER. 
+AE.Z. .AH. .JH.AA.R.L.AH.T. .IH.R.F.AO.R. .HH.AW. .M.EH.N.IY. .D.IH.F.ER.AH.N.T. .T.AY.P.S. .AH.V. .EH.R.K.R.AE.S.T.S. .AA.R. .DH.EH.R. .F.AO.R. .AH.S. .IY.R. 
+L.IH.S.T. .AA.N.AH. .EH.R. .F.L.AY.T.S. .ER.AY.V.IH.NG. .AH.N.D. .SH.OW.ER. .AA.N. .S.AE.K. .IH.T. .W.AH.N. .HH.IY.R. 
+W.AH.T. .IH.Z. .DH.AH. .F.ER.S.T. .P.L.AE.S. .R.AW.N.D. .F.AO.R. .P.IY.R. .DH.EH. .AE. .S.AH. .AH.UW. .IH.N. .DH.AH. .IH. .M.AE.P.AH.L.AH.S. .T.AH. .M.IH.S.IH.JH. 
+M.IH.S.T. .AO.F. .W.AY.T.S. .F.R.AH.M. .M.EH.M.TH.AH.S. .T.UW. .M.AY.AE.M.IY. 
+L.IH.S.T. .AO.F. .W.AY.T.S. .F.R.AH.M. .K.L.IY.V.L.AH.N.D. .T.AH. .K.AE.N.Z.AH.S. .S.IH.T.IY. .AA.N.L.AH.N.D.EY. 
+L.IH.K.S. .AO.F. .W.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .K.L.IY.V.L.AH.N. 
+DH.IH.S. .AO.F. .W.AY.T.S. .F.R.AH.M. .S.L.IY.V.AH.N. .IH.N.AE.SH.IY.L. .L.AY.K. 
+DH.AH. .S.T.EH.L. .W.AY. .S.OW. .N.AE.SH. .V.IH.L. .T.UW. .K.L.IY.V.N. .AA.N.S.AY. 
+W.AH.T. .EH.R.L.AY.N.Z. .AA.R. .JH.AH.S. .F.R.AY.IH.NG. .F.R.AH.M. .DH.AH. .K.AO.L.K.EY.M.ER. 
+W.IH.CH. .AE. .L.AY.F. .F.L.AY. .F.R.AH.M. .AH. .AO.L.AH. .M.AO.R. .AH.S.AE.N. .F.R.AE.N.S.IH.S. .K.R.OW. 
+W.IH.CH. .F.L.AY.T.S. .AA.R. .L.IY.V.IH.NG. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .AE.D.L.AE.N.D. .UW. .ER.L.IY. .M.AH.N.D.IY. .M.AO.R.N.IH.NG. 
+W.IH.CH. .K.W.AY.T.S. .AA.R. .L.IY.V.IH.NG. .AE.T.AH. .AE.R.AY.D.IH.NG. .IH.N. .S.EY.F.M.IY.IH.Z. .P.L.OW.S. .T.UW. .T.UW. .P. .AA.IY.S.ER. 
+P.L.IY.Z. .M.IH.S.T. .F.L.AY.T. .AH.M. .S.EY.L.UW.S. .T.UW. .S.EY. .F.AO.L. .W.IH.CH. .DH.AH. .F.R.AY.D. .AE.F.T.ER. .T.EH.N. .EY. .AE.ER.Z. .EH.N. .M.AO. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .S.EY.N. .P.AO.L. .T.UW. .K.AE.N.Z.AH.S. .S.IH.T.IY. .F.R.AY.AE.N.IY. .IY.T.IH.NG. .W.IH.DH. .EH.M. .N.IH.R. .IH.N.K.L.UW.D.AH.Z. 
+L.UW.S.T.ER.R.AH.L.IY. .M.AO.R.N.IH.NG. .S.L.AY.S. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .T.UW.T.AE.M.P.AH. 
+L.IH.S.T.ER.L. .IY.V.M.IY. .F.L.AY.T.S. .F.R.AH.M. .K.AE.M.P.ER. .T.UW. .S.IH.T.AH.N.AE.T.IH.K. 
+L.IH.S.T. .P.IY.TH.AH.N. .F.L.AY.S. .F.R.AH.M. .K.AE.M.P.AH.T.ER. .IH.N. .S.AH.N.AE.R.IY. 
+L.IH.S.T. .G.R.OW.S. .F.R.AH.M. .F.IH.L.AH.D.EH.L.F.IY.AH. .T.UW. .AE.T.L.AE.N.T.AH. .K.R.AY.D. .AE. 
+L.IH.S.T. .B.R.AY.T. .F.R.AH.M. .AE.D.L.AE.N.T.IH.D. .T.UW. .T.ER.AA.N.T.UW. .F.R.AY.D.IY. .AE.F.T.ER.N.UW.N. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .T.ER.AA.N.T.OW. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .D.IY.IY. .S.AE.T.ER.D.IY. .AH.N.D. 
+L.IH.K.S. .L.AY.T. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .AH. .S.IY. .T.AH. .V.IH.L.AH.D.EH.L.F.AH. .AH.S.AE.T.AH.D. .EY.T.AH.N. 
+L.IH.S.T. .T.ER.EH.S.T. .W.AY.T. .F.R.AH.M. .N.UW. .Y.AO.R.K. .S.IH.T. .AH. .L.AE. .EY.N.JH.AH.N. .K.AE.S.IH.N. 
+W.AH.T. .IH.Z. .F.EH.R. .F.UW. 
+L.IH.S.T. .AH.M.EH.R.IH.K.AH.N. .N.EH.R.L.AY.N.AH.Z. .P.L.AY.T.S. .R.AH.B.Y.UW.S. .K.AH.N.T.UW. .W.AO.R.M.IY. .D.IH.K.AA.R.D.IH.NG. .F.R.AY.D.IY. .AH. .DH.AH. .AE.M. 
+L.IH.S. .F.L.AY.T.S. .F.R.AH.M. .Y.UW.S.D. .IH.N.T.UW. .M.OW.W.AO.K.IY. .F.R.AY.D.IY. .P.IY. 
+L.IH.T.S. .AH.M.EH.R.IH.K.AH.N. .IH.N.AH.L.AY.N. .W.AY.T. .F.R.AH.M. .N.AH. .W.AA.K.IY. .T.UW. .T.EH.N. .W.IH.Z. .DH.EY. .W.EH.N.S.EH.N. 
+L.IH.S.T. .AH.M.EH.R.IH.K.AH.N. .EH.L.AA.N. .AH.N.D. .S.P.W.AY.T. .K.AH.N. .S.AE.N. .HH.IH.Z. .EY. .T.AH. .D.AE.L.AH.S. .T.R.AY.IH.NG. .T.UW. .AE.F.T.ER.N.IY. 
+L.IH.S.T. .W.AY.T. .F.R.AH.M. .G.AE.L.AH.S. .T.AH. .HH.IH.S.T.AH.N. .R.AY.T.IH.NG. .S.AH.N.D.EY. .AE.F.T.ER.N.UW.N. 
+L.IH.F.T. .EH.R. .L.AY.N. .F.L.AY.IH.NG. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .S.AA.L.T. .L.EY.K. .S.IH.T.IY.Z. 
+L.IH.S.T. .P.L.EY.T.S. .F.R.AH.M.S.IY. .AW.T. .AH.V. .DH.AH. .S.AO.L.T. .R.EY.K.S. .F.AO.R. .DH.AH. .AA.NG.K.EY.L. .T.EY.L. .F.AW.N. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .S.AA.L.V. .L.EY.K. .S.IH.T.IY. .AY.N. .D.AW.L.T. .T.UW. .B.IY. .W.AH.N. 
+L.IH.S.T. .K.W.AY.T.S. .F.R.AH.M. .B.AE.S.T. .AH.N. .T.UW. .F.IH.T.S. .W.ER. .AH.D.EH.V. 
+L.IH.S.T. .W.AY.T.S. .F.R.AO.M. .P.IH.T.S.B.ER.G. .T.UW. .N.UW. .W.ER.TH. .D.EY.V.IH. 
+L.IH.S.T. .F.W.AY.T.S. .F.R.AH.M. .N.UW. .W.ER.K. .T.UW. .B.AA.S.T.AH.N. .D.EY.L.IY. 
+L.IH.S.T.AH.S. .EH.R. .F.L.AY.T.S. .L.IY.V.IH.NG. .S.AE.T.ER.D.IY. .F.R.AH.M. .SH.AA.R.L.AH.T. .EH.R.P.AO.R.T. .AE.T. .W.AH.N. .P.IY.EH.M. 
+L.IH.S.T.AH.S. .EH.R. .F.L.AY.T.S. .R.IY.V.IH.NG. .S.AE.N.D.IY. .F.R.AH.M. .SH.AA.R.L.AH.T. .IY.R. .F.AO.R.T. .ER.AW.N.D. .W.AH.N. .P.IY.AW. 
+L.IH.S. .F.ER.S.T. .P.L.AE.S.ER.R. .F.EH.R. .L.AW.N. .T.R.IH.P. .F.AO.R. .M.IH.N.IY. .IH. .DH.AE.T.L.AH.S. .T.AH.M.EH.M.AH.S. 
+W.AH.T. .IH.Z. .DH.EH.R. .AH.P.IH.N.AH.N. 
+M.IH.S. .W.AY.T. .R.AH.M.EH.N.T.AH.D. .T.UW. .L.AY.EH.N.IY.W.EH.N.Z.D.IY. .IY.V. .UW. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .M.AY.AE.M.IY. .T.UW. .IH.N. .Y.AH.N.AE.P.AH.L.AH.S. .S.EH.N.D.ER. 
+L.IH.S.T. .B.R.AY.S. .F.R.AH.M. .AA.N.T.EH.R.IY.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. .T.UW. .M.AO.R.L.AE.N.D.OW. .F.EH.R.IH. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .AA.N.T.IH.R.IY.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. .T.UW. .S.AA.L.V. .L.EY.K. .S.IH.T.IY. .Y.UW.T.OW.N. 
+L.IH.S.T. .P.L.AY.T.S. .F.R.AH.M. .AA.N.T.EH.R.IY.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. .T.UW.S.AY.TH.L.EY.K.S. .S.EY. .AH. .Y.UW.T.AA.N. .D.EH.N. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .S.AO.L.T. .L.EY.K.S. .T.UW. .B.IY. .M.IY.T.AO.K. .T.UW. .F.IY.N.IH.T.S. .HH.EH.R.IH.Z.OW.N.AH. .M.AH.N. .EY. 
+L.IH.S.T. .R.AY.SH. .F.R.AH.M. .S.AA.L.T. .L.EY. .S.IH.T.IY. .T.UW. .B.IY.N.IH.K.S. .EH.R.IH.Z.OW.N.AH. .UW.T.IH.NG. 
+L.IH.S.T. .L.AY.S. .F.AO.R. .TH.IH.NG. .EH.R.IH.Z.OW.N.AH. .TH.R.UW. .AA.N.T.EH.R.IY.OW.K.AE.L.IH.F.AO.R.N.Y.AH. .W.EH.N.S.T.IH.N. 
+W.AH.T. .HH.EH.R.L.AY.N.Z. .F.L.AY. .F.R.AH.M. .B.AO.L.T.AH.M.AO.R. .T.UW. .S.AE.N. .F.R.AE.N.S.IH.S.K.OW. 
+W.AH.N. .IH.Z. .AH.K.EH.R. .F.AO.R. .AH. .F.ER.S.T. .K.L.AE.S. .G.R.AW.N.D. .T.UW. .HH.AE.D. .T.EY.K.AH.T. .F.R.AH.M. .D.IH.T.R.OY.T. .T.AH. .T.EY.N.T. .P.IY.T.ER.Z.F.ER. 
+W.AH.T. .IH.Z. .DH.AH. .EH.R. .S.IH.R.L. .ER.AW.N.D. .T.UW. .F.ER.S.T. .P.L.AE.S. .T.IH. .IH.T. .AH.M. .D.IH.K.S.T.R.EY.T. .T.AH. .K.EY.M. .R.UW. .DH.IH.S. .TH.R.EY. 
+K.AE.N.AH. .S.IH.T.IY. .T.UW. .EH.F.L.AE.N.T.AH. .M.AH.N.N.IY. .M.AO.R.N.IH.NG. .W.AY.T. 
+M.AH.N.D.IY. .M.AO.R.N.IH.NG. .F.L.AY.T.S. .F.R.AH.M. .AE.D.L.AE.N.T.AH.D. .T.UW. .K.AE.N.Z.AH.S. .S.IH.T.IY. 
+K.AE.N.Z.AH.S. .S.IH.IY. .T.UW. .EH.K. .L.AE.N.Z. .AH. .AY. .N.IY. .M.AO.R.IH.N. .P.R.AA. 
+AE.M.AE.N.D.AH.D. .T.UW.S.EY. .L.UW.Z. .T.UW.Z.D.IY. .B.IH.F.AO.R. .T.UW.IY.P.IY. .AH.N. .P.L.AH.NG. 
+TH.IH.NG.K. .L.UW. .IH. .T.UW. .S.IY. .P.AO.L. .TH.ER.Z.D.EY. .AE.F.T.ER. .T.EH.N.IY. .IH.N. 
+S.EY. .AO.L.AH. .K.AE.N.Z.AH.S. .S.IH.T.IY. .F.R.AY. .AH. .N.AY.T. 
+K.L.IY.V.AH.N. .T.AH. .K.EY.M.DH.AH. .S.IH.N.IY. .R.AY.Z. .N.F.AO.R.TH.R.IY.F.IY. 
+K.AE.N.S.AH.S. .S.IH.T.IY. .D.IH.K.R.IY. .AH.IY. .S.L.AY.T.AH. .R.AY.T. .W.EY.N.K.EY.B.IH.NG. .F.AO.R. .F.V. .P. 
+K.L.IY.V.L.AH.N.D. .T.UW. .N.AE.SH.V.IH.L. .F.L.AY.T. .F.R.AY.D.IY. .M.AO.R.N.IH.NG. 
+N.AE.SH.V.IH.L. .T.IH. .K.L.IY.Z.AH.N. .S.AH.N.D.EY. .B.IH.F.AO.R. .N.AY.N. 
+F.ER.S.T. .K.L.AE.S. .F.L.AY.T.Z. .P.IH.T.S.B.ER.G. .T.UW. .N.UW.Y.ER.R.K. .M.AH.N.D.IY. .M.AO.R.N.IH.NG. 
+F.L.AY.T.S. .N.UW.ER.R.K. .T.UW. .L.OW.S. .AE.N.JH.AH.L.IH.S. .W.EH.N.Z.D.IY. .M.AO.R.N.IH.NG. 
+L.AO. .S.AE.K.AH.L.IH.S. .T.UW. .M.IH.N.IY.AE.TH.L.IH.S. .TH.ER.Z.D.EY. .AE.F.T.ER.N.UW.N.NG. 
+M.IH.N.IY.AE.P.AH.L.IH.S.S. .UW.P.IH.T.B.ER.G. .F.L.AY.IH. 
+M.IH.N.IY.AE.P.L.IH.S.T. .T.UW.V. .P.IH.T.S.B.ER.G. .F.ER.S.T. .K.L.AE.S. .F.L.AY.T. 
+AY. .W.UH.D. .L.AY.K. .S.L.AY.T. .R.IY.D.IH.NG. .F.R.AH.M. .DH.AH. .W.AA.K.AH. .OY.N. . 
+W.AH.T. .D.AH.Z. .P.IY. .S.T.AE.N.D. .F.AO.R. 
+AY. .W.UH.D. .L.AY.K. .F.L.AY.T.S. .F.R.AH.M. .AY.N.T.IH.R.IY.ER. .T.UW. .DH.AH. .F.OW.M.AH. 
+AY. .W.UH.D. .L.AY.K. .W.AY.T.S. .F.R.AH.M. .EH.N.IY. .AE.P.OY.S. .T.UW. .S.AE.N. .D.IY.EY.G.OW. 
+AY. .W.UH.D. .L.AY.K. .F.L.AY.T.S. .F.R.AH.M. .S.AO.L.T. .L.EY.K. .S.IH.T.IY. .T.UW. .S.IH.N.S.AH.N.AE.T.IY. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .S.IY. .F.L.AY.T.S. .F.R.AH.M. .S.IH.N.AH.AE.N.IY. .T.UW. .S.AO.N.T.W.EY. .S.EH. 
+AY. .HH.AE.D. .L.AY.K. .W.AY.T.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .M.AY. .AE.N.IH.NG. 
+AY. .W.UH.D. .L.AY.K. .L.AY.F. .F.R.AO.R. .M.AY.AE.N.IY. .T.UW. .N.IY.D.AH. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .L.IY.G.IH.NG. .P.AE.N. .F.R.AE.N.S.IH.V. .G.OW. .F.AO.R. .S.AE.N. .D.IY.EY.G.AH. 
+AY. .W.UH.D. .L.AY.K. .F.L.AY.T.S. .F.R.AH.M. .S.AE.N.D.IY.G.AH. .F.AH.R. .M.OW.S. .V.EY.G.AH.S. 
+AY. .W.UH.D. .L.AY.K. .AH. .S.L.AY.S. .AA.N. .S.K.AE.N.D.IH.NG. .EY.B.AH.L. .T.UW. .M.AY. .S.P.IY.K.IH.NG. 
+AY. .W.UH.D. .L.AY.K. .W.AY.T.S. .F.R.AH.M. .L.AE.S.T. .V.EY.G.AH.S. .T.UW. .S.AE.N.D. .F.R.AE.N.S.IH.S.K.OW. 
+W.AH.T. .D.AH.Z. .F.AO.R. .K.OW.D. .B.IY.AH.N.M.IY. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .HH.AE.V. .DH.AH. .EH.R.L.AY.N. .DH.AE.T. .F.L.AY.Z. .T.UW.R.AA.D.ER. .D.IH.T.R.OY.T. .IH.N. .S.EY.M. .N.UW.IH.S. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .F.R.AH.M. .T.ER.AA.N.T.OW. .T.UW. .D.IH.T.R.OY. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.R.AY.T. .F.R.AH.M. .DH.AH. .P.OY.N.T. .T.UW. .S.EY.M. .UW.W.IH.S. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .F.R.AH.M. .T.ER.AA.N.T.OW. .T.UW. .S.EY. .L.UW.IH.S. 
+AY. .W.UH.D. .L.AY.K. .W.AY.T.S. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.AH.S. .K.OW.CH.ER. .L.AO.NG. .B.IY.CH. 
+AY. .W.UH.D. .L.AY.K. .F.L.AY.T.S. .S.L.IY.V.IH.NG. .S.AE.N. .F.R.AE.N.S.IH.S.K.OW. .T.UW. .S.AE.N. .D.IY.EY.G.OW. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .F.R.AH.N. .S.AE.N. .M.AE.N.S.IH.S.K.OW. .DH.AH. .S.EY.M. .T.IY.T.ER.Z. .W.ER.TH. 
+SH.IY. .M.IY. .W.AH.N. .W.EY. .F.L.AY.T. .F.R.IH.M. .N.OW. .W.AO.K.IH.IY. .T.UW. .AW.ER. .L.AE.N.D.OW. .L.IY.V.IH.NG. .W.EH.N.Z.D.IY. .AE.F.T.ER. .N.UW. .N.EH.M.ER. .F.IH.F.P.IY. .EH.M. 
+SH.OW. .M.IY. .W.AH.N. .W.EY. .F.L.AY.T.S. .F.R.AH.M. .M.OW.W.AO.K.IY. .T.UW. .AO.R. .L.AE.N.D.OW. .AA.N. .W.EH.N.Z.D.IY. 
+SH.OW. .M.IY. .F.L.AY.T.S. .F.R.AH.M. .K.AH.L.AH.M.B.AH.S. .T.UW. .SH.AH.K.AA.G.OW. .V.ER.S. .K.L.AE.S. .DH.AE.T. .L.IY.V. .B.IH.F.AO.R. .T.EH.N.AH. .M. 
+SH.OW. .M.IY. .DH.AH. .CH.IY.F.AH.S.T. .R.AW.N.D. .HH.ER. .B.IH.K.AO.N. .S.EY.M. .P.IY.T.ER. .S.ER.G. .AH.N. .D.IH.T.R.OY.D. .DH.AE.T. .ER.AY.V.Z. .B.IH.F.AO.R. .S.EH.V.AH.N.P.IY.N. 
+SH.OW. .M.IY. .N.AA.N. .S.T.AH.F. .F.L.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T. .T.UW. .F.IY.Z. 
+W.AH.T. .IH.Z. .EH.R.L.AY.N. .D.AH.Y.UW.EH.N. 
+SH.OW. .M.IY. .DH.AH. .CH.IY.P.AH.S.T. .F.ER.S.T. .K.L.AE.S. .R.AW.N.D. .HH.ER. .F.R.AH.N.UW. .M.AY.AE.M.IY. 
+N.AE.SH.IH.N. .DH.IY. .AO.L. .DH.AH. .R.AW.N.D. .F.R.AO.R.T.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .M.AY.AE.N.IH. 
+SH.OW. .M.IY. .DH.AH. .T.IY.P. .IH.S.T. .W.AH.N. .W.EY.V. .L.AY.K. .F.R.AH.M. .S.AE.N. .F.R.AE.N.IH.L. .K.OW. .T.UW. .HH.IH.S.T.ER.N. 
+N.AW. .SH.IY.L. .M.IY. .DH.AH. .CH.IY.P.AH.S.T. .W.AH.N. .W.EY. .L.AY.T. .F.R.AH.M. .HH.ER.S.T.AH.N.T. .B.AA.S.T.AH.N. 
+SH.OW. .M.IY. .DH.AH. .CH.IY.P.AH.S.T. .R.AW.N.D. .T.UW. .AH.F.EH.R.Z. .F.R.AH.M. .HH.Y.UW.S.T.AH.N. .T.UW. .B.AA.S.T.AH.N. 
+SH.OW. .M.IY. .DH.AH. .CH.IY.F. .AH.S.T. .G.R.AW.N.D. .F.AO.R. .AH.F.EH.R.Z. .F.R.AH.M. .S.AE.N.D. .F.R.AE.AE.N.S.IH.S. .K.OW. .T.UW. .Y.UW.S.F.AH. 
+SH.OW. .DH.AH. .CH.IY.P.AH.S.T. .B.R.AW.N.D. .F.AO.R. .IH. .DH.EH.R. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.EH.S. .G.OW. .T. .HH.IH.S.T.ER.N. .AY.N. .F.EH.V.Y.AH.W.EH.R.IY. .T.W.EH.N.T.IY.Y.EH.TH. .Y.EH.R.T. .N.OW.N.IY. .F.IY.L. 
+SH.OW.L. .M.IY. .DH.AH. .CH.IY.P.AH.S.T. .W.AH.N. .W.EY. .F.EH.R. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.IH.S.K.OW. .T.UW. .HH.Y.UW.S.T.AH.N. .AA.N. .F.EH.B.Y.AH.W.EH.R.IY. .T.W.EH.N.T.IY. .EY.T. .N.AY.N.T.IY.N. .N.AY.N.T.IY. .F.AO.R. 
+N.AW. .S.OW. .M.IY.K. .G.R.AW.N.D. .T.R.AE.N.S.F.P.ER. .K.EY.SH.AH.N. .N. .HH.AH.S.P.IH.N. .AA.N. .M.AY.N.D.IY. .AH.F. .T.UW. .N.UW. 
+N.AW. .SH.IY. .OW.N.L.IY. .W.AH.N. .W.EY.Z. .L.AY.T. .F.R.AH.M. .HH.IH.Z. .F.UH.L. .F.AE.S.T.IY. 
+AH.N.D. .N.AW. .SH.OW. .M.IY. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .DH.AE.T. .AY. .K.UH.D. .G.EH.T. .IH.N. .B.AA.S.T.AH.N. .L.EY.T. .N.AY.T. 
+SH.OW. .M.IY. .EH.R.AH.L.AY.N.Z. .DH.AE.T. .IH.T. .W.AY.T.S. .B.IH.T.W.IY.N. .JH.ER.AA.G.OW. .AH.N. .D.IH.T.R.OY.T. .B.IH.T.W.IY.N. .D.IH. .T.R.OY.D. .AH.N.D. .S.EY.V. .DH.ER.ER.S.IH.N. .B.IH.T.W.IY.N. .S.EY.F.T. .R.UW.AH.S.ER.N.SH.AH.L.AA.N.K.AH. 
+SH.OW.L.IY. .ER.AW.N.D. .K.R.IH.P. .HH.EH.R.Z. .F.R.AH.M. .T.ER.R.AA.G.OW. .P.UW. .D.AH. .T.OY.G.AA.N. .D.EH.L.T.IH.N. .W.IH. .K.W.EH.S.T.AH.Z. .HH.IY.R. .IH.N. .DH.AH. .Y.UW.N.AY.T.AH.D. .DH.EH.R.W.AY.N.Z. 
+SH.OW. .M.IY. .P.L.AY.S. .B.IH.T.W.IY.N. .DH.AH. .CH.OY.T. .AH.N.D. .S.EY.L.UW. .W.IH.DH. .DH.EH.M.T.EH.L.Z. .IH.N. .N.AO.R.TH.W.IH.S.T.AH. .DH.EH.R. .AH.N.D. .Y.UH.R. .AE.T.IH.Z. .EH.R.L.AY.N. 
+SH.IY.L. .M.IY.D. .F.L.AY.T. .F.R.AH.M. .M.AA.N.S.IY.AA.L.IY. .AH.L.AE.N.D.UW.IH.N. .L.AY.N. .B.IY. 
+SH.OW.L.IY. .F.W.AY.T.S. .F.R.AH.M. .M.AA.N.T.R.IY.AO.L.Z. .W.AO.R.L.AE.N.D.OW. 
+AY. .N.IY.D. .T.UW. .F.L.AY.N.D. .AA.N. .F.R.AY.IY. .AE.F.T.ER.N. .AH.N. .UW. .F.R.AH.M. .N.UW. .Y.AO.R.K. .P.UW. .S.IH.Y.AH.L. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .N.UW.Y.AO.R.K. .DH.AH. .L.AY.F. .AE.N.JH.AH.L.AH.Z. .AA.N. .S.EH.V.ER.D.EY. .IY.V.IH.NG. .AA.N. .AH.T. .DH.EH.R. 
+AY.D. .L.AY.K. .AH. .G.R.EH.N.AH. .F.L.AY.T. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .L.OW.S. .AE.N.JH.AH.L.IH.S. .AA.N. .S.AE.T.ER.D.IY. .IY.V.N.IH.NG. .AA.N. .AH.S. .EH.R. 
+AY.D. .L.AY.K. .AH. .F.L.AY.T. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .L.AO.S. .AE.N.T.OW.L.AH.S. .AA.N. .S.AE.T.ER.D.IY. .M.AO.R.N.IH.NG. .AA.N. .IH. .ER. 
+AY. .N.IY.D. .T.UW. .F.L.AY.T. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.IH.S.K.OW. .T.UW. .N.OW. .W.AO.K.IY. .AA.N. .M.AH.N.D.IY. .M.AO.R.N.IH.NG. 
+W.AH.T. .AH.Z. .Y.UW. .R.EY.N.IH.NG. .W. 
+AY. .N.UW.D.T.AH. .F.W.AY. .F.R.AH.M. .N.OW.W.AO.K.IY. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .AH.N.D. .L.EH.N.IH. 
+HH.AW. .AH.B.AW.T. .F.L.AY.T.S. .F.R.AH.M. .M.IH.W.AO.K.IY. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY.AA.AA.N. .T.UW.Z.D.IY. .M.AO.R.N.IH.NG.Z. 
+AY.L. .DH.IY. .IH.N.T.ER.N.AE.K.T. .AH. .K.AA.R. .IH.N. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+K.AE.N. .AY. .G.EH.N. .F.L.AY.T. .AA.N. .T.UW.Z.D.IY. .L.AY.K. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .Y.UW. .S.IY. .AH.K.AH.L.AH.N. 
+HH.AW. .B.AE.T. .F.R.AH.M. .P.IY.S.IY. .T.UW. .OW.P.AH.N. .AA.N. .W.EH.N.Z.IY. .M.AO.R.N.IH.NG. 
+HH.AW. .M.AH.CH. .D.AH.Z. .DH.AH. .K.AE.S.T. .T.AH.V. .F.L.AY. .AH.N.D.K.F.L.AY.AH. .P.R.IY.F.AH.L. .AH.N.D.ER.S.IY.N.ER. .W.AY.L.AH. 
+W.AH.T. .D.IH.D. .Y.UW. .M.IY.N. 
+HH.AW. .M.AH.CH. .T.AH.Z. .DH.AH. .P.AE.S. .T.UW. .F.L.AY. .F.R.AH.M. .K.AH.L.AH.M.AH.S. .D.IH. .D.EY.N. .L.UW.IH.Z. .R.AW.N.D. .T.UW. .R.IH.F.AA.N.T.L.AY.N. 
+W.AH.T.S. .DH.AH. .CH.IY.F.AH.S.T. .L.AY. .F.R.AH.M. .P.AH.L.AH.N.D.AH.S. .T.UW. .S.EY.M. .L.UW. .W.IH.DH. .R.AW.N.D. .T.R.IH.AY. .W.AH.R. 
+W.AH.T. .DH.AH. .CH.IY.P. .AH.S.T. .R.AW.N.D. .T.R.IH.P. .W.AY.T. .AA.N. .T.W.EH.L.V. .F.R.AH.M. .K.AH.L.AH.M.B.AH.S. .T.UW. .S.EY.N.D. .P.AO.L. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY. .F.R.AH.M. .M.AH. .W.AO.K.IY. .T.UW. .L.OW.Z. .AE.N.JH.AH.L.S. 
+K.AE.N. .AY. .G.EH.T. .DH.IH.S. .SH.AO.R.T.IH.S.T. .W.AY.T. .F.R.AH.M. .M.IH.W.AO.K.IY. .T.UW. .AO.R.L.AE.N.D.OW. 
+W.EY. .IY. .SH.UH.R. .IH.Z. .K.W.AY.T. .F.R.AH.M. .DH.EH.R. .W.AO.K.IH.Z. .AH.M.AH.NG. .P.IH.T. 
+W.AH.T. .IH.Z. .DH.IH.N. 
+W.AH.T. .D.AH.Z. .HH.AE.T. .F.IH.F.T.IY. .S.EH.V.AH.N. .M.IY. 
+W.AH.T. .IH.Z. .DH.AH. .SH.AO.R.T.IH. .T. .P.L.AY.T. .F.R.AH.M. .M.IH.W.AO.K.IY. .D.IH.S.IH.NG. .P.IY.T.ER.Z.F.ER.S. 
+W.AH.T. .IH.Z. .DH.AH. .SH.AO.R.T.AH.S.T. .F.L.AY.T. .F.R.AH.M. .M.OW.W.AO.K.IY. .T.UW.L.AO.NG. .D.IY.CH. 
+W.AH.T. .IH.Z. .DH.AH. .SH.AO.R.T.IH.S. .L.AY.T. .F.R.AH.M. .M.IH.W.AA.K.IY. .IH. .S.EY.M. . .IY.G.AH.N. 
+W.AH.T. .D.AH.Z. .AE.F.T.W.EY.M.IY. 
+K.AE.N. .AY. .G.EH.T. .AH. .K.W.AY.T. .T.AH.D.EY. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.EH.S. .P.R.AW. .T.UW. .D.IH.T.R.OY. .M.IH.SH.AH.G.AH.N. 
+W.AH.T.S. .DH.AH. .CH.IY.P.AH.S.T. .F.L.AY.D. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.EH.S. .G.OW. .T.UW. .DH.AH. .T.R.OY.R. .T.AH.D.EY. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY.T. .F.R.AH.M. .S.AE.N.D. .F.R.AE.N.S.EH.S.K.OW. .T.UW.M.OW. .W.AO.K.IY. .AH.T. .F.R.AH.M. .DH.AH. .W.AA.K.UW. .T.UW. .D.EH.N.V.ER. 
+W.AH.T.S. .DH.AH. .CH.IY.P.AH.T.S. .W.AY.T. .F.R.AH.M. .S.IH.N. .F.EY.S.AH.S. .W.IH.CH.IH.N. .Y.OW. .R.AA.K.AH. 
+AY. .N.IY.D. .T.UW. .EH.N. .AH. .K.AA.R.AH. .N.OW. .W.AO.K.IH.NG. 
+W.AH.T.S. .DH.AH. .CH.IY.P.AH.S.T. .F.L.AY.T. .T.AH.M.AA.R.OW. .F.R.AH.M. .N.OW.W.AO.K.IY. .T.AH.JH.EH.N.D.ER. 
+W.AH.T. .G.R.AW.N.D. .P.AE.S. .AH.T.EY.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .AY.D.EH.N.D.AH. 
+W.AH.T.S. .DH.AH. .CH.IY.P.AH.S.T. .F.L.AY. .F.R.AH.M. .S.AE.N. .F.R.AE.N.S.AH.S. .G.OW. .T.UW. .D.EH.N.ER.IH.N. 
+W.AH.T. .F.L.AY.T. .L.IY.Z. .F.R.AH.M. .K.W.IY.V.AH.N. .AH.N.D. .G.OW.T.AH. .D.AW.N. 
+SH.OW. .M.IY. .AO.L. .N.AA.N.S.T.AA.F. .W.AY.T.S. .F.R.AH.M. .S.EY.M. .P.IY.T.ER.Z. .B.ER.G. .T.UW. .SH.AA.R.L.AH.N.T. 
+W.AH.T. .EH.R.L.AY.N. .IH.Z. .AH.S. 
+SH.UH. .M.IY. .F.W.AY.T. .B.IH.K.IY.M. .T.UW. .AA.R.G.Y.OW.AH.N. .S.AE.N.D.IH.NG.AH. 
+W.IH.T. .IH.Z. .P.IY.AH.JH.EH. 
+W.AH.T. .IH.Z. .IH.N.S.IY. 
+SH.OW. .M.IY. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .OW.K.L.AH.N.D. .AH.N.D. .S.AA.L.V.T. .L.EY.K. .S.IH.T.IY. 
+W.AH.T. .D.AH.Z. .N.AH.T. .IH.N.IY. 
+W.AH.T. .IH.Z. .DH.AH. .ER.L.IY.AH.S.T. .D.EY.L.IY. .F.L.AY.T. .B.IH.T.W.IY.N. .N.OW.K.L.AH.N.D.AH.N. .S.AO.L.T. .L.EY.K.S. .S.IH.T.IY. 
+W.EH.R.IH.N. .L.AY.N. .IH.Z. .S.IY. .AE.S.K. 
+W.AH.T. .IH.Z. .DH.AH. .L.EY.T.AH.S.T. .D.EY.L.IY. .F.L.AY.T. .B.IH.T.W.IY.N. .N.OW. .K.L.AH.N.D.AH.N.S. .S.OW.N. .L.EY.K. .S.IH.T.IY. 
+SH.UH. .M.IY. .DH.AH. .P.L.AY.T.S. .B.IH.T.W.IY.N. .W.AY. .AE.N.T.AH. .W.IH.S. .AH.N.D. .D.AW.N.AH.Z. 
+W.AH.Z. .R.AW.N.D. .T.K.AA.S.T.R.AH.F.UW.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .F.R.AH.M. .D.AE.L.AH.S. .F.AO.R. .DH. .M.AO.R. .DH.EH.R.P.AA.L.AH.T.IY.Z. .AE. .K.AW.N. .D.AW.N. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .D.AE.L.AH.S. .AH.N.D. .F.IY.N.IH.NG.Z. 
+W.AH.T. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .B.IH.T.W.IY.N. .F.IH.NG.G.IH.K.S. .EH.R.AH.F.AO.R.T. .AH.N.D. .D.AW.N.T.AW.N. .F.IH.NG.G.ER.Z. 
+AA.R. .DH.EH.R. .EH.N.IY. .F.L.AY.T.S. .B.IH.T.W.IY.N. .D.AE.L.AH.S. .AH.N.D. .F.IY. .IH.T.S. .Y.UW.Z.IH.NG. .AH. .D.IY.S.IY.P.EH.N. .F.R.IH.N. 
+W.IH.DH. .EH.R. .L.AY.N. .IH.Z. .EY.T.IH.NG. .IH. 
+SH.IY.L. .M.IY.V. .DH.AH. .P.L.AY.S. .B.IH.W.IY. .M.AH. .W.AO.K.IH.NG. .IH.N.D.IY.N. 
+W.AH.T.EH.V.ER. .P.L.EY.T.S. .B.IH.K.IY.N. .AH. .L.AA.K.IH.NG. .IH.Z. .P.IH.K.S.F.IH.R. 
+W.AH.T. .G.R.AW.N.D. .T.R.AE.N.S.ER.K.EY.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .B.IH.T.W.IY.N. .P.IH.P.T.P.ER. .G.EH.R.P.AO.R.T.IH.N. .D.AW.N.T.AW.N. .HH.IH.T.S.T.ER. 
+SH.OW. .M.IY. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .P.IH.T.S.B.ER.G. .IH.N. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+W.AH.T. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .B.IH.T.W.IY.N. .F.EH.R.AH.N. .D.AW.N.K.AW.N. .W.AA.SH.IH.NG.T.AH.N. 
+W.AH.T. .IH.R. .DH.AH. .S.L.AY.S. .P.IH.K.L.IH.NG. .T.AY.M. .M.AO.R. 
+W.AH.T. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .B.IH.T.W.IY. .N.OW. .W.AO.K.IY. .EH.R.F.AO.R.D. .IH.N. .D.AW.N.T.AW.N. .Y.IY.L. .L.AA.K.IH.IY. 
+D.AH.T.ER.M.AH.N. .DH.AH. .T.AY.P. .AH.V. .EH.R. .K.R.AE.F.T.IY. .Y.UW.Z. .G.AA.T. .AH. .F.L.AY.T. .F.R.AH.M. .K.L.IY. .L.IH.N. .T.UW. .D.AE.L.AH.S. .DH.AE.T. .L.IY.D.Z. .B.IH.F.AO.R. .Y.UW. 
+F.AY.N.D. .AH. .F.L.AY.T. .B.IH.T.W.IY.N. .S.EY.N. .P.IY.T.ER.Z. .B.ER.G. .AH.N.D. .SH.AA.R.L.AH.T. .DH.AH. .F.L.AY.T. .SH.UH.D. .L.EH.D. .IH.N. .DH.AH. .AE.F.T.ER.N.UW.N. .AH. .D.ER.ER.AY.V.AH.Z. .S.UW.N. .AE.F.T.ER. .F.AY.V. . .AE.Z. .P.AA.N.S.AH.B.AH.L. .AH.T. .SH.UH.D. .B.IY. .AH. .N.AA.N.S.T.AA.P. .F.L.AY.T. 
+L.IH.S.T. .AH. .F.L.AY.D. .AA.N.D.EH.L.EH.L.AY.N. .F.R.AH.M. .T.UW.AA.OW. .T.UW. .S.EY.M. .IY. .W.IH.ER. 
+L.IH.S.T.AH. .P.L.AY.T. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .F.R.AH.M. .T.ER.AA.N.OW. .T.UW. .S.AE.N.D.IY.G.ER. 
+L.IH.S.T. .DH.AH. .F.L.AY. .P.IY.ER. .AE.N.S.ER. .D.IH. .T.EY.N. .AH.IH.ER. 
+L.IH.S. .L.AY.T. .F.R.AH.M. .OW.K.L.AH.N. .T.UW. .S.AO.F.T.AH.L.EY.T. .S.IH.T.IY. .L.IY.V.IH.NG. .AE.F.T.ER. .W.AH.N.TH.AW.S.N. .D.R.AH. .W.EH.N.D.IY. 
+L.IH.F.T. .F.L.AY.T.S. .F.R.AH.M. .AH. .K.L.IH.N.T.AH.S.AO.L.T. .L.EY.K. .S.IH.T.IY. .L.IY.V.IH.NG. .AE.T.ER. .M.IH.D.N.AY.N. .TH.ER.Z.EY.N. 
+L.IH.S.T. .W.AY. .S.B.IH.K.IH.NG. .S.IY.IH.K.S. .AH.N. .L.AA.R. .B.EY.K.AH.N. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .L.AO.S. .V.EY.G.AH.S. .T.UW. .D.EH.N.V.ER. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .M.IY.L.AO.K.IY. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .IY.S.IY. .B.F.AO. .W.AH.N.TH.AW.AH.N. .T.UW. .HH.AH.N.AH. 
+L.IH.S. .W.AY. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .IY. .S.IY.Z.AH.T. .HH.IH.Z. .F.ER.S.T. .IY.V.IH.NG. .AE.F.T.ER. .EY.T.IY.N. .W.AH.N.R.IY. 
+L.IH.S. .W.AY.T. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.L. .Y.UW. .S.IY. .T.UW. .P.IH.T.S.B.ER.G. 
+L.IH.S.T. .F.L.AY.T.S. .B.IH.T.W.IY.N. .P.IH.T.S.B.ER.G. .AH.N.D. .M.IH.W.AO.K.IY. 
+AY.D. .L.AY.K. .AH. .F.L.AY.T. .AH. .S.AE.N.D.IY.EY.G.OW. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+AY.D. .L.AY.K. .T.UW. .F.L.AY. .F.R.AH.M. .K.L.IY.V.L.AH.N.D. .T.UW. .D.AE.L.AH.S. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .Y.IY.S.IY. .K.AH.S.IY.N.IH.K. .Y.IH.R.IH.Z.AH.M. 
+AY. .N.IY.D. .T.UW. .F.L.AY.T. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .AW.ER. .L.AE.N.T.AH. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY. .F.AO.R. .M.AE.G.L.AE.N.D. .IH.N. .T.UW. .K.AE.N.IY.EY.T.AH.M. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY. .F.R.AH.M. .S.AE.N.B.IY. .EY.G.AH. .T.UW. .S.IY. .AW.T.ER. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .F.L.AY. .F.AO.R. .M.AO.R.L.AE.N.D.OW. .T.UW. .K.AE.N.Z.AH.S. .S.IH.T.IH.N. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .M.IH.N.IY.AE.P.AH.L.IH.S. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .S.AE.N. .D.IY.EY.G.OW. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .P.IY.S.IH.NG.Z. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .T.UW. .S.AE.N. .D.IY.EY.G.OW. 
+W.AH.T. .IH.Z. .DH.AH. .M.OY.S.T. .F.EH.R. .F.AO.R. .AH. .F.L.AY.T. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .DH.AH. .B.AA.S.T.AH. 
+W.AH.T. .IH.Z. .DH.AH. .M.OW.S.T. .F.EH.R. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .B.IY.S.IY. .M.AY. .F.R.IY.AO.L. 
+W.AH.T. .IH.Z. .DH.AH. .AY.T. .T.EH.R. .F.R.AH.M. .T.ER.AA.N.T.AH.M. .T.UW. .W.AA.SH.Y.AO.R. .G.IH.IY. .S.IY. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY.T. .F.R.AH.M. .M.AH.N.TH.R.IY.AO.L. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY.T. .F.R.AH.M. .N.AE.SH.V.IH.L. .T.UW. .S.IY.AE.T.AH.L. .DH.AE.T. .ER.AY.V.Z. .N.OW. .L.EY.T.ER. .DH.AE.N. .TH.R.IY. .P.IY.EH.M. 
+AY. .W.AA.N.D.ER. .F.L.AY. .F.R.AH.N. .L.EH.M.P.AH.S. .T.UW. .S.IY.AE.T.AH.L. .IH.D.R.AY.V. .N.OW. .L.EY.T.ER. .DH.AE.N. .TH.K.EH.M. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.S. .T.UW. .S.IY.AE.T.AH.L. .ER.AY.V.IH.NG. .IH.N. .S.IY.AE.T.AH.L. .AE.T. .W.AH.N. .TH.AW.D.T.UW. .HH.AH.AH.D. .F.AY.V. .P.M. 
+AY. .W.AA.N.T. .T.UW. .L.EY.T. .IY.R.AW.N.D. .T.R.IH.F.R.EY.M. .DH.EH. .M.IH.S. .T.AH. .S.IY. .AW.T. 
+AY. .W.AO.N.T. .IH.T. .F.L.AY.IH.NG. .F.R.AH.M. .N.AE.SH.V.IH.L. .T.UW. .S.IY.AE.T.AH.L. .AH.N.D. .AY. .W.AA.N.T. .DH.AH. .CH.IY.P.AH.S.T. .V.EH.R. .R.AW.N.D. .T.R.IH.M. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY. .F.R.AH.M. .M.EH.M.F.AH.Z. .T.UW. .S.IY.AE.T.AH.L. .R.AW.N.D. .T.W.IH.P. .W.IH.DH. .DH.AH. .CH.IY.P.AH.S.T. .F.EH.R. 
+AY. .W.AA.N.T. .F.L.AY.T. .DH.AH.M. .M.IH.N.D.AH.N.AE.P.L.IH.S. .T.UW. .S.IY. .AE.T.AH.L. .R.AW.N.D. .T.R.IH.K. .W.IH.DH. .DH.AH. .CH.IY.F.AH.S.T. .F.EH.R. 
+P.L.IY.Z. .W.IH.SH. .W.AY.S. .R.AH. .M.AO.R.L.AE.N.D.OW. .T.UW. .F.IH.L.AH.D.EH.L.F.IY.AH. 
+P.L.IY.Z. .W.AA.S. .W.AY.S. .F.R.AH.M. .S.AE.M. .P.R.AE.N.S.IH.S.K.OW. .T.UW. .SH.AA.R.L.AH. 
+P.L.IY.Z. .AE.Z. .K.W.AY.S. .F.R.IH.NG. .DH.EH.R. .W.AO.K.IY. .T.UW. .F.IH.L.B.AW.L.IH. .IH.N. 
+P.L.IY.Z. .L.IH.F.T. .F.L.AY.V. .F.R.AH.M. .F.IH.L.AH.D.EH.L.V.IY.AH. .T.UW. .S.AE.N.D. .F.R.AE.N.IH.S.K.OW. 
+P.L.IY.Z. .SH.OW. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .T.UW. .M.AO.R. .W.AO.K.AH. 
+DH.IY.AH. .P.W.AY.T. .F.R.AH.M. .T.AE.M.P.R.IY.N.T.IH.S.M.IH.N. .AH. .L.AE.S.AH.N. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .HH.Y.UW.S.T. .IH.N. .T.UW. .D.EH.N.V.ER. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .Y.UW.S.T.AH.N. .T.UW. .F.IY.N.IH.K.S. 
+L.IH.S.T. .W.AY.T. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .HH.Y.UW.S.T.AH.N. 
+L.IH.S. .F.L.AY.T.S. .F.R.AH.M. .N.UW.ER.K. .DH.AH. .Y.UW.Z.D. .T.UW. 
+SH.OW. .F.L.AY.T.S. .F.R.AH.M. .V.EH.N.B.ER.T.IY. .Y.UW.S.T.AH.N. 
+SH.OW. .F.L.AY.T.S. .F.R.AH.M. .S.EY.M. .P.IY.T.ER.Z. .V.ER.B. .T.UW. .SH.AA.R.L.AH.T. 
+SH.UH.R. .W.AY. .W.IY. .M.AO.R. .L.AE.N.D.OW. .W.IH. .DH.UW. .P.AE.N.AH. .S.IH.N. 
+SH.OW. .F.L.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .M.IH.N.IY.AE.P.AH.L.IH.S.T. 
+SH.OW. .L.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .AH. .AO.L.AH.N. 
+SH.OW. .F.L.AY.T.S. .F.AH.M. .M.EH.N.IY. .AH.P.L.IH.S.T.ER. .K.AE.N.Z.AH.S. .S.IH.T.IY. 
+SH.OW. .F.L.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T. .AO.R.L.AE.N.D.OW. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.IY. .DH.AH. .K.AO.S.AH.N. 
+L.IH.S.T. .F.EH.R.Z. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .P.IY.IY. .AO.N.R.IY.AO.L. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.EH.D.IY. .AH.N. .M.AA.T.R.IY.AH.N. 
+L.IH.S.T. .F.IH.R.Z. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .DH.UW. .K.ER.AE.N. .T.AH. .W.IH.CH. .UH.D. .B.IY.G.UH.Z. 
+L.IH.S.T. .F.EH.R.Z. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .T.UW. .B.AA.S.T.AH.N. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .B.IY.S.IY. .M.AH.N.T.R.IY.OW.L. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .UW. .T.AA.OW. 
+L.IH.S.T. .W.AY.S. .F.R.AH.M. .T.ER.AA.N.T.OW. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+L.IH.F.T. .F.L.AY.T.S. .F.R.AH.M. .OW.K.L.IH.N.T.UW.S.AO.L.T. .L.EH.G. .S.IH.T.IY.NG. 
+W.IH.DH. .L.AY.T.S. .G.OW. .F.R.AH.M. .G.AE.L.AH.S. .T.UW.F.IY.N.IH.K.S. 
+W.IH.DH. .F.L.AY.T.S. .G.OW. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .S.AA.L.V. .L.EY.K. .S.IH.T.IY. 
+AY. .N.IY.D. .AE.N. .ER.L.IY. .W.AY.F. .F.R.AH.M. .M.IH.W.AO.K.IY. .T.UW. .D.EH.N.V.ER. 
+W.AH.T. .T.AY.P.S. .DH.AH.V. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .AA.R. .AH.V.IY.L.AH.B.AH.L. .AH.N.K.IH.N. .AH. 
+W.IH.DH. .L.AY.K. .K.OW.S. .AH.N.D.EH.N.AH. .D.IH.T.EY. .L.IY.ER. .AH.N. .T.UW.S.IY. .M.AO.R.IH.NG. 
+IH.Z. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .AH.V.EY.L.AH.B.AH.L. .AH.N.D. .S.EY.T. .R.UW.M.AH.Z. 
+AY. .N.IY.D. .T.UW. .F.AY.V. .F.R.AH.M. .S.EY.V.N.L.IH.S.T.AH. .N.OW.R. .W.AO.K.IY. .AA.N. .W.EH.N.Z.D.IY. .AE.F.T.ER.N.UW.N. 
+F.L.AY.T. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .T.UW. .S.IY.AE.M. 
+W.AY.T.S. .F.R.AH.M. .DH.AE.T. .F.AE.N.AE. .DH.AH. .S.IY.AE.M.AH.L. 
+F.L.AY.T.S. .F.R.AH.M. .S.AE.N. .D.IY.EY.G.OW. .T.UW. .S.IY.AE.T.AH.L. 
+AY. .W.UH.D. .L.AY.K. .F.L.AY.T. .IH.N.F.AO.R.M.EY.SH.AH.N. .F.R.AH.M. .P.IY.N.IH.K.S. .T.UW.G.EY.N.G.ER. 
+K.UH.D. .AY. .HH.AE.V. .F.L.AY.T. .IH.N.F.AO.R.M.EY.SH.AH.N. .AA.N. .F.L.AY.T.S. .F.R.AH.M. .S.AO.L.T. .L.EH.G. .S.IH.T.IY. .T.UW. .F.IY.N.IH.K.S. .P.L.IY.Z. 
+K.UH.D. .AY. .HH.AE.V. .F.L.AY.T. .IH.N.F.AO.R.M.EY.SH.AH.N. .AA.N. .F.L.AY.T.S. .F.R.AH.M. .P.IH.T.S.B.ER.G. .T.UW. .F.IY.N.IH.K.S. .P.L.IY.Z. 
+AY. .W.UH.D. .L.AY.K. .IH.N.F.AO.R.M.EY.SH.AH.N. .OY. .L.AY.F. .W.IY. .D.IH.R. .AH.M. .M.AH.L.AO.R. .IY. .K.IH.N. .M.AY. .S.IY. .T.UW. .D.EH.N.ER. 
+B.AY.N.IY. .IH.N.F.AO.R.M.EY.SH.AH.N. .AA.N. .W.OY.S. .W.EH.N. .Y.UW. .AA.SH.AH.N. .T.N. .D.IH.G.AA.S.T.AH. .AH.T. .L.IY.V. .AA.N. .HH.AH. .S.AE.M.P.EY. 
+AY. .N.IY.D. .AH. .F.L.AY.S. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.L. .AH. .M.AA.N.R.IY.AA. .N. .HH.EH.B.UW.P.IH.N. 
+AY. .N.IY.D. .DH.AH. .F.EH.R. .AH.N. .F.L.AY.T. .R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .T.UW. .T.ER.AE.N.D. .G.OW. .AA.N. .AH. .S.AE.V.AH.JH.IY. 
+AY. .W.AA.N.T. .T.UW. .G.OW. .F.R.AH.M. .B.AA.S.T.AH.N. .T.UW. .W.AA.SH.IH.NG.T.AH.N. .AA.N. .AH. .S.AE.T.ER.D.IY. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .P.IY.V.L.IH.N. .T.UW. .D.AE.L.AH.S. .DH.AE.T. .N.IY.D.Z. .B.IH.F.AO.R. .Y.UW. .AH.N. .S.IY. .IH.F. .T.UW. .M.AH.CH. .IH.N.F.AO.R.M.EY.SH.AH.N. 
+Y.EH.S.IH.N. .F.R.AH.M. .W.AA.SH.IH.NG.AH. .D.AH.B.AA.S.T.IY.Z. 
+G.EH.T. .S.AE.T.ER. .IH.N. .T.EH.R.Z. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .T.UW.P.AA.S.AH.P.AY.Z. 
+G.EH.T. .F.IH.R.Z. .F.R.AH.M. .M.AA.R.SH.IH.NG.T.AH.N. .T.UW. .M.AA.R.K.IY.AA.N. 
+G.EH.T. .K.AE.N.D.AH.D.EY.N. .F.EH.R.Z. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .M.AH.T.R.IY.AA.N. 
+G.EH.T. .S.AE.T. .ER.D.EY. .F.EH.R.Z. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .T.UW. .K.ER.AO.NG. .K.OW.M. 
+G.IH.T. .DH.IH.S. .HH.AE.V.AH.D.EY. .DH.EH.R. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .T.UW. .T.ER.AA.N.T.EH.M. .IH. 
+L.IH.S.T. .S.AE.T.ER.D.IY. .F.L.AY.T.S. .F.R.AH.M. .W.AA.SH.IH.NG.T.AH.N. .T.UW. .B.AA.S.T.AH. 
+L.IH.S. .S.AE.N.AH.T.IY. .K.W.AY.T.S. .R.AH.M. .G.L.AO.S.IH.Z. .AO. .W.AA.SH.IH.NG.T.AH.N. 
+G.EH.T. .F.L.AY.T.S. .F.R.AH.M. .M.OW.W.AO.K.IY. .T.UW. .D.IY.T.IY. .D.AH.L.Y.UW.R. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .IH.L. .W.AO.K.IH. .T.UW. .D.IH.T.R.OY. 
+G.EH.T. .F.L.AY.T.S. .F.R.AH.M. .AH. .T.R.OY. .T.UW.D.R.AA.N.T.OW. 
+G.EH.T. .K.W.AY.T.S. .F.R.AH.M. .T.AH.AA.G.OW. .T.UW. .M.AO.R. .W.AO.T.IH. 
+G.EH.T. .L.AE.S.T. .F.L.AY. .F.R.AH.M. .OW.K.L.IH.N. .T.UW. .S.AO.L.T. .L.EY.G. .S.IH.T.IY. .AA.N. .W.EH.N.Z.D.IY. .AO.R. .F.ER.S.T. .P.L.AY. .F.R.AH.M. .OW.K.L.IH.N.T.UW.S.AO.L.T. .L.EY.K. .S.IH.T.IY. .AA.N. .TH.ER.Z.D.EY. 
+G.EH.T. .F.ER.S.T. .W.AY.S. .F.R.AH.M.OW.Z.W.AH.N. .T.UW. .S.AO.L. .L.EY.K. .S.T.IY.IY.AH.M.Z. .EH.R.S.IH.NG. .AH. 
+G.IH.V. .M.AE.S.T. .W.AY. .AH.N.AH. .W.EH.N.T.AH.S.AO.L.T.L.EH.K.S. .IH.D.IY.AY.G.W.IH.N.T.EY. 
+L.IH.S.T. .L.AE.S.T. .W.EH.N.Z.D.IY. .F.L.AY.T. .F.R.AH.M. .AO. .K.W.EH.N.T.UW. .S.AO.L.T. .L.EY.G. .S.IH.T.IY. 
+G.EH.T. .F.W.AY.T. .F.R.AH.M. .T.UW.AA.D.IY.OW. .T.UW. .S.AE.N.D.IY. .IH. .AH. .S.T.AA.R.IH.NG. .AH. .D.IY.IY. .D.AH.AH. 
+G.EH.T. .W.AY.K.S. .B.IH.T.W.IY.N. .S.EY.M. .P.IY.T.ER.Z. .B.ER.G. .AH.N.D. .SH.AA.R.L.AH.T. 
+AY. .N.IY.D. .T.AH. .F.L.AY.T. .F.R.AH.M. .M.AH. .W.AO.K.IY. .T.UW. .IH.N. .AH.N. .DH.AE.T.L.AA.S. .L.IY.V.IH.NG. .W.AH.N. .B.IY. .B.IH.F.AO.R. .N.AH. 
+AY. .N.IY.D. .AH. .F.R.AY.T. .D.IH.P.AA.R.T.IH.NG. .F.R.AH.M. .M.OW.W.AO.K.IY. .T.UW. .IH.N.D.IY.AH.IH.N.AE.P.AH.L.IH.S.T. .L.IY.D.IH.N. .M.AH.N.D.IY. .B.IH.F.AO.R. .IH.N.D.IH.NG. .Y.AE. 
+IH.Z. .DH.EH.R. .G.R.AE.N.D. .T.AE.N.S.P.AH.T.EY.SH.AH.N. .DH.EY. .W.ER. .G.OW.IH.NG. .T.UW. .B.IY. .IH.Z.AH.N.AE.P.AH.L.IH.Z. .IH.N.AH.N. .AH. 
+AY. .N.IY.D. .F.AY.DH. .IH.N.F.AO.R.M.EY.SH.AH.N. .F.AO.R. .AH. .F.L.AY.T. .IH.V. .P.AA.R.T.IH.IY. .F.R.AH.M. .M.IH.N.IY.IH.N.AE.P.AH.L.IH.S.T. .T.UW. .L.IY.V.AH.L. .AH.M. .D.IH.P.AA.R.T.IH.NG. .T.UW.Z.IY. 
+AY. .N.IY. .F.L.AY.D. .IH.N.F.AO.R.M.EY.SH.AH.N. .F.AO.R. .AH. .F.L.AY.T. .D.IH.P.AA.R.T.IH.NG. .F.K.AH.M. .P.L.IY.V.AH.L.IH.N. .T.UW. .M.AO.R. .W.AA.K.IH.NG. .W.EH.N.Z.ER.IY. .AE.F.T.ER. .S.IH.K.S.IY. .Y.AW.T. 
+AY. .N.IY.D.Z. .K.L.AY.T. .IH.N.F.AO.R.M.EY.SH.AH.N. .F.AO.R. .F.L.AY.T.S. .D.IH.P.AA.R.T.IH.NG. .F.R.AH.M. .K.L.IY.Z.AH.N. .G.OW.IH.NG. .B.AE.K. .T.UW. .AH. .L.AO.K.IY. .W.EH.N.Z.D.IY. .AE.F.T.ER. .F.AY.V. .P.IY.EH.M. 
+AY. .N.IY.D.AH. .F.AY.V. .IH.N.F.AO.R.M.EY.SH.AH.N. .F.AO.R. .F.L.AY.T.S. .D.IH.F.AO.R.IH. .AH.N. .F.IY.V.AH.L. .AO.L. .W.AO.K. .AA.N. .W.EH.N.Z.IY. .EH.K.ER.S.AY.D. .P.IH.R. 
+AY. .N.IY.D. .K.W.AY.T. .IH.N.F.AO.R.M.EY.SH.AH.N. .F.AO.R. .F.L.AY.T.S. .D.IH.P.AA.R.T.IH.NG. .F.R.AH.M. .P.L.IY.G.L.AH.N.D. .T.UW. .M.IH.L.W.AO.K.IY. .AA.N. .W.EH.N.Z.D.IY. .AE.T.ER. .F.AY.V. .P.IY.N. 
+AY. .N.IY.D.AH.D. .L.AY.T. .F.AO.R. .D.AE.N. .ER. .D.IH. .S.AO.L.T. .M.EY.K.S. .S.IH.T.IY. .AA.N. .AH.N. .D.EY. 
+IH.Z. .DH.EH.R. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .AH.V.EY.L.AH.B.AH.L. .AE.V. .DH.AH. .D.AE.N.D.ER.AE.N.AH.F.AO.R. 
+IH.Z. .DH.EH.R. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .AH.V.EY.L.AH.B.AH.L. .AE.T. .DH.AH. .S.AO.L.T. .L.EY.K. .S.IH.T.IY. .EH.R.P.AO.R.T. 
+AY. .N.IY.D. .T.AH. .F.L.AY.T. .F.R.AH.M. .S.AA.L.V. .L.EY.K. .S.IH.T.IY. .T.UW. .F.IY.N.IH.K.S. .T.IH.T.AY.R.IH.NG. .W.EH.M.Z.D.IY. .AE.F.T.ER. .F.AY.V. .P.IY. 
+IH.Z. .DH.EH.R. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .AH.V.EY.L.AH.B.AH.L. .AE.T. .DH.AH. .V.IY.N.IH.K.S. .EH.R.P.AO.R.T. 
+AY. .N.IY.D. .T.AH. .F.L.AY.T. .AH.N.OW.AH.N. .DH.AH.T.AA.K.Y.AH.L.EY.T. .S.V.IH.D.IY. .AH.N. .W.EH.N.S.EY. .D.IH.K.AA.R.D.IH.NG. .AE.T. .F.AH.S. .F.IH.F. .P.IY. 
+L.IH.S.T. .P.W.EY.S. .F.R.AH.M. .M.AY. .F.EY.G.AH.S. .T.UW. .F.IY.N.IH.K. 
+DH.IH.S. .W.EH.N.Z.D.IY. .N.AY.T. .W.AY.T.S. .F.R.AH.M. .OW.V.W.EY. .T.UW. .S.OW.L. .F.R.IH.K.S.IH.T. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .OW.K.L.AH.N. .T.UW. .S.AA.L.V. .L.EY.K. .S.IH.T.IY. .B.IH.F.AO.R. .S.IH.K.S. .AH.EH.M.TH.ER.D.IY. .M.AO.R.N.IH.NG. 
+W.IH.CH. .EH.R.L.AY.N.Z. .W.AY. .B.IH.T.W.IY.N. .T.ER.AA.T.OW. .IH.N. .S.AE.N. .D.IY.EY.G.OW. 
+P.L.IY.Z.L.IY. .S.AE.F.AH.N. .UW. .F.L.AY.T. .T.UW. .K.L.IY. .K.EY.P.IY.T.ER. .B.ER.IH.N. .CH.AA.N.AH.JH. 
+W.AH.T. .IH.Z. 
+AO.T. .UW.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .F.R.IY. .M.EH.N.T.AH.N. .AW.L.ER.Z. 
+P.L.IY.Z. .L.IH.S.T. .OW.N.L.IY. .DH.AH. .F.L.AY.T. .R.AY. .L.IY.V. .W.IH.DH. .DH.AH. .D.AW.T. .DH.AH.T. .L.IY. .B.IH.F.AO.R. .Y.UW. 
+W.AH.T. .T.AY.M. .W.AH.DH. .EH.N.R.K.R.AE.F.T. .AA.R. .F.L.AY.IH.NG. .F.R.AH.M. .K.L.IY.V.AH.L. .AH.N. .T.UW. .D.AE.L.AH.S. .B.IH.F.AO.R. .Y.UW. 
+AY. .N.IY.D. .IH.N.F.AO.R.M.EY.SH.AH.N. .AA.N. .F.L.AY.T.S. .F.R.AH.M. .EH.R.IH.N.AE.P.L.IH.S.T. .T.UW. .S.IY.AE.T.AH.L. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.AO.R. .M.EH.TH.AH.D. .T.UW. .D.IY.AE.T.AH.L. 
+AY. .N.IY.D. .T.UW. .T.EY.K. .IH.T. .F.R.AH.M. .N.AE.SH.V.IH.L. .T.UW. .S.IY.AE.T.AH.L. 
+AY. .N.IY.D. .AH. .T.IH.K. .IH.T. .AH.M. .N.AE.SH.T.N.ER.L. .K.AY.N.D. .AH.V. .S.IH.NG.G.AH.L. . 
+AH.N.DH.AH. .AH.K.L.AY. .IH.F.V.EY.SH.AH.N. .F.R.AH.M. .DH.AH. .W.AA.R.IH.NG. .DH.AH.T.AE.K. 
+AY. .N.IY.D. .T.UW. .R.EH.N.D.AH. .K.AA.R.Z. .HH.AE.N.F.AO.R.ER. 
+AY. .N.IY.D. .AH. .D.EY.L.IY. .F.L.AY.T. .F.R.AH.M. .S.EY.M. .L.UW.IH.S. .T.UW. .M.IH.L. .W.AO.K.Y.UW. 
+AY. .N.IY.D. .F.L.AY.T.S. .D.IH.P.AA.R.T.IH.NG. .F.R.AH.M. .OW.K.L.AH.N.D. .AE.T. .ER.AY.V.IH.NG. .S.AO.L.T. .L.EY.K. .S.IH.T.IY. 
+AY.IY. .IH.N.F.AO.R.M.EY.SH.AH.N. .AH.N. .P.L.AY.T.S. .AH.N.D. .K.T.UW.AA.N. .T.R.UW. .S.AH.T.AE.M.L.IY. 
+AY. .N.IY.D. .IH.N.F.AO.R.M.EY.SH.AH.N. .AA.N. .F.L.AY.T.S. .F.R.AH.M. .T.UW.AA.D.OW. . .T.UW. .S.AE.N.D.IY.IY.G.OW. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY.T. .F.R.AH.M. .T.ER.AA.N.OW. .T.UW. .S.EY. .IY.UW.G.OW. 
+AY. .N.IY.D. .IH.N.F.AO.R.M.EY.SH.AH.N. .AA.N. .F.L.AY.T.S. .B.IH.T.W.IY.N. .S.EY.IH. .P.IY.T.ER.Z. .B.ER.G. .IH.N. .SH.AA.R.L.IY. 
+W.IH.CH. .F.L.AY.T.S. .G.OW. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .M.AY. .AE.N.Y.UW.L.AH.N. .B.AE. 
+W.IH.DH. .DH.AH. .F.IH.S. .HH.EY. .T.IY.AA.N.IY. 
+SH.OW. .M.IY. .F.L.AY.T.S. .F.R.AH.M. .M.AH.W.AO.K.IY. .T.UW. .AO.R. .L.AE.N.D.OW. .W.AH.N. .W.EY. 
+W.AH.T. .DH.AH. .AH.R.IY.V.IY.EY.SH.AH.N. .AH.Z. .S.T.AE.M. .F.AO.R. 
+AE.D. .L.AY.K. .AH. .W.AH.N. .W.EY. .T.UW. .G.EH.T. .F.R.AH.M. .M.AH.W.AA.N.IY. .T.UW. .R.L.AE.N.D. .UW. .IY.DH.ER. .W.EH.N.Z.D.IY. .IY.V. .N.IH. .M.AO.R. .TH.ER.Z.D.EY. .M.AO.R.N.IH.NG. 
+SH.OW. .M.IY. .F.L.AY.T.S. .F.R.AH.M. .AH. .L.AO.K. .AH. .ER.L.AE.N.D.ER. 
+W.AH.T. .D.IH.Z. .S.F.EH.R. .G.OW.D. .AE.F.T. .M.IY. 
+W.AH.T. .D.IH.Z. .DH.EH.R. .R.UW.IH.W.IH.N. 
+W.AH.T.S. .IH.Z. .HH.EH.R. .K.AH.L.IH.D. .W.AY.D.IH.N. 
+W.AO.T.ER. .W.AA. .S.T.R.IH.CH.IH.Z. .R.AY.V. .F.IH.F.T.IY. .S.EH.V.AH.N. 
+P.L.IY.Z. .SH.OW. .M.IY. .F.ER.S.T. .K.L.AE.S. .F.L.AY.T.S. .F.R.AH.M. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.S. .T.UW. .M.EH.M.F.AH.S. .W.AH.N. .W.EY. .L.IY.V.IH.NG. .B.IH.F.AO.R. .T.EH.N. .M. 
+N.AW. .SH.IY.L. .W.IY. .AO.L. .R.AW.N.D. .T.UW. .IH. .K.W.AY.T. .F.R.AH.M. .B.R.ER.B.V.AE.NG.K.T. .IH.D. .DH.IY. .AE.T.AH.L. .DH.AE.T. .ER.AY.V.D. .B.IH.F.AO.R. .S.EH.V.AH.N.P.IY.EH.M. .IH.N. .S.IY.AE.T.AH.L. 
+R.AW.N.D. .T.R.IH.P. .F.L.AY.T.S. .F.AO.M. .M.AO.R.L.AE.N.D.OW. .T.UW. .AA.N.T.R.IY.AO.L. .P.L.IY.Z. 
+W.EH.DH. .DH.EH.R. .AH. .L.AA.T. .AH. .D.IY.EH.L. 
+SH.OW. .M.IY. .AO.L. .D.AW.T. .DH.AH. .EH.R.L.AY.N.Z. .L.AY.T. .F.AH.M. .M.AH.N.TH.DH.IY. .AE.L.AH.L. .L.AE.N.G.AH.N. 
+SH.OW. .M.IY. .AO.L. .F.L.AY.T.S. .F.R.AH.M. .AO.R. .L.AE.N.D.OW. .T.UW. .M.AA.N.T.R.IY.AA.N. .F.IY.D.Z. 
+W.IH.CH. .EH.W.AH.N. .IH.Z. .K.IY. .D.AH.AH.N. 
+P.L.IY.Z. .W.AH. .AO.S.L.AY.F. .IH.N. .N.UW. .Y.AO.R.K. .T.UW. .M.AY. .AE.N.D. .EH.N.IY. .T.AY. .IH. .K.AY.N. .AH.V. 
+W.AH.T. .IH.Z. .S.F.EH.R.K.AH. .DH.AH. .EY.JH.IH. 
+SH.OW. .Y.IY. .R.AH.K.ER.R.N. .AH.L.AY. .F.R.AH.M. .M.AY.AE.M.IY. .AH.JH.IY. .AH.V. .P.IY.N.L.IY.Z. 
+W.AH.T. .IH.Z. .DH.EH.R.AO.OW. .DH.AH. .EY.JH. .M.IY.N.OW. 
+W.AH.T.AE.T.ER. .AH.P.OW.IY.EY.T.AH.IY. 
+W.AH.T. .AH.T. .F.AO.R. .P.AO.R.IY.EY.CH. .AH. 
+W.AH.T. .IH.Z. .F.EH.R. .F.AO.AH. .P.IY.EY.JH. .W.AH.N. 
+SH.OW. .M.IY. .W.AH.N. .W.EY. .F.L.AY.T.S. .F.R.AH.M. .M.OW.W.AA.N.K.IY. .T.UW.AO.R. .L.AE.N.D.OW. .AE.N.T.ER. .S.IH.K.S. .P.IY.EH.M. .AA.N. .W.EH.N.T.AH.N. 
+SH.OW. .M.IY. .DH.UW. .F.L.AY.T. .F.R.AH.M. .IH.N.L.IY.IH.N.AE.P.AH.L.IH.S.T. .T.UW. .M.EH.M.P.AH.Z. 
+SH.OW. .M.IY. .R.AW.N.D. .T.R.IH.P. .L.AY.T.S. .F.R.AH.M. .B.R.ER.B.AE.NG.K. .T.UW. .S.IY.AE.T.AH.L. 
+SH.OW. .M.IY. .R.AW.N.D. .F.AO.R. .K.W.AY.T.S. .F.AO.AH. .M.AO.R. .L.AE.N.D.OW. .T.UW. .M.AA.T.R.IY.OW.N. 
+SH.OW.M.IH.NG. .AA.N. .S.T.AA.F. .L.AY.T.S. .F.R.AH.M. .M.AA.N.T.R.IY.AO.L.T.AH.M.AO.R.L.AE.N.D.AH. 
+SH.OW. .M.IY. .R.AW.N.D. .P.R.IH.T.S. .B.IH.T.W.IY.N. .M.AA.R.T.IY. .AA.L.AH. .G.AH.L.OW.EH.N.D.OW. 
+SH.OW. .M.IY. .R.AW.N.D. .T.AO.R.IH.P. .P.L.AY.T.S. .F.R.AH.M. .M.AH.N.T.R.IY.AO.L.T.AH. .AO.R.L.AE.NG.ER. 
+SH.OW. .DH.AH. .CH.IY.F.AH.S.T. .W.AH.N. .W.EY. .F.L.AY.T.S. .F.IH.L. .R.AA.N. .F.R.IY. .AO.L. .T.AH.M.AO.R.L.AH.N. 
+SH.OW. .M.IY. .DH.AH. .CH.IY.F.AH.S.T. .W.AH.N. .W.EY.F.L.AY.T.S. .F.AO.R. .M.AO.R. .L.AE.N.D.OW. .T.IH.M.AE.T.R.IY.AA.N. 
+SH.OW. .DH.AH. .CH.UW.P.ER.S.T. .IH.K.AA.N.AH.M.IY. .K.W.AY.T. .F.R.AH.M. .M.AY. .AE.M.IH.NG. .AH. .N.UW. .M.AO.R. 
+K.AE.N.S.AH.L. .S.IH.T.IY. .T.UW.M.AA. .T.EY.G.AH.Z. .IH.K.AA.N.AH.M.IY. 
+K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .L.AO.S. .V.EY.G.AH.S. .IH.K.AA.N.AH.M.IY. 
+W.AH.T. .EH.R.AH.AA.N. .DH.AH. .B.EY.S.P.IY.N. 
+T.R.AE.N.K.AE.S.T.P.AH.T.IH.SH.AH.N. .L.AE.S.T. .B.IY.T.IH.NG. 
+G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .F.R.AO.R.M. .L.OW.S.T. .V.IH.G.AH.S. 
+L.AE.S.T. .V.EY.G.AH.S. .T.UW. .B.AO.L.T.AH.M.AO.R. .IH.K.AA.N.AH.M.N. 
+L.AE.S.T. .F.IH.G.AH.S. .T.UW. .B.AO.L.T.AH.M.AO.R. .IH.K.AA.N.AH.M.IY. 
+B.AO.L.T.AH.M.AO.R. .T.UW. .K.AE.N.Z.AH.S. .S.IH.T.IY. .IH.K.AA.N.AH.M.IY. 
+W.AH.T. .EH.R.L.AY.N. .IH.Z. .AH.S. 
+W.IH.CH. .EH.R. .L.AY.N. .IH.Z. .AH.S. 
+W.IH.CH. .IH.R.AY.Z. .AH. 
+W.IH.CH. .EH.R.L.AY.N. .IH.Z. .AH.S. 
+W.IH.CH. .Y.EH.R.L.AY.N. .IH.Z. .DH.AH.M. 
+K.AH.L.AH.M.AH.S. .T.UW. .SH.AH.K.AA.G.OW. .W.EH.N. .W.EY. .B.IH.F.AO.R. .T.EH.N.IY. 
+W.AH.T. .EH.R.AH.L.AY.N. .IH.Z. .B.EY.S.L.IY. 
+S.EY.V. .P.IY.T.ER.Z.W.ER. .T.UW. .D.IH.T.R.ER.AH.N.T.S. 
+F.R.AH.M. .N.IH.L.W.AO.K.IY. .T.UW. .AO.R.L.AE.N.D.OW. .W.AH.N. .W.EY. .AE.F.T.ER. .F.AY.V. .P.IY.EH.M. .W.EH.N.Z.D.IY. 
+AH.N.D. .F.R.AH.M. .N.IH.L.AA.K.IY. .T.UW. .AE.K. .L.AE.N.T. .HH.UW. .B.IH.F.AO.R. .T.EH.M. .EY.G.AH.M. .D.EY.L.IY. 
+W.AH.T. .EH.R.L.AY.N. .IH.Z. .IH.K.S. 
+SH.OW. .M.IY. .AO.F. .F.L.AY.T.S. .F.R.AH.M. .S.AE.N.HH.AE.Z.EY.V. .AH. .F.IH.ER.Z. 
+SH.OW. .M.IY. .AO.F. .F.L.AY.T.S. .F.R.AH.M. .S.AE.N. .HH.OW.Z.EY. .AH.F.IH.N.D.IH.K.S. 
+W.AH.T. .EH.R.AH.L.AY.N. .D.EY.T. .T.IY. 
+SH.OW. .M.IY. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .AH.N.D. .F.IY.N.IH.K.S. 
+SH.UH.R. .M.IY. .F.L.AY.T. .F.R.AH.M. .F.IY.N.IH.K.S. .S.AH.P.AO.R.T. .W.ER. 
+SH.OW. .M.IY. .G.R.AW.N. .T.R.AE.N.S.F.ER.T.EY.SH.AH.N. .IH.N. .F.AO.R.T. .W.ER.R. 
+SH.OW. .M.IY. .F.L.AY.T.S. .F.R.AH.M. .F.AO.R.T.W.ER.TH. .T.UW. .S.AE.N.OW.Z.EY. 
+SH.OW. .M.IY. .F.ER.S.T. .K.L.AE.S. .F.L.AY.T.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .M.AY.AE.M.IY. .R.AW.N.D. .T.R.IH.P. 
+SH.OW. .M.IY. .F.ER.S.T. .K.L.AE.S. .F.L.AY.T.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .M.AY. .AE.M.IY. .R.AW.N.D. .T.R.IH.M. 
+SH.OW. .M.IY. .OW.L. .ER.AW.N. .F.AO.R. . .F.L.AY.T.S. .F.R.AH.M. .Y.AO. .M.AO.R. .T.UW. .M.AY. .AE.N.IY. .N.AY.N.S.T.AY. 
+SH.OW. .M.IY. .ER.AW.N.D. .F.AO.R.IH. .F.L.AY.T.S. .F.R.AH.M.W.EY. .IH. .N.UW. .Y.AO.R.K. .N.AA.N.T.AW. 
+SH.OW.M.IY. .W.AH.N. .W.EY. .F.L.AY.T.S. .F.R.AH.M. .IH.N.D.IY.AH.N. .AE.P.AH.L.IH.S.T. .D.IH.M.EH.M.TH.AH.S. .B.IH.F.AO.R. .T.EH.N. .AH.EH.M. .AA.N. .EH.N.IY. .D.EY. 
+W.AH.T. .IH.Z. .F.IH.R. .K.OW. .EH.K.IY. 
+SH.OW.L. .M.IY. .R.AW.N.D. .W.IH.F. .K.W.AY.T. .AH.N. .R.L.EH.N. .T.UW. .T.UW. .K.AA.M. 
+W.IH.DH. .DH.IH.S. .AH. .R.IH.S.K.R.IH.K.SH.AH.N. .AE.F.IH.F. .AH. .IY.T.N.IH.NG. 
+W.AH.T. .IH.Z. .F.EH.R. .K.OW.D. .EY.JH. .M.IY. 
+W.IH.DH. .DH.EH.R. .L.AY.N. .HH.AE.N. 
+W.EH.DH. .EH.R.L.AY.N. .IH.Z. .EH.N.D. 
+W.AH.T. .ER. .L.AY.N. .AE.K.S. 
+W.AH.T. .ER.L.AY.N. .IH.Z. .W.AE.Z. .IH.N. .S.EY.D. 
+SH.OW.M.IH.NG. .AA.N. .S.T.AA.P. .L.AY.T.S. .F.R.AH.M. .S.EY.T. .P.IY.T.ER.Z. .B.ER.TH. .AH. .D.R.AA.NG.OW. 
+SH.OW. .M.IY. .AW.N. .S.AH.F. .W.AY.T.S. .F.AO.R. .T.UW.AH.N.IY. .D.UW.S.EH.N.T. .Y.IY. .IH.S.F.ER. 
+SH.OW. .M.IY. .DH.AH. .N.AA.N.S.T.AA.P. .F.L.AY.T.S. .F.R.AH.M. .T.ER.AA.D.OW. .T.UW. .S.EY.T. .P.IY.T.ER.Z.B.ER.G. 
+SH.IH.M.W.IY. .S.EY. .F.L.AY.S. .F.R.AH.M. .DH.EH.R. .L.AA.K.AH. .W.AY. .AO. . .M.AH.N. .W.AY. 
+SH.OW.L.IY. .R.IY. .D.EY.V. .F.L.AY.T.S. .F.R.AH.M. .M.OW.W.AA.N.K.IY. .T.UW. .HH.AO.R. .L.AE.N.D.OW. .W.AH.N. .W.EY. 
+W.AH.T. .EH.ER.L.AY.N. .IH.Z. .EY.CH.P.IY.N. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW. .S.AE.N.D.IY.EY.G.OW. 
+L.IH.S.T. .K.W.AY.T. .F.R.AH.M. .CH.EH.K.AH.G.OW. .T.UW. .S.EH.N. .Y.UW.N.OW. 
+L.IH.F.T. .F.L.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .D.EH.N.V.ER. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .B.EH.N.B.ER.D.AH.V. .F.IY.D.ER. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .L.AY.S. .S.T.EY.T.AH.N. 
+L.IH.S.T. .W.AY.T.S. .F.AY.N.S. .R.IH.G.AH.S. .T.UW. .S.AE.M.IY. .AH. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .DH.IH.HH.AE.N.D.Z. .DH.AH. .S.IH.T.IY. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. 
+L.IH.S.T. .W.AY.T.S. .AY. .IH.Z. .IH.N.T.ER.S.AE.N. .HH.UW.Z. .DH.EH.R. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .Y.UW.S.T.AH.N. .T.UW. .M.IH.L.W.AO.K.IY. 
+DH.IH.S. .P.W.EY.S. .R.AO.R. .W.AA.T. .Y.UW. .T.ER. .S.AE.N.D. .B.IY.T.EY.N. .P.L.EH.N. . 
+L.IH.S.T. .P.R.AY.T.S. .K.AH.M.S.AE.N. .HH.IH.Z. .EY.T.UW. .D.AW.N.W.AA.Z. .AA.N. .F.R.EY.D.IY. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .D.AE.L.AH.S. .T.UW. .HH.Y.UW.S.T.AH.N. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .L.AO. 
+L.IH.S.T. .W.AY.T. .F.R.AH.M. .M.AA.R.G.L.AA.R.T.IY. .Z. .T.UW. .B.R.ER.V.EH.NG.K. 
+L.IH.S.T. .W.AY.T. .F.R.AH.M. .L.AA.R. .M.AO.R.L.AE.N. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .AA.N.T.EH.R.IY.AH. .V. .K.AE.L.AH.F.AO.R.N.Y.AH. .T.UW. .AH.L.AE.N.JH.OW. 
+L.IH.S. .F.R.AY.T. .F.R.AH.M. .AA.N.T.EH.R.IY. .K.AE.L.AH.F.AO.R.N.Y.AH. .T.UW. .AO.L.AE.N.D.OW. 
+L.IH.S.T. .L.AY.S. .F.R.AH.M. .IH.M.IY.AE.P.W.AH.Z. .IH.M.EH.N.S.AH.D. .W.IH.DH. .DH.IH.R. .R.AH.M.L.AY.N.AH.N. 
+DH.IH.S. .W.EY.T.S. .F.R.AO.R. .Y.UW. .AH.N. .M.AE.TH. .L.EH.S.T.ER.N. .IH.S. .AH.N. .M.AY.N. . 
+L.IH.F.T. .R.AY.T.S. .F.R.AH.M. .M.EH.M.AH.S. .T.UW. .M.AY.AE.M.IY. .AA.N. .W.EH.N.Z.D.IY. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .M.AY.AE.M.IY. .T.UW. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.S. .AA.N. .S.AH.N.D.EY. 
+M.IH.S. .F.L.AY.T.S. .F.R.AH.M. .SH.AA.R.L.AH.T. .AH. .S.AE.T.ER.D.IY. .AE.F.T.ER.M.AH. 
+L.IH.S.T. .T.AY.P. .AH.V. .EH.R.P.AE.K.T. .F.AO.R. .AO.L. .F.L.AY.T.S. .F.R.AH.M. .CH.AA.R.L.AH.T. 
+W.AH.T. .K.L.AE.S.AH.Z. .F.EH.R. .K.OW. .IH.T. .Y.UW. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.R. .M.AO.R.L.AE.N.D.OW. .T.UW. .T.AH.K.AA.M.AH. .AA.N. .S.AE.T.ER.D.IY. .AH. .F.EH.R. .B.EY.S.AH.Z. .K.OW.D. .AH.V. .K.Y.UW. 
+L.AH.S. .T.EH.R.AH.F.EH.R.Z. .F.AO.R. .F.ER.S.T. .K.L.AE.S. .R.AE.N. .F.R.AH.M. .DH.AH.K.AO.R. .T.UW. .S.EY.M. .P.IH.R.Z. .EH.R. 
+L.IH.S.T. .K.OW.CH. .ER.AW.N.D. .HH.UW. .DH.EH.R. .F.EH.R. .F.R.AH.M. .D.IH.T.R.OY. .T.UW. .S.IY. .P.IY.T.ER.AH. 
+L.IH.S.T. .F.W.AY.T.S. .F.R.AH.M. .P.IH.T.S.B.ER. .T.UW. .N.UW. .W.ER.K. .AA.N. .M.AH.N.D.IY. .M.AO.R.N.IH.NG. 
+L.IH.S.T. .W.AY.T.S. .F.R.AH.M. .DH.AH. .EH.P.L.IH.S. .T.AH. .P.IH.CH.S. .F.ER.R. .G.OW.IH.NG. .T.R.AY. .ER.T. 
+L.IH.S.T. .P.L.AY.T.S. .B.IH.F.AO.R. .N.AY.N. .EY.M. .L.AO. .S.IH.N.T.AH. .AE.T.IY. .T.IH. .T.EH.M.P. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .T.UW. .T.AE.M.P. .AH.V. .DH.AH. .F.AO.R.Y.AH.N. 
+L.IH.S.T. .F.L.AY.T.S. .F.R.AH.M. .K.AE.M.P.AH.T. .AH. .S.IH.N.T.AH.N.AE.T.IY. .AE.S.UW. .TH.R.IY.P.EH.M. 
+L.IH.S.T. .EH.R.L.AY.N.Z. .DH.AE.T. .F.L.AY. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .S.AA.L.V. .R.EY.K. .S.IH.T.IY. 
+L.IH.S.T. .D.AW.N. .T.UW. .F.L.AY.T.S. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .S.AA.L.V. .L.EY.K. .S.IH.T.IY. 
+L.IH.S.T. .AW.N. .T.UW. .F.L.AY.T. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.AH.S.AY.T. .L.EY.T. .S.IY.D.IH.NG. .IH.Z. .EH.R.P.R.AE.S.T.EY. 
+W.ER.K. .G.R.AW.N. .R.EH.N.S. .P.AO.R.S.IY.AH.N.Z. .DH.EH.R.IH.NG. .B.AO.S.AH.M.AO.R. 
+L.IH.S.T. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .IH.N. .V.AA.L.V.T.AH.M. .M.AO.R. 
+L.IH.S.T. .K.W.AY.T.S. .F.R.AH.M. .B.AO.AH. .M.AO.R. .T.IH.S.AE.N. .F.R.AE.N.S.IH.S.T. .W.AH.N. .F.R.AY.D.IY. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .L.OW.S. .AE.N.JH.AH.L.IH.S. .T.UW. .P.IH.S.F.ER.G. .AA.N. .T.UW. .TH.IH.NG. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .P.IH.T.S.B.ER. .T.UW. .W.OW.S.Z. .AE.N.JH.AH.L.IH.S. .TH.EH.R.Z. .D.EY.T.IY. .N.UW. 
+G.IH.V. .M.IY. .DH.AH. .R.AW.N.D. .T.R.IH.P. .F.L.AY.Z. .F.R.AH.M. .K.L.IY.V. .W.EH.N.T. .T.UW. .M.AY.AE.M.IY. .N.EH.K.S.T. .W.EH.N.Z.D.IY. 
+G.IH.V. .M.IY. .DH.AH. .F.EH.R.Z. .F.AO.R. .R.AW.N.D. .T.R.IH.P. .F.L.AY.T.Z. .F.R.AH.M. .K.L.IH.T.IH.K.L.IH.N.T.UW. .M.AY.AE.M.IY. .N.EH.K.S.T. .W.EH.N.Z. .G.EH.T. 
+G.IH.V. .M.IY. .DH.AH. .W.AY.T. .AH.N.D. .F.EH.R.Z. .F.AO.R. .AH. .T.R.IH.P. .T.UW. .K.L.IY.V.L.AH.N.D. .F.R.AH.M. .M.AY. .EH.N.IY. .Y.AH.NG.W.IH.N.Z.T.AH.N. 
+G.IH.V. .M.IY. .DH.AH. .F.EH.R.Z. .F.R.AH.M. .M.AY. .AE.N.Z. .DH. .K.L.IY. .AH.N. .UW. .M.EH.K.S.T. .S.AH.M. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .DH.AH. .W.AA.N.IY. .DH.AH. .F.Y.N.AH.T.S. .AA.N. .S.AE.N.ER.D.IY. .AO.R. .S.AH.N.D.EY. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AO.N. 
+G.IH.V. .M.IY. .DH.AH. .F.L.EY.T. .F.K.AH.M.P.IH.AH.K. .R.AH. .AH. .R.AA.F. .AH.N. .W.IH.N.IY. .IY.Z.IH.NG. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .M.AO.R. .W.AO.K.IY. .AA.N. .B.R.EH.N.D.EY. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .N.OW. .W.AO.K.NG. .AA.N. .AH.M.EH.R.IH.K.AH.N. .OW.N. 
+G.IH.V. .M.UW. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .F.IY.N.IH.SH. .T.UW. .DH.AH. .W.AO.K. 
+G.IH.V. .M.IY. .DH.AH. .M.IY.L. .F.L.AY.T.S. .T.UW. .P.R.AY.AE.N. .R.IY.L.IY.S. .AE.T. .R.IY. .M.AO.R.D.IH.NG. .F.R.AH.N. .SH.AH.K.AA.N.D.ER. .T.UW. .S.IY.AE.T.AH.L. .L.AA.S.T. .T.AH.M. 
+G.IH.V. .M.IY. .DH.AH. .P.L.OY.T.S. .F.R.AH.M. .CH.AH.K.AH.N.ER. .T.UW. .S.IY.AE.T.AH.L. .S.AE.T.ER.D.IY. .M.AO.R.N.IH.NG. .DH.AE.T. .HH.AE.V. .M.IY.L.Z. 
+G.IH.V. .M.IY. .F.W.AY.T.S. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .SH.IH.K.AW.N.G. .B.AE.T. .IH.T. .N.IY.L.Z. .AA.N. .K.AA.N.T.AH.N.IY. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .S.IY.AE.T.AH.L. .T.UW. .SH.AH.K.AA.G.OW. .DH.AE.T. .IH.T. .M.IY.L.Z. .AA.N. .K.AA.N.T.R.AH.M.EH.N.T.AH.L. .S.AE.N.T.ER.D.IY. .M.AO.R.N.IH.NG. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW. .S.IY.AE.T.AH.L. .AA.N. .K.AA.N.T.AH.N.EH.L. .B.AH.T. .HH.AE.V. .M.IY.L.Z. .ER.L.IY. .S.AE.N.ER.D.IY. .M.AO.R.N.IH.NG. 
+G.IH.V. .M.IY. .AH. .K.AA.M.B.AH.N.EY.SH.AH.N. .AH.V. .K.AA.T.M.EH.T.AH.L. .F.L.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW. .S.IY.AE.T.AH.L. .DH.AE.T. .HH.ER. .M.IY.L.Z. .AA.R. .V.ER. .S.AE.T.ER.D.IY. .M.AO.R.N.IH.NG. 
+G.IH.V. .M.IY. .DH.AH. .S.AE.T.ER.D.IY. .M.AO.R.N.IH.NG. .F.L.AY.T.S. .W.IH.DH. .M.IY.L.Z. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW.M.IH.N.IY.AE.P.AH.L.IH.S. 
+G.IH.V. .M.IY. .DH.AH. .S.EH.V.AH.N. .M.OY.N.F.L.AY.T.S. .AA.N. .K.OW.EH.L. .DH.AE.T. .HH.AE.V. .M.IY.L.Z. .F.R.AH.M. .CH.AH.K.AA.G.ER.Z. .T.UW. .M.EH.N.IY. .AH.N.S. 
+G.IH.V. .M.IY. .DH.AH. .S.AE.T.ER.D.IY. .M.AO.R.N.IH.NG. .F.L.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW. .S.EY.N.T. .P.AO.L. .AA.N. .K.AA.N.T. .M.EH.N.T.AH.L. .DH.AE.T. .HH.AE.V. .M.IY.L.Z. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .T.UW. .L.AO.S. .V.IH.G.AH.S. .N.AY.N.T.AY.N. 
+G.IH.V. .M.IY. .DH.AH. .F.W.AY.T.S. .F.R.AH.M. .M.EH.M.P.AH.S. .T.UW. .L.AE.S.T. .V.EY.G.AH.S. .N.AA.N. .T.AE.P. 
+G.IH.V. .M.IY. .DH.AH. .CH.IY.P.AH.S.T. .R.AW.N.D. .T.R.IH.P. .F.L.AY.T.S. .F.R.AH.M. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.S. .T.UW. .AW.ER. .L.AE.N.D.OW. .ER.AW.N.D. .D.IH.S.EH.M.B.ER. .T.W.EH.N.T.IY. .F.IH.TH. 
+AY. .N.IY.D. .AH. .F.R.AY.D.IY. .F.L.AY. .F.R.AH.M. .L.IY.AH.Z. .T.UW. .T.AE.M.P.AH.S. 
+AY. .N.IY.D. .AH. .S.AH.N.D.EY. .F.L.AY.T. .F.R.AH.M. .F.AE.M.P.F.ER.R. .AH. .T.R.AA. 
+G.IH.V. .M.IY. .AH. .F.L.AY.T. .F.R.AH.M. .SH.AA.R.L.AH.S. .B.AA.S.AH.M.M.AO.R. .AH.N. .T.UW.Z.D.IY. .M.AO.R.N.Y.IH. 
+K.AE.N. .AY. .HH.AE.V. .AH. .M.AO.R.N.IH.NG. .F.L.AY.T. .F.R.AH.M. .B.AA.T.AH.M.AO.R. .AH.UW.Y.UW. .P.L.IY.Z. 
+CH.IY.Z.AH.S. .B.R.AW.N. .T.R.IH.P.T. .DH.EH.R. .F.R.AH.M. .M.AO.R. .IY.D.IY.AH.N.AE.T.L.IH.S. .L.OW.L.AE.N.D.AH.L. .AA.N. .D.IH.S.EH.M.B.ER. .T.W.EH.N.T.IY. .TH.EY.N. 
+CH.IY.F.AH.S.T. .W.AH.N. .W.EY.Z. .HH.IY.R. .F.R.AH.M. .IH.N.DH.AH. .AE.T.AH.L.IH. .L.AY.N. .N. .D.S.EH. .T.W.EH.N.T.IY. .S.EH.V.AH.N. 
+S.AE.T.ER.D.IY. .F.L.AY.T. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .F.R.AH.M. .DH.AH. .W.AO.K.IH.NG. .AH.F.IY.N.ER.Z. 
+IH.Z. .DH.EH.R. .R.AH.F.EH.R. .F.R.AH.M. .P.IH.T.S.B.ER.G. .T.UW. .N.IY. .DH.IH.N. .AH.N.D.ER. .T.UW. .HH.AH.N.D.R.AH.D. .D.AA.L.Z. 
+HH.AW. .M.AH.CH. .IH.Z. .P.OW.K.T.F.L.AY.T. .F.R.AH.M. .P.IH.T.B.ER. .UW.EH.V. .AH. 
+N.UW. .W.ER.K. .T.UW. .K.EY.M. .AH.T. .AA.N. .F.R.AY.D.IY. 
+T.AE.N.S.ER. .IY. .CH.AA.R.AH.T. .S.EH.N.D.IH.NG. .L. 
+SH.AA.R.L.AH.T. .T.UW. .B.AO.L.AH.T.AH. .M.AO.R. .AA.N. .T.UW.Z.IY. 
+B.AO.L.T.AH.M. .M.AO.R. .T.UW. .N.UW. .Y.AO.K. .W.EH.N.Z.D.IY. .M.AO.R.N.IH.NG. 
+D.AE.L.AH.S. .T.AH.G.EH.N.S.T. .AH.N. .AE.F.T.ER. .W.OY.N. .TH.AW.N.D. .T.UW. .AH.AH.N. .M.AO.R.AH. 
+HH.UW. .S.IH.N.T. .IH.Z. .D.AW.N. . .P.IY.P.AH.L. 
+IH.N. .DH. .AE.N.AE.P.AH.L.IH.S.T. .T.UW. .AO.R. .L.AE.N.D. .AH.P. .D.IH.S.EH.M.B.ER. .T.W.EH.N.T.IY. .S.EH.N. 
+CH.IY.Z. .T.AH. .S.T.EH.R. .F.R.AH.M. .IH.N.D.IY.AH.N. .AE.V.L.IH.S. .T.UW. .AO.R.L.AY.N.D.OW. .AA.N. .DH.AH. .T.W.EH. .W.IH.DH. .D.IH.S.EH.M.B.ER. 
+CH.IY.P. .AH. .S.F.EH.R. .R.AW.N.D. .T.R.IH.P.S. .S.AH.M. .IH.N.D.IY.AH.N. .AE.P.L.AH.N.S. .T.UW. .AO.L.AE.N.D.OW. .AA.N. .D.IH.S.EH.M.B.ER. .T.W.EH.N.T.IY. .S.EH.V.AH.N. 
+K.L.IY.V. .DH.AH.N.T.UW. .M.AY. .AE.M.IY. .AH.V. .W.IH.N.T.D.IY. .ER.AY.Z.IH.NG. .B.IH.F.AO.R. .F.AO.R.P.IY.M. 
+M.AY.AE.M.IY. .T.IH.K.R.IY.Z.AH.N. .S.AH.N.D.EY. .AE.F.T.ER.N.UW.N. 
+N.UW. .Y.AO.R.K. .S.IH.T.IY. .T.AH.M.AY. .B.IH.G.ER.Z. .AH.N.D. .M.EH.M.P.AH.Z. .T.UW. .M.AY. .P.IY.G.IH.Z. .AA.N. .S.AH.N.EY. 
+N.UW. .Y.AO.R.K. .S.IH.T.IY. .T.UW. .L.AO.S. .V.EY.G.AH.S. .AH.N.D. .M.EH.M.F.AH.Z. .T.UW. .L.AO.S. .V.EY.G.AH.S. .AA.N. .S.AH.N.D.EY. 
+Y.UW.Y.AO.R. .S.AH.M.AA. .S.EY.G.AH.S. .S.AH.N.D.EY. .AE.F.T.ER.N.UW.N. 
+M.EH.M.F.AH.Z. .T.UW. .M.AH.S. .B.EY.G.AH.S. .S.AH.N.EY. .AE.F.T.ER.N.UW.N. 
+UW. .L.AY. .P.IY.K.AH.Z. .AA.N. .W.AH.N.D.IH.NG. .AE.S.ER. 
+SH.AH.K.AA.G.K.OW. .T.UW. .S.IY.AE.T.AH.L. .S.AE.T.ER.D.IY. .M.AO.R.N.IH.NG. 
+SH.IH.P.AW.N.AH. .DH.AH. .L.AO.S. .V.EY.G.AH.S. .S.AE.T.ER.IY. .M.AO.R.N.IH.NG. 
+L.OW.S. .AE.N.JH.AH.L.IH.S. .T.UW. .P.IH.T.S.B.ER.G. .AE.F.T.ER.N.UW.N. .T.UW.Z.D.IY. 
+L.AO.S. .AE.N.JH.AH.L.IH.S. .T.UW. .HH.IH.T.S. .F.AO.R. .G.EH.T. .R.AH.N. .Y.AH.R. .W.AH.N. 
+P.IH.T.S.B.ER.G. .F.AO. .L.AA.T. .AE.N.S.AH.L. .IH.Z. .TH.ER.S.Z.T. .D.EY. .Y.UW.Z.IH.N. 
+M.IH.L. .W.AO.K.IY. .T.UW. .F.IY.N.IH.K.S. .AA.N. .S.AE.T.ER.D.IY. 
+F.IY.N.IH.K.S. .T.UW. .N.OW.W.AO.K.IY. .AA.N. .S.AH.N.R.EY.N. 
+F.IY.N.IH.K.S.T. .T.UW. .M.IH.W.AO.K.IY. .Y.AH.N.W.EY. 
+AH. .F.L.AY.T. .F.R.AH.M. .B.AO.T.AH. .M.AO.R. .D.IH.S.AE.N.D. .F.R.AE.N.S.IH.S. .K.OW.L. .R.AY.D.IH.NG. .B.IH.T.W.IY.N. .F.AY.N. .AH.N.D. .EY.T.IY.AH. 
+HH.AW. .M.EH.N.IY. .N.AO.TH.W.EH.S.T. .F.L.AY.T.W.IY.V. .S.IY.N. .F.AO.L. 
+HH.AW. .M.EH.N.IY. .N.AO.R.TH. .W.EH.S.T. .F.W.AY.T. .F.L.IY.V. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+HH.AW. .M.EH.N.IY. .F.W.AY.T.S. .D.AH.Z.AH.N.T. .N.AO.R.TH.W.EH.S.T. .HH.AE.V. .L.IY.V.IH.NG. .G.AA.N. 
+AY. .W.UH.D. .L.AY.K. .AH. .K.AH.N.EH.K.T.IH.NG. .F.L.AY.T. .F.R.AH.M. .D.AE.L.AH.S. .T.UW. .S.AE.N.D. .F.R.AE.N.S.AH.S. .B.AO.R. .L.IY.V.IH.NG. .AE.F.T.ER. .F.AO.R. .P.L.AH.N. 
+P.L.IY.Z. .L.IH.S.T. .AO.L. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .D.AE.L.AH.S. .T.UW. .S.AE.N.D. .F.R.AE.N.S.IH.S.K.OW. 
+T.EH.L. .M.IY. .AH.G.EH.N. .DH.AH. .M.AO.R.N.IH.NG. .F.L.AY.T.S. .AA.T. .AH.N. .EH.R. .IH.N. .DH.EH.R.L.AY.N.Z. .F.R.AH.M. .F.IH.L.AH.D.EH.L.F.IY.AH. .T.UW. .G.AE.L.AH.S. 
+T.EH.L. .IY.M. .DH.AH. .F.L.AE.N.T. .AE.T. .IY. .D.UW.AH.D.AW.T. .W.IY. . .G.OW. .T.UW. .G.AW.N. 
+W.EH.N.T.IY. .T. .T.IY. .N.AY.N. .AH.R. 
+W.IY. .T.EY.K. .AH. .P.L.EY. .W.IH.DH. .DH.AH. .D.IY.AY.N.OW. 
+W.AH.T. .IH.Z. .IH.T. .D.IY.N.AY.N.AE.S. 
+SH.OW. .M.IY. .DH.AH. .F.ER.S.T. .K.L.AE.S.AH.N. .S.OW. .IH.T. .W.AY.F. .B.IH.T.W.IY.N. . .AH. .P.EY.N. .AO.R. .OW.N.AH. 
+SH.OW. .M.IY. .DH.AH. .F.ER.S.T. .K.L.AE.S. .AH.N.D. .K.OW.CH. .F.L.AY.T.S. .F.R.AH.M. .K.EH.N.AH.D.IY. .EH.R.P.AO.R.T. .T.UW. .M.AY.AE.M.IY. 
+SH.IY.L. .M.IY. .DH.AH. .F.ER.S.T. .K.L.AE.S.AH.N. .K.OW.CH. .W.AY.T.S. .F.R.AH.M. .JH.F.K.EY. .T.UW. .M.AY. .AE.N.IH.NG. 
+SH.OW. .D.EH.L.T. .T.AH. .EH.R.L.AY.N.Z. .F.L.AY.T.S. .F.R.AH.M. .JH.AH.F. .K.EY.N. .T.UW. .M.AY.AE.M.IY. 
+SH.OW. .D.AW.N. .AH. .EH.R.L.AY.N.Z. .F.R.AH.M. .B.AE.S.K.AH. .D.IH.P.R.AA.D.AH.N.L.IY. 
+SH.OW. .D.EH.L.T.AH. .EH.R.L.AY.N.Z. .F.L.AY.T.Z. .F.R.AH.M. .B.AA.S.T.AH.N. .T.UW. .S.AA.L.V.L.EY. 
+SH.OW. .D.EH.L.T. .T.AH. .HH.EH.R.L.AY.N.Z. .F.L.AY.T.S. .F.R.AH.M. .B.AA.S.T.AH.N. .T.UW. .S.AO.L.T. .L.IH.G. .S.IH.T.IY. 
+W.AH.T. .AA.R. .DH.AH. .F.EH.R.Z. .F.AO.R. .F.L.AY.T.S. .B.IH.T.W.IY.N. .B.AA.S.T.AH.M. .IH.N. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+W.AH.T. .IH.Z. .DH.AH.T. .IH.S. .IH.K.S.P.EH.N.S.AH.V.F.EH.R. .F.R.AH.M. .B.AE.S.T.AH.N. .T.UW. .S.AO.L.T. .M.EY.T. .S.IY. 
+W.AH.T.T. .Y.UW. .DH.AH. .M.OW.S.T. .F.EH.R.Z. .F.R. .M. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. .T.UW. .S.AO.L.T. .L.EY.G. .S.IH.T.IY. 
+W.AH.T. .IH.Z. .DH.AH. .M.OW.S.T. .P.EH.R. .F.R.AH.M. .W.IH.NG. .T.UW. .S.AH.M.TH. .L.EY.K. .S.IH.T.IY. 
+SH.OW. .M.IY. .DH.AH. .K.AA.S.T. .F.AO.R. .DH.AH. .F.ER.S.T. .K.L.AE.S. .T.IH.K.AH.T. .F.R.AH.M. .D.IH.T.R.OY.T. .DH.AH. .L.OW.S. .B.IH.G. .AE.Z. .IH.N.V.AE.K.T.S. 
+W.AH.T. .IH.Z. .DH.AH. .ER.L.IY.AH.S.T. .R.AY.D.IH.NG. .F.L.AY.T. .F.R.AH.M. .B.AA.S.T.AH.N. .T.UW. .W.AA.SH.IH.NG.AH.N. .AO.R. .TH.IH.NG.Z. 
+W.AH.T. .IH.Z. .DH.AH. .ER.L.IY.AH.S.T. .L.AY. .IH.N. .F.L.AY.T. .W.IH.K.IY.N. .K.R.AO.S.IH.N. .IH.N. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+W.AH.T. .DH.AH. .ER.L.IY.AH.S.T. .D.ER.AY.V.IH.NG. .S.L.AY.T.L.IY. .K.AH.N.R.AE.S.T.IH.NG. .IH.N. .W.AA.SH.IH.NG.T.AH.N. .D.IY.S.IY. 
+W.AH.T. .IH.Z. .DH.AH. .OW.L.IY.AH.S.T. .ER.ER.AY.V.IH.NG. .K.W.AY.T. .K.AH.M. .Y.UW.S. .T.K.UW.N. .Y.UW. .AO.L.AH.N.D. 
+W.AH.T. .IH.Z. .DH.AH. .ER.L.IY.AH.S.T. .D.ER.AY.V. .IH.NG. .F.L.AY.S. .AH.N. .Y.UW.S.T.IH.N. .T.UW. .AO.L.AE. 
+SH.OW. .M.IY. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .HH.Y.UW.S.T.AH.N. .AH.N.D. .AO.R.L.AE.N.D.OW. 
+SH.IY.L. .L.IY.V. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .K.IY.N. .AO.R.L.AE.N.D.OW. 
+SH.OW. .M.IY. .DH.AH. .F.W.AY.S. .K.AH.N.S.IH.S.T.AH.N. .W.AO.L.IH.NG. 
+L.IH.S.T. .AO.F.T.W.AY. .L.IY.D.IH.NG. .D.EH.N.F.ER. .B.IH.T.W.IY.N. .EY.T. .P.IY.EH.M. .AH.N.D. .N.AY.N.IY. 
+W.IH.DH. .EH.L.AY.N. .S.ER.T.AH.N. 
+L.IH.S.T.IY. .EH.R.L.AY.N.Z. .W.IH.DH. .F.L.AY.T.S. .T.UW.R. .F.R.AH.M. .D.EH.N.V.ER. 
+W.AH.T. .HH.ER. .L.AY.M.Z. .F.L.AY.IH.NG. .T.UW. .D.EH.N. 
+L.IH.S.T.AH.L. .F.L.AY.T.S. .ER.AY.V.IH.NG. .IH. .D.EH.N.V.ER. .B.IH.T.W.IY.N. .EY.T. .AH. .N.AY.N.Y.IH.R. 
+W.AH.T. .IH.Z. .S.EH.V.AH.N.T.IY. .TH.R.IY.Z. 
+L.IH.S.T. .AO.L. .AH.V. .DH.AH. .D.EY.L.IY. .F.L.AY.T.S. .ER.AY.V.IH.NG. .IH.N.D. .D.EH.N.V.ER. .B.IH.T.W.IY.N. .EY.T.AH.N. .N.AY.N.P.IY.M. 
+M.IH.S.T. .AA.R. .AH. .D.EY.L.IY. .F.L.AY.T. .ER.AY.V.IH.NG. .IH.N. .D.EH.N.ER. .F.R.AH.M. .IY. .AH. .AY.N.P.IY.M. 
+SH.OW.L. .M.IY. .AO.N.T.UW. .D.EY.L. .W.AY.T. .ER.R.AY.V.IH.NG. .UW.G.EH.N. .AH. .B.IH.K.IY.N. .AH.IY.N. .M.AY.IH. 
+T.EH.L. .M.IY. .AH.B.AW.T. .DH.AH. .AH.M.EY.D.IY.EH.R. .K.R.AE.F.T. 
+T.EH.L. .M.IY. .AH.B.AW.T. .DH.AH. .M.EY. .IY. .EH.R. .K.R.AE.F.T. 
+T.EH.L. .M.IY. .AH.B.AW.T. .DH.AH. .T.AY.P. .AH.V. .Y.AO.R. .F.R.AE.N.T. .K.AO.L.D. .DH.EH. .M.IY. 
+L.IH.S.T. .AA.W.AY.T. .S.ER.AY.V.IH.NG. .AO.R. .L.IY.D.IH.NG. .D.EH.N.ER. .B.IH.T.W.IY.N. .M.EY.D.AH. .M.EH.R.AH.N. 
+L.IH.K.S. .AO.F. .L.AY.T. .T.UW. .R.AY.T.IH.NG. .IH.N. .DH.EH.N. .AH. .IH.K.W.UW.N. .M.EY.T.IH.N. .N.AY.N.N.IY.N. 
+DH.AH. .S.T.AO.R. .F.L.AY.T.S. .AH. .AO.L. .T.EH.N.S. .AH.V. .EH.R. .P.R.EH.S. .ER.AY.V.IH.NG. .IH.N. .T.EH.N. .R.AO. .ER.T.UW.L. .N.IY.R.R.AH.M. .N.AW.T. .V.IY.AH. 
+P.L.IY.Z. .W.IH. .AE.S. .L.AY.T. .R.AA.N. .AE.SH.K.IH.L. .F.AH.M.EH.N.AH. .F.S.AH.N.M.AH.N.IY. .M.AO.N.Y.IH.NG. 
+P.L.IY.Z.L.AH. .AH.P.F.L.AY.K. .F.R.AH.M. .AE.SH.V.IH.L. .K.AH.N. .N.EH. .IH.S. .AH.N. .M.AH.N. .B.IY. .M.AO.R.N.IH. 
+IH.Z. .DH.EH.R. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .F.R.AH.M. .DH.AH. .M.EH.M.P.AH.S. .EH.R.P.AO.R.T. .IH.N.T.UW. .T.AW.N. .W.EH.N. .IH.F. .AY. .ER.AY.V. .AE. .EY.T. .HH.AH.N.D.R.AH.D. .AH.N.D. .F.AO.R.T.IY. .T.UW. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. 
+P.R.IY.Z.L.IH.S.T. .DH.AH. .F.L.AY.T.S. .R. .M.EH.M.P.AH.D. .TH.R.UW. .N.UW. .Y.AO.R.K. .S.T.IH.D.IY. .AA.N. .DH.AH. .M.AH.N.D.IY. .N.AY.T. 
+W.AH.T. .IH. .S.IY.D.IY.T.UW. 
+W.AH.T. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .IH.Z. .AH.V.EY.L.AH.B.AH.L. .F.R.AH.M. .B.L.AA.R.L.AA.R.D.IY. .AE.T. .EH.R.P.AO.R.T. .IH.N.T.UW. .N.UW. .Y.AO.R.K. .S.IY.T. 
+IH.Z. .DH.EH.R. .B.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .F.R.AH.M. .AH. .G.IH.M.T.AH.M. .N.UW. .Y.AO.R.K. .S.IH.T.IH.NG. 
+P.L.IY.Z. .IH.Z. .DH.AH. .G.R.AW.N.D. .T.R.AE.N.S.F.ER.K.EY.SH.AH.N. .UW. .L.UH.K. .IH.N.T.UW. .N.UW. .Y.AO.R.K. .P.IH. 
+P.L.IY.Z. .L.IH.V. .G.R.AW.N.D. .T.AE.S. .T.UW. .K.W.IY.S.IH.N. .K.AH.M. .Y.UW. .EH.N.T.UW. .N.UW. .Y.AO.R.K. .S.IH.T.IY. 
+SH.OW. .N.IY. .DH.IH. .M.AO.R.N.IH.N. .F.L.AY.T. .F.R.AH.M. .M.EH.M.AH.T.S. .IH.N. .N.UW. .Y.AO.R.K. .S.IY.T.IH. 
+G.IH.V. .M.IY. .DH.AH. .F.L.AE.K.S. .F.R.AH.M. .N.UW. .Y.AO.R.K. .S.IH.T.IY. .T.UW. .N.AE.SH.V.IH.L. .L.IY.V.IH.NG. .AE.F.T.ER. .F.AY.V. .P.IY.EH.M. .AA.N. .W.EH.N.Z.S.T.ER. 
+T.EH.L. .M.IY. .AH.B.AW.T. .DH.AH. .G.R.AW.N.D. .T.R.AE.N.S.P.ER.T.EY.SH.AH.N. .F.R.AH.M. .M.AE.SH.B.IH.L. .EH.R.P.AO.R.T. 
+W.AH.T. .AA.R. .DH.AH. .N.AA.N.S.T.AA.P. .F.L.AY.T.S. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .K.IH.SH.AA.R.L.AH.D. .L.IY.V. .IH.N. .AE.T.ER.N.UW.N. .IH.N.D. .ER.AY.V.IH.NG. .B.IH.F.AO.R. .S.V.N.P.IY.EH. 
+HH.AW. .M.EH.N.IY. .F.L.AY.T.S. .D.AH.Z. .AH.L.AE.S.K.AH. .EH.R.L.AY.N.Z. .HH.AE.V. .T.UW. .B.ER.B.AE.NG.K. 
+L.IH.S. .DH.AH. .AH.L.AE.S.K.AY. .EH.R.L.AY.N. .F.L.AY.T.S. .F.R.AH.M. .B.ER.D.K.T. .T.UW. .EH.N.IY.W.EH.R. 
+L.IH.S.T. .DH.AH. .AH.L.AE.S.T. .AY. .AE.M. .K.W.AY.T.S. .F.R.AH.M. .P.R.ER.V.EY.N. 
+W.IH.CH. .EH.R.W.AH.N. . .TH.EH.NG.S. 
+L.IH.S.T. .DH.AH. .AH.L.AE.S. .AY.AY.N.Z. .K.W.AY.S. .AY.V.IH.NG. .IH.N. .B.R.UW. .B.AE.K. 
+L.IH.S.T. .DH.AH. .AH.L.AE.S.K.G.AY. .EH.R.L.AY.N.Z. .L.AY.T.S. .AE.V. .D.IH.P.AA.R.T.IH.NG. .F.R.AH.M. .B.ER.B.AE.K. 
+L.IH.S.T. .AO.L. .DH.AH.L.AE.S.T. .G.AY. .EH.R.L.AY.N. .F.L.AY.T.S. 
+L.IH.S.T. .AO.F. .W.AY.T.S. .D.IH.P.AA.R.T.IH.NG. .F.R.AH.M. .S.IY.AE.T.AH.L. 
+L.IH.S.T. .AH. .P.R.AY.S. .F.R.AH.M. .IH.N.D.IY.AH.N. .AE.K.L.IH.S.T. .D.IH. .M.EH.M.F.AH.S. .K.AE.T.L.IY.S. .B.IH.K.ER.IH.NG. 
+L.IH.S.T. .DH.AH.R. .CH.IY.F. .AH.S.T. .DH.EH.R. .F.R.AH.M. .SH.UH.R. .W.IH.T. .Y.UW. .L.AA.N. .P.EY.V.AH.S. 
+AY. .W.AA.N.T. .T.UW. .F.L.AY. .F.R.AH.M. .L.OW.S. .AE.N.JH.AH.L.IH.S. .F.AO. .SH.AA.R.ER.L.IY. .IH.N. .DH.AH. .M.AO.R.N.IH.NG. 
+AY. .W.UH.D. .L.AY.K. .DH.AH. .M.AO.R.N.IH.NG. .F.L.AY.T. .F.R.AH.M. .SH.UH.R.AH. .T.UW. .Y.UW.W.ER. 
+AY.D. .L.AY.K. .AH. .M.AO.R.N.IH.NG. .F.L.AY.T. .F.R.AH.M. .N.UW.W.ER.K. .F.AO.R. .L.OW.S. .AE.N.JH.AH.M.IH.S. 
+AY.D. .L.AY.K. .AE.N. .IY.V.N.IH.NG. .F.L.AY.T. .F.R.AH.M. .N.UW.W.ER.K.S. . .L.AO.NG. .EY.N.JH.AH.N.S. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .DH.AE.T. .L.IY.V. .AA.N. .S.AH.N.D.EY. .F.R.AH.M. .M.AA.N.T.R.IY.AO.L. .K.AO.R. .B.AE.K. .T.UW. .S.AE.N. .D.IY.EY.G.OW. .K.AE.L.AH.F.AO.R.N.Y.AH. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .AA.N. .T.UW.Z.D.IY. .W.IH.CH. .L.IY.V.Z. .F.R.AH.M. .S.AE.N. .D.IY.EY.G.OW. .T.UW. .IH.N.D.IY.AH.N.AE.P.AH.L.IH.Z. .IH.N.D.IY.AE.N.AH. .AH.N.D. .DH.AE.T. .L.IY.V.Z. .IH.N. .DH.AH. .AE.K.T.ER.N.UW.N. 
+AY. .W.UH.D. .L.AY.K. .DH.UW. .L.UW. .F.ER.S.T. .D. .M.AO.N.IH.NG. .F.AO.R.M. .M.IH.N.IY. .AY. .AE. .P.L.IH.S. .T.UW. .B.R.AW.N.D. .ER. 
+AY. .W.UH.D. .L.AY.K. .AH. .F.L.AY.T. .AA.N. .F.R.AY.D.IY. .M.AO.R.N.IH.NG. .F.R.AH.M. .T.ER.AA.N.T.OW. .T.UW. .M.AA.N.T.R.IY.AA.M. 
+AY. .W.UH.D. .L.AY.K. .B.AH. .F.W.AY.S. .AH.N. .S.IH.N. .S.AH.N.AE.N. .T.UW. .R.IH. .IH.N. .AA.N. .AH.M.EH.R.IH.K.AH.N. 
+W.AH.T. .T.AY.P. .AH.V. .EH.R.K.R.AE.F.T. .IH.Z. .Y.UW.Z.D. .F.AO.R. .DH.AH. .AH.M.EH.R.IH.K.AH.N. .F.L.AY. .L.IY.V.IH.NG. .AE.T. .F.AO.R. .AH. .N.AY.N.T.IY.N. .P.IY. 
+AY. .N.IY.D. .T.AH. .F.L.AY.T.L.IY. .AH.N. .K.AE.N. .AH.S. .S.IH.T.IY. .T.AO. .SH.IH.K.AH.B.L.IH. .IH.N.IH.NG. .N.EH.K.S.T. .F.R.EH.N.D.Z.IY. .AH.N.D. .R.IH.T.ER.N.IH.NG. .DH.AH. .F.OW.N. .G.EY. 
+W.AH.T. .F.L.AY.T.S. .G.OW. .F.R.AH.M. .L.AO.NG. .B.IY.CH. .T.UW. .S.EY.M. .L.UW.W.IH.S. 
+W.AH.T. .AA.R. .DH.AH. .K.W.AY.T. .T.R.N.EH.S.IH.K. .T.UW. .L.AY.S.T. .P.EY.K.IH.NG. 
+W.AH.T. .IH.Z. .DH.AH. .F.L.AY.T. .F.R.AH.M. .DH.AH. .L.OW.S.T. .V.EY.G.AH.S.T. .T.UW. .AH.T.IH.R.IY.AH.L. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .M.AA.N.T.IH.R.IY.ER. .T.UW. .M.EH.M.AH.S. 
+W.IH.CH. .HH.AY. .DH.AH. .G.R.AW.N.D. .T.AE.S. .P.R.AH.T.IY.SH.AH.N.Z. .DH.EH.R. .IH.Z. .AH. .L.AA.T. .B.EY.G.AH.S. .IH.N.R.AH.N. .AH. 
+IH.Z. .DH.EH.R. .AE.K.CH.AH.L.IY. .S.ER.V.AH.S. .AE.T. .DH.AH. .AA.N.T.IH.R.IY.OW. .EH.R.P.AO.R.T. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .T.AE.M.P.ER. .T.IH.M.OW.W.AA.K.IY. 
+W.AH.T. .AA. .AA.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .M.AO.R. .W.AO.K.IY. .T.UW. .S.IY.AE.T.AH.L. 
+W.AH.T. .AA.R. .Y.UW. .DH.AH. .F.L.AY.T.S. .R.UW. .W.AO.N. .W.EH.N. .T.UW. .S.AE.N. .HH.IH.Z.IH. .AA.N. .N.AY. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .AA.N. .M.AH.N.D.IY.Z. .DH.AE.T. .T.R.AE.V.AH.L. .F.R.AH.M. .SH.AA.R.L.AH.T. .N.AO.R.TH. .K.EH.R.AH.L.AY.N.AH. .T.UW. .F.IY.N.IH.K.S. .ER.V.IH.Z.OW.N.AH. 
+W.AH.T.EH. .ER. .L.EY. .R.EY.IY.IH.K. .T.AE.N.IH. .OW.N.L.IY. .T.UW. .T.EY. .T.AO.M. .IH.N. .DH.AH. .S.OW.AH. .AH.N.Y.UW. .B.AE. 
+W.AH.T.EH.V.ER. .K.W.AY.T. .S.AH.M. .TH.ER.Z.D.EY. .L.IY.D.IH.NG. .F.R.AH.M. .S.EY.N. .P.AA.M.IH.N.IH.S.OW.T.AH.D. .DH.UW. .S.EY.M. .L.UW.IH.S. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .S.EY.N. .L.UW.ER.S. .T.UW. .SH.AA.R.L.AH.T. .N.AO.R.TH. .K.EH.R.AH.L.AY.N.AH. .L.IY.V.IH.NG. .AA.N. .F.R.AY.D.IY. 
+W.AH.T. .UW.R. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .B.AA.S.T.AH.N.T. .AO.R. .L.AE.N.D.ER. .B.AH.T. .S.T.AA.P. .IH.N. .N.UW. .Y.AO.R.K. 
+AY. .N.IY.D. .AH. .M.AO.R.IH.NG.F.L.AY. .F.R.AH.M. .F.ER.B.AE.K. .T.UW. .N.OW. .W.AA.K.IY. .Y.AA.R. .N.EH.K.S.T. .M.AH.N.IY. 
+HH.AW. .AH.B.AW.T. .AH. .F.L.EY.T. .F.R.AH.M. .AH. .W.AA.N. .AE.IH.NG. .AH.N.D. .AH.N. .S.EH.T. .M.IY. .N.AA.R.T. .AY. 
+AH.N.D. .AH. .F.L.EY.T. .AH.N. .S.EY. .IY. .M.AA.Z. .T.UW. .P.R.EH.EH.K. .AE. .L.NG. .IH.Z. .IH.N.Z. .D.IH. .AE.F.T.ER. .N.UW.N. 
+HH.AW. .AH.B.AW.T. .AH. .F.L.AY.T.L.IY. .B.UW. .S.UW.Z.IY. .AY.T. .F.R.AH.M. .F.EY.T.L.IY. .L.IH.S.T. .IH.D. .B.R.ER.G.AH. 
+AY. .N.IY.D. .AH.UW. .F.L.AY.T. .F.R.AH.M. .S.AO.L.T. .L.EH.K. .T.UW. .N.UW.ER.R. .EH.R.P.AO.R.T. .DH.AE.T. .ER.AY.V.Z. .AA.N. .S.AE.T.ER.D.IY. .B.IH.F.AO.R. .S.IH.K.S.P.IY.EH.M. 
+AY.D. .L.AY.K. .AH. .F.L.AY.T. .AH.N.D. .S.IH.N.S.AH.N.AE.T.IH.IY. .AE.N. .W.IY. .W.ER.K. .EH.N.F.OY.R.T. .IH.D. .DH.ER. .R.AY.Z. .AA.N. .S.AE.D.AH.D.IY. .B.IH.F.AO.R. .S.IH.K.T.IY. 
+AY. .N.IY.D. .T.UW. .F.L.AY.T. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .F.R.AH.M. .M.AY.AE.M.IY. .T.UW. .SH.AH.K.AA.G.OW. .DH.AE.T. .ER.AY.V.Z. .ER.AW.N.D. .F.AY.V. .P.IY.EH.M. 
+AY. .N.IY.D. .AH. .F.L.AY.T. .F.R.AH.M. .M.EH.M.TH.L.AH.S. .T.UW. .JH.AH.K.OW.M.AH. .DH.AE.T. .G.OW.Z. .TH.R.UW. .L.OW.S. .AE.N.JH.AH.L.IH.S. 
+W.AH.T. .AA.R. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .S.IH.N.T.IH.N.AE.T.IY.AH.N. .S.AE.N.D. .HH.Z.AH. .K.AE.L.AH.F.AO.R.N.Y.AH.L. .W.IH.CH. .L.IY.V. .AE.F.T.ER. .S.IH.K.S.P.IY.M. 
+W.AH.T. .AA.R. .DH.AH. .N.AA.N. .S.AE.P. .L.AY.T.S. .B.IH.T.W.IY.N. .S.AE.N.HH.OW.L. .S.EY.AH.N. .HH.Y.UW.S.T.AH.N. .T.EH.K.S.AH.S. 
+W.AH.T. .D.UW. .DH.AH. .N.AY.N. .S.T.AA.R.T. .R.AY.Z. .DH.AH. .K.IH.M.Y.UW.S.T.IH.N. .IH.N. .DH.EH.R.F.IH.N. 
+W.AH.N. .AA.R. .DH.AH. .F.L.AY.T.S. .B.IH.T.W.IY.N. .DH.EH.M.F.AH.S. .AH.N.D. .S.IH.N.P.S.AH.N.AE.N.IY. .AA.N. .W.EY. .IH.N. 
+W.AH.T. .AA.R. .DH.AH. .AH.M.EH.R.IH.K.AH.N. .F.L.AY.T.S. .F.R.AH.M. .N.UW. .W.ER.TH.K. .T.UW.N.AE.SH.B.IH.L. 
+DH.AH. .F.L.AY.T.S. .F.R.AH.M. .AA.N.T.EH.R.IY.ER. .T.UW. .W.EH.S.T.CH.EH.S.T.ER. .DH.AE.T. .S.T.AA.P. .IH.N.D. .SH.AH.K.AA.G.OW. 
+P.L.IY.Z. .L.IH.S.T. .DH.AH. .F.L.AY.T. .F.R.AH.M. .L.AA.S. .EY.N.JH.AH.N.S. .T.IH.SH.AY.R.M.AH. 
+P.L.IY.Z. .AH.S. .S.AH. .B.L.AY.T. .F.R.AH.M. .SH.AA.R.L.AH.T. .DH.AH. .N.UW. .ER.R. 
+P.L.IY.Z. .L.AH.S. .DH.AH. .W.AY.T.S. .F.R.AH.M. .Y.UW. .W.ER.K. .T.UW. .L.AA.R.T.AE.N.JH.AH.L. 
+P.L.IY.Z. .IH.L.IH.S. .R.AH.P.L.EY.T.S. .F.R.AH.M. .S.IH.M.P.T.AH. .EH.N.IY. .T.UW.D. .F.AO.R. .AH.V.AE.NG. .AH.L. .AH.M.EH.R.IH.K.AH.N. .Y.AO.R. .L.AY.F. 
+P.L.IY.Z. .G.IH.V. .M.IY. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.ER. .SH.AH.P.AA.OW. .AA.N. .JH.UW. .S.IH.K.S.T.IY.N. 
+P.L.IY.Z. .G.IH.V. .M.IY. .DH.AH. .W.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.G.OW. .T.UW. .K.AE.N.Z.AH.S. .IH.D.IY. .AA.N. .T.UW. . .S.EH.AH.N.T.IY.N. 
+R.IY.W.AH.L. .AO.L. .DH.AH. .W.AY.T.S. .F.R.AH.M. .K.AE.N.AH.S. .S.IH.T.IY. .T.UW. .JH.AH.K.AA.G.OW. .AA.N. .T.UW. .IY.N. 
+P.L.IY.Z. .L.IH.S.T. .AO.L. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .SH.AH.K.AA.N.D.ER. .T.UW. .K.AE.N.D.AH.S. .S.IH.T.IY. .JH.UW.N. .S.EH.V.AH.N.T.IY. 
+AY.D. .L.AY.K. .T.UW. .T.R.AE.V.AH.L. .S.AH.M. .B.R.IH.Z.EH.N.IH.N. .N.OW. .M.AA.SH.AH.Z. 
+K.AE.N. .Y.UW. .F.AY.N.D. .L.IY. .AH.F.L.AY.T. .F.R.AH.M.S.AO.L.T. .L.AY.K. .S.IH.T.IY. .T.UW. .N.UW. .Y.AO.R.K. .S.IH.T. .AE. .N.EH.K.S.T. .S.AE.D.ER.D.IY. .B.IH.F.AO.R. .ER.AY.V.IH.NG. .DH.AH. .F.AO.R. .S.IH.K.S.P.IY. 
+K.AE.N. .Y.UW. .F.AY.N.D. .DH.AH. .AH.N.AH.DH.ER. .F.L.AY. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .T.UW. .M.IY. .Y.AO.R. .F.R.EH.N. .S.AE.T.ER.D.IY. .B.IH.F.AO.R. .K.P.IY. 
+K.AE.N. .Y.UW. .L.IH.S.T. .AO.L. .AH.V. .DH.AH. .D.EH.L.T.AH. .F.L.AY.T.S. .F.R.AH.M. .S.AO.L.T. .L.EH.G. .S.IH.T.IY. .T.UW. .N.UW. .Y.AO.R.K. .N.EH.K.S.T. .S.AE.T.ER.D.IY. .ER.AY.V.IH.NG. .B.IH.F.AO.R. .S.IH.K.S. .P.IY.EH.M. 
+AY.D. .L.AY.K. .T.UW. .F.L.AY.S. .AH.N. .L.AY.AE.N.IH.JH. .T.UW. .SH.AH.K.AA.G.OW. .AA.N. .AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. .ER.AY.V.IH.NG. .ER.AW.N.D. .F.AY.V. .P.Y.IH.N. 
+AY.D. .L.AY.K. .T.UW. .T.R.AE.V.AH.L. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T. .B.IH.K.AO.Z. .Y.AH. .K.AA.G.OW. .AH.N. .EH.K.S.T. .R.EH.S.IH.NG. 
+AY.D. .L.AY.K. .AH. .ER.AW.N.D. .F.UH.K. .F.L.AY.T. .F.R.AH.M. .T.EH.N. .T.UW. .S.IH.T. .T.UW. .T.AH.K.AA.G.OW. .AA.N. .W.EH.N.AH. .M.EY. .T.W.EH.N.T.IY. .S.IH.K.S.TH. .ER.AY.V.IH.NG. .AH. .S.EH.V.AH.N.P.IY.EH.N. 
+Y.EH.S. .AY.D. .L.AY.K. .T.UW. .F.AY.N.D. .R.AY.T. .F.R.AH.M. .M.EH.S.AH. .T.IH.T.IH.K.AA.L.ER. .S.T.AE.P.IH.NG. .IH.N. .M.AY. .AE.N.JH.AH.L.IH.S. 
+F.AY.N.D. .F.L.AY.T. .F.R.AH.M. .S.AE.N. .D.IY.EY.G.OW. .T.UW. .F.IY.N.IH.K.S. .AA.N. .M.AH.N.D.IY. .AY.M. 
+F.AY.N.D. .F.L.AY.T. .F.R.AH.M. .F.IY.N.IH.K.S. .T.UW. .D.IH.T.R.OY. .AH.N.L.AH.N.D.AH. 
+F.AY.N. .P.OY.N.T. .F.R.AH.M. .DH.AH. .T.R.OY. .T.UW.V. .S.AE.N.D. .AH.N. .G.OW. .T.IY.Z.D.IY. 
+F.AY.N.D. .F.L.AY.T. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY. .D.IH. .S.AE.N. .HH.OW.Z. .DH.EY. .AA.N. .M.AH.N.D.IY. 
+F.AY.N.D. .L.EY.T.R.AH.N. .R.AE.N.AH.IY. .AH. .T.EY.S. .IH.NG. .AY. .F.EH. 
+F.AY.N.D. .K.W.AY.T. .F.R.AH.M. .HH.Y.UW.S.T.AH.N. .T.UW. .M.EH.M.P.AH.S. .AA.N. .F.R.AY.D.IY. 
+F.AY.N.D. .F.L.AY.T. .F.AH.R. .M.EH.M.ER.Z. .T.UW. .S.R.IH.NG.T.AH.N. .AE.T.IY. .AH.N.S.EH.N.EY. 
+F.AY.N.D. .AH.M.EH.R.IH.K.AH.N. .F.L.AY.T. .F.R.AH.M. .N.UW.Y.ER.R.K. .T.UW. .N.AE.SH.K.AH.L. .ER.AW.N.D. .S.IH.K.S. .HH.R.D.D.TH.ER.D.IY. .P.IY.EH.M. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.W.AY.T. .R.AW.N.D. .T.R.IH.P. .F.R.AH.M. .L.OW.S. .AE.N.JH.AH.L.IH.S. .T.UW. .T.UW.K.AH.M. .AH. .W.AA.SH.IH.NG.T.AH.N. .W.IH.DH. .AH. .S.T.AA.P. .OW.V.ER. .IH.N. .S.AE.N. .F.R.AE.N.S.EH.S.K.OW. .N.AA.T. .IH.K.S.IY.D.IH.NG. .DH.AH. .P.R.AY.S. .AH.V. .TH.R.IY. .HH.AH.N.D.R.AH.D. .D.AA.L.ER.Z. .F.AO.R. .T.UW.N. .T.EH.N.TH. .N.AY.N.T.IY.N. .N.AY.N.T.IY. .TH.R.IY. 
+B.AY. .DH.EH.R. .EH.N.IY. .W.AY.T.S. .AA.N. .JH.UW.T.EH.N.S. .F.R.AH.M. .B.ER.B.AE.NG. .T.UW. .K.IH.T.OW.M.AH. 
+P.L.IY.Z. .F.AY.N.D. .AH. .F.L.AY.T. .F.R.AH.M. .AA.N. .TH.ER.IY.ER. .T.UW. .W.EH.S.T. .JH.EH.S.CH.ER. .W.AH.T. .M.EY.K. .DH.AH. .S.T.AW.P. .IH.N. .SH.AH.K.AA.G.OW. .AA.N. .M.EY. .EH.V.AH.W.AH. .W.EY.Z. .IH.N.D. 
+L.AY.K. .T.UW. .B.UH.K. .AH. .F.L.AY.T. .F.R.AH.M. .B.ER.B.AE.K. .T.UW.M.IH.L. .W.AO.K.IY. 
+SH.OW. .M.IY. .AO.L. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .B.ER.B.B.AE.K. .T.UW. .M.IH.L. .W.AO.K.IY. 
+F.AY.N.D. .M.IY. .AO.R. .AO.L. .DH.AH. .F.L.AY.T.S. .F.R.AH.M. .M.AH.W.AO.K.IY. .T.UW. .S.EY.M. .L.UW.IH.S. 
+N.AW. .SH.OW.R.IH.NG. .DH.AH. .AO.L. .R.AH. .F.L.AY.T.S. .F.R.AH.M. .S.EY.M. .N.UW.ER.S. .T.UW. .V.ER.V.AE.NG. 
+IH.Z. .DH.EH.R. .W.AH.N. .EH.R.L.AY.N. .DH.AE.T.S. .F.L.AY.Z. .F.R.AH.M. .P.R.ER.V.EH.N.T. .T.UW. .M.IH.L.W.AO.K.IY. .N.OW.W.AO.K.IY. .T.UW. .S.EY. .L.UW.IH.S.AH.N.D. .F.R.AH.M. .S.EY.IH. .L.UW.IH.S. .T.UW.B.ER.V.EY. 
+F.AY.N.D. .M.IY. .OW.L.D.ER. .R.AE.N.T.R.IH.P. .F.L.AY.T.S. .F.R.AH.M. .B.R.AH.AE.K.S. .T.UW. .M.OW.L. .K.W.AO.K.IY. .S.T.AA.F.IH.NG. .AH.N.D. .S.EY.D. .W.IH.DH. .AH.S. 
+AY.D. .L.AY.K. .T.UW. .G.AH.P.EH.R. .F.L.AY.T. .T.UW.EH.S. .CH.AE.K.T.ER. .K.AE.N.AH.L. 
+AY. .W.AO.N.T.IH.D. .B.UH.K. .AH. .F.L.AY.T. .F.R.AH.M. .S.AO.L. .M.EY.K.S. .S.IH.T.IY. .T.UW. .W.EH.S.T.R.EH.S.T.ER. .K.AW.N.T.IH. 
+AY.D. .L.AY.K. .T.UW. .P.OW. .T.UW. .F.L.AY.T. .F.R.AH.M. .S.IH.N.S.AH.N.AE.T.IY.Z. .AH. .N.UW. .Y.AO.R.K. .S.IH.L.IY. .AA.N. .Y.UW.N.AY.T.IY.D. .EH.R.L.AY.N.Z. .F.AO.R. .N.EH.T. .S.AE.T.IH.D.IH.Z. 
+P.L.IY.Z. .F.AY.N.D. .AO.L. .DH.AH. .F.W.AY.T. .F.R.AH.M. .F.R.IH.M.S.AH.N.AE.T.IH. .HH.AO.R. .IH.N. .DH.AH. .EH.R.F.AO.R.IY. .N.UW. .Y.AO.R.K.Z. .T.UW.D. .DH.AH. .EH.R.IY.AH. .DH.AE.T. .ER.AY.V. .N.EH.K.S.T. .S.AE.T.AH.EY. .B.IH.F.AO.R. .S.IH.K.S.T.IY. .EH.M. 
+F.AY.N.L.IH. .W.AY.T. .K.AH.M. .S.IH.N.S.AH.N.AE.T. .L.IH.DH.AH. .EH.R.F.AO.R.T. .IH.N. .DH.AH. .N.UW.Y.AO.R.K. .T.IH.EH.R.IY.AH. 
+AY.D. .L.AY.K. .T.UW. .F.L.AY. .F.R.AH.M. .M.AY.AE.M.IY. .T.UW. .SH.AH.K.AA.G.AH. .W.AA.N. .AH.M.EH.R.IH.K.AH.N. .EH.R.L.AY.N.Z. 
+AY. .W.UH.D. .L.AY.K. .T.UW. .B.UH.K. .ER.AW.N.D. .T.R.IH.P. .F.L.AY.T. .F.R.AH.M. .K.AE.N.Z.AH.S. .S.IH.T.IY. .T.UW. .SH.AH.K.AA.G.G.OW. 
+F.AY.N.D. .M.IY. .AH. .F.L.AY.T. .DH.AE.T. .F.L.AY.Z. .F.R.AH.M. .M.EH.M.F.ER.Z. .T.UW. .DH.AH. .K.OW.M.AH. 
